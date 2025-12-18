@@ -2,6 +2,8 @@ I provide this HTML version of a historical article because it was not easily av
 
 I am not responsible for the transcription or edits otherwise. —Reagle
 
+---
+
 # [DEFENSIVE COMMUNICATION](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
 
 *(Transcribed from a mimeographed paper discovered at the University of Toledo, 4/88. Edited only to reduce gender-specific references. des â€” Note: The original text, with references, appears in Appendix C of the **Trust** book. Jack has said that this article, which came out of research performed for the Office of Naval Research, "has been more widely distributed than any of my other publications.")*
