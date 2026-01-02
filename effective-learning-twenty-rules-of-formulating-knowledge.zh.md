@@ -115,7 +115,7 @@
 **有效构建的知识 - 简单填空**  
 
 问：在地图上标记为白色的非洲国家是哪个？  
-![afryka](https://scillidan.github.io/image_post/effective-learning-twenty-rules-of-formulating-knowledge_01.webp)  
+![afryka](https://scillidan.github.io/cdn_image_post/effective-learning-twenty-rules-of-formulating-knowledge_01.webp)  
 答：坦桑尼亚  
 
 ## 7) 使用记忆技巧
@@ -123,14 +123,14 @@
 记忆技巧是使记忆变得更容易的各种技术。它们通常惊人地有效。对于大多数学生来说，10岁的孩子在记忆一组50张扑克牌时几乎显得像发现了一个年轻天才。令人惊讶的是，发现通过一些训练学习这些技巧是多么简单。这些技巧对每个人都可用，不需要任何特别的技能！在您开始相信掌握这些技巧将为您提供解决遗忘问题的永久解决方案之前，请注意，长期持久且有用的记忆的真正瓶颈不在于快速记忆知识！这确实是更简单的一部分。瓶颈在于保留数月、数年或终生的记忆！要完成后者，您将需要[SuperMemo](https://www.supermemo.com)以及遵守本文中提出的20条规则。关于记忆技巧已经写了很多书籍。也许由托尼·布赞所著的书籍最受欢迎和尊重。您可以在网上搜索关键词，如_心智图、挂钩列表_、_记忆技巧_等。经验表明，在经过一定的训练后，您将仅需要在1-5%的项目中有意识地应用记忆技巧。随着时间的推移，使用记忆技巧将变得自动化！  
 示例心智图：
 
-![](https://scillidan.github.io/image_post/effective-learning-twenty-rules-of-formulating-knowledge_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/effective-learning-twenty-rules-of-formulating-knowledge_02.webp)  
 （_六步心智图_，在[Mind Manager 3.5](http://www.mindman.com/)中生成，导入到SuperMemo 2004，约翰·英格兰，TeamLink 澳洲提供）
 
 ## 8) 图形填空和填空效果一样好
 
 图形填空的原理与填空相似，但它用缺失的图像部分替代缺失的短语。例如，在学习解剖学时，您可以呈现一个复杂的插图，只有小部分缺失。学生的工作就是命名缺失的区域 。相同的插图可以用来制定10-20个项目！每个项目都可以询问图像的一个特定子组件。图形填空在学习地理时效果很好！示例图形填空：
 
-![](https://scillidan.github.io/image_post/effective-learning-twenty-rules-of-formulating-knowledge_03.webp)
+![](https://scillidan.github.io/cdn_image_post/effective-learning-twenty-rules-of-formulating-knowledge_03.webp)
 
 | SuperMemo 2000/2002 | SuperMemo 99 |
 | :- | :- |

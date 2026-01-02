@@ -1,6 +1,6 @@
 # [一个被遗忘的中世纪水果，带着粗俗的名字](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 
-![](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_01.webp)
+![](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_01.webp)
 
 **中世纪的欧洲人对一种只能吃腐烂水果的奇怪水果充满狂热。然后它就被彻底遗忘了。为什么他们如此喜爱它？又为什么它消失了？**
 
@@ -14,7 +14,7 @@
 
 然而，中世纪的欧洲人对这种水果狂热不已。
 
-![Alamy 这种水果经常出现在艺术作品中，例如这幅约1500年的挂毯（图源：Alamy）](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_02.webp)  
+![Alamy 这种水果经常出现在艺术作品中，例如这幅约1500年的挂毯（图源：Alamy）](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_02.webp)  
 这种水果经常出现在艺术作品中，例如这幅约1500年的挂毯（图源：Alamy）
 
 有关梅子存在的第一个记录来自公元前7世纪的一段希腊诗歌。最终这水果被认为是由罗马人带到南法和英国的。在公元800年，查理曼把它列入国王众多花园中必备植物的清单上，而近200年后，英格兰修道院长和作家艾尔弗里克首次把它略显粗俗的名字记录在案。
@@ -31,7 +31,7 @@
 
 是什么让这种奇怪的水果吸引了中世纪的欧洲人，为什么它又消失了？
 
-![Alamy 梅子树容易生长且寿命长，即使是最古老的树种每年也能结出数百个水果（图源：Alamy）](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_03.webp)  
+![Alamy 梅子树容易生长且寿命长，即使是最古老的树种每年也能结出数百个水果（图源：Alamy）](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_03.webp)  
 梅子树容易生长且寿命长，即使是最古老的树种每年也能结出数百个水果（图源：Alamy）
 
 梅子的确切起源尚不清楚，但一些人认为它大约在3000年前在西亚的卡斯皮海地区被驯化——至今那里仍有许多不同种类。
@@ -50,7 +50,7 @@
 
 具体的化学机制尚不清晰，但整体来看，水果中的酶会将复杂的碳水化合物分解为[简单糖如果糖和葡萄糖](https://www.sciencedirect.com/science/article/abs/pii/S0308814603000979)，而且它变得更加富含苹果酸——这是导致其他水果（如苹果）酸味的主要因素。与此同时，苦涩的单宁——使年轻红酒的涩味明显的成分，以及抗氧化剂如抗坏血酸（维生素C）成分则被耗尽。
 
-![Alamy 梅子酱在19世纪末是一个受欢迎的圣诞礼物（图源：Alamy）](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_04.webp)  
+![Alamy 梅子酱在19世纪末是一个受欢迎的圣诞礼物（图源：Alamy）](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_04.webp)  
 梅子酱在19世纪末是一个受欢迎的圣诞礼物（图源：Alamy）
 
 这一过程被称为“变质”（bletting），这个词是由一位植物学家在1839年发明的，因为他注意到当时并没有这样的词。最终的结果是，变成超甜的水果，具有复杂的风味，像是过熟的枣和柠檬混合的味道，还有略微颗粒的口感。“当它们完全成熟时，自己吃是绝对美味的，”2015年种植了120棵梅子树的诺福克果园种植者珍·斯图尔特（Jane Steward）说道——可能是英国最大的一批梅子树收藏。
@@ -61,7 +61,7 @@
 
 还有一个问题是怎么吃梅子。在不那么讲究的场合，人们会直接把一个梅子拿起，吸食果肉。另一方面，在贵族圈子中，这种水果通常在奶酪菜肴上一起上桌——[仍涂满着变质用的锯屑](https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/medlar/)——用勺子挖出来。它也可以被烘焙、烤制，制成果冻，[加入馅饼中](https://britishfoodhistory.com/2017/11/12/forgotten-foods-7-openarses/)，或转化为白兰地或苹果酒。
 
-![Alamy 梅子在中世纪的宴会上是必不可少的（图源：Alamy）](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_05.webp)  
+![Alamy 梅子在中世纪的宴会上是必不可少的（图源：Alamy）](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_05.webp)  
 梅子在中世纪的宴会上是必不可少的（图源：Alamy）
 
 除了与水果下许多粗俗外号的明显性暗示之外，人们认为梅子奇特的腐烂需求部分解释了它为何出现在许多文学作品中——中世纪的观众喜爱一种在成熟之前就已腐烂的水果的象征。在乔叟的《坎特伯雷故事集》中，他将其与水果作比较——"[但如果我像开屁股那样过活](http://www.librarius.com/canttran/reevtale/reevtale001-044.htm)"——来感慨衰老的到来，以及他认为人们在虚弱和年老之前无法完全发嫉妒、夸口和生气。
@@ -74,7 +74,7 @@
 
 今天，梅子树仍然零星分布在欧洲，有时伪装成乡间的篱笆或花园水景——它们仍然在这里，但必须追踪才能找到。斯图尔特喜爱的树在诺福克的朗格利修道院种植于1820年左右。“200年后，它仍在结出果实——这美得令人窒息，”她说。
 
-![Alamy 每个梅子果实包含四或五颗大种子（图源：Alamy）](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_06.webp)  
+![Alamy 每个梅子果实包含四或五颗大种子（图源：Alamy）](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_06.webp)  
 每个梅子果实包含四或五颗大种子（图源：Alamy）
 
 但这并不是故事的结尾。

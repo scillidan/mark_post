@@ -25,7 +25,7 @@
 5. 释放时，吸气，双臂再打开。
 6. 呼气，左臂在上，重复。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_01.webp)  
 图片来源：Active Body, Creative Mind
 
 ## 2. 颈部拉伸
@@ -41,13 +41,13 @@
 5. 保持这个姿势五次呼吸。
 6. 在另一侧重复。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_02.webp)  
 图片来源：Active Body, Creative Mind
 
 1. 将下巴垂向胸部，保持五次呼吸。
 2. 恢复到中立位置，轻轻地将头向后仰五次呼吸。 
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_03.webp)  
 图片来源：Active Body, Creative Mind
 
 ## 3. 跪姿背部拉伸
@@ -62,7 +62,7 @@
 4. 保持这个拉伸姿势30秒。
 5. 重复1到3次。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_04.webp)  
 图片来源：Active Body, Creative Mind
 
 ## 4. 儿童式
@@ -77,7 +77,7 @@
 4. 深呼吸，保持这个姿势，注意你背部的任何不适或紧绷的区域。
 5. 保持此姿势最多5分钟。你也可以在其他拉伸之间采取此姿势，以给身体一段时间休息。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_05.webp)  
 图片来源：Active Body, Creative Mind
 
 ## 5. 低位弓步
@@ -93,7 +93,7 @@
 5. 保持这个姿势五次呼吸。
 6. 在另一侧重复。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_06.webp)  
 图片来源：Active Body, Creative Mind
 
 ## 6. 坐姿前倾拉伸
@@ -120,7 +120,7 @@
 4. 双手保持在任何舒适的位置。
 5. 保持此姿势最多10分钟。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_07.webp)  
 图片来源：Active Body, Creative Mind
 
 ## 8. 倒坐拱脚
@@ -135,7 +135,7 @@
 4. 深呼吸，专注于放松臀部和大腿。
 5. 保持此姿势最多10分钟。
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_08.webp)  
 图片来源：Active Body, Creative Mind
 
 [GPT-4o mini]

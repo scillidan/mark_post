@@ -40,7 +40,7 @@ Each category is individually optimized to death to drop every possible gram of 
 
 So I'm going to make my first strong recommendation: **don't buy a bike that fits into any of the racing categories I listed above**. At least, not unless you want to waste money on optimisations you don't need. The only racing category that seems to have any overlap with practical bike needs is gravel, because it's the youngest category, with the least racing infrastructure build around it for components and events. But the industry is catching on.
 
-![A mountain bike. Not technically for racing, but expensive and specialised enough that it may as well be.](https://scillidan.github.io/image_post/not-a-bicyclist-s-guide-to-bicycles_01.webp)  
+![A mountain bike. Not technically for racing, but expensive and specialised enough that it may as well be.](https://scillidan.github.io/cdn_image_post/not-a-bicyclist-s-guide-to-bicycles_01.webp)  
 A mountain bike. Not technically for racing, but expensive and specialised enough that it may as well be.
 
 The astute reader may have noticed that I omitted one popular bike genre from the above list: hybrid bikes. I'm going to make my second strong recommendation for hybrid bikes: **do not buy a hybrid bike**. Hybrid bikes aren't designed to be good at anything. In fact, they're designed explicitly to be _bad_ at racing! The big bike makers only make them to lower the price of the cheapest bike in their inventories to lure people in the bike shop door. To hit that price point, bike makers take a racing bike, then swap out expensive components for the cheapest equivalents. They are not good, because that is not how you build a nice bike.
@@ -53,7 +53,7 @@ If you're unfortunate enough to buy a hybrid bike or what Big Bikes calls a 'com
 
 ## What to Look For
 
-![Metal frame. No suspension. Big tires. Mount points for racks. Rim brakes. No batteries.](https://scillidan.github.io/image_post/not-a-bicyclist-s-guide-to-bicycles_02.webp)  
+![Metal frame. No suspension. Big tires. Mount points for racks. Rim brakes. No batteries.](https://scillidan.github.io/cdn_image_post/not-a-bicyclist-s-guide-to-bicycles_02.webp)  
 Metal frame. No suspension. Big tires. Mount points for racks. Rim brakes. No batteries.
 
 When it comes to bikes, particularly commuters or recreational bikes, simpler is better. What do I mean by that?
@@ -109,14 +109,14 @@ Now you know what to look for in a bike. But what should you worry about after b
   - If you never want to worry about a battery, dynamos are amazing these days. But expensive. Best used for touring bikes, or the truly battery-intolerant daily commuter.
 - Kickstands rule, if you ever like to stop away from a bike rack. Do you go to the park? Get a kickstand.
 
-![Typical bikes in Copenhagen, Denmark. Used to get around the city instead of cars. Notice that they also have a metal frame, no suspension, big tires, rim brakes, and no batteries. Great handlebars.](https://scillidan.github.io/image_post/not-a-bicyclist-s-guide-to-bicycles_03.webp)  
+![Typical bikes in Copenhagen, Denmark. Used to get around the city instead of cars. Notice that they also have a metal frame, no suspension, big tires, rim brakes, and no batteries. Great handlebars.](https://scillidan.github.io/cdn_image_post/not-a-bicyclist-s-guide-to-bicycles_03.webp)  
 Typical bikes in Copenhagen, Denmark. Used to get around the city instead of cars. Notice that they also have a metal frame, no suspension, big tires, rim brakes, and no batteries. Great handlebars.
 
 ## Bike Recommendations
 
 So, after all of this advice, what bike should you buy?
 
-![A good buy. Metal frame. No suspension. Big tires. Rim brakes. No batteries.](https://scillidan.github.io/image_post/not-a-bicyclist-s-guide-to-bicycles_04.webp)  
+![A good buy. Metal frame. No suspension. Big tires. Rim brakes. No batteries.](https://scillidan.github.io/cdn_image_post/not-a-bicyclist-s-guide-to-bicycles_04.webp)  
 A good buy. Metal frame. No suspension. Big tires. Rim brakes. No batteries.
 
 Like cars, you should seriously consider buying used. Craigslist and Facebook Marketplace have the best deals. Look for bikes with way too many pictures and way too long a description, because it means that the bike was owned or refurbished by a bike nerd. Avoid bikes with only a single picture, or with non-nerdy descriptions, because there's a decent chance they're stolen or sold by someone who hasn't maintained them well. Leave the 'hidden gem' bikes to the bike nerds -- you don't want to take that chance with your daily driver.
@@ -135,7 +135,7 @@ There are a lot of bike brands out there. Some are Big Bike brands that you shou
 - The fancy option ($2000+): [Rivendell](https://www.rivbike.com/) is about as good as it gets for commuters. You likely won't get all of Grant's design decisions now -- threaded headets, older bottom bracket standards, antique wheel spacing, rim brakes, etc. all seem like retrogrouch nonsense until you've fixed and broken fancy new components a million times. Buy one of these and you can ride it every day until you die (old and healthy and with full pockets due to your reduced maintenance costs).
 - The folding fancy option ($1500+): [Brompton](https://www.brompton.com/) makes battle-tested, proven reliable folding bikes for folks who want to take a bike on public transit, into the office, and even into the pub without much faff. And, of course, they last freakin' forever. 20-30 year old bromptons go for prices similar to the modern equivalents because they basically never die.
 
-![An excellent buy. Metal frame. No suspension. Rear fender. High, swept-back handlebars. Friction shifting. Big tires. Disc brakes. No batteries.](https://scillidan.github.io/image_post/not-a-bicyclist-s-guide-to-bicycles_05.webp)  
+![An excellent buy. Metal frame. No suspension. Rear fender. High, swept-back handlebars. Friction shifting. Big tires. Disc brakes. No batteries.](https://scillidan.github.io/cdn_image_post/not-a-bicyclist-s-guide-to-bicycles_05.webp)  
 An excellent buy. Metal frame. No suspension. Rear fender. High, swept-back handlebars. Friction shifting. Big tires. Disc brakes. No batteries.
 
 There are other good brands out there. But most brands sell cheap plastic garbage that will break and wind up in a landfill in 5-10 years. All of the options above should last you a lifetime.

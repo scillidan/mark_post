@@ -16,7 +16,7 @@
 
 以下图片高层次地解释了Cookies是如何工作的。
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_01.webp)  
 _图片1. Cookies如何形成的高层次定义_  
 _来源: Cookieyes。检查图片左下角的源URL_
 
@@ -32,12 +32,12 @@ Cookies主要用于：
 
 - **C:\\Users\\\[用户名\]\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Network**
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_02.webp)  
 _图片2. 当浏览到文件路径时，应期望看到这样的文件_
 
 通常，你可以使用浏览器界面管理、查看或删除Cookies。
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_03.webp)  
 _图片3. Microsoft Edge浏览器设置中的Cookies_
 
 #### Cookie属性
@@ -58,13 +58,13 @@ Cookies有一些属性（有时也称为标志），这些属性非常重要，�
 
 你可以通过右键单击并选择“_检查_” > “_应用_” > “_存储_” > “_Cookies_”来查看你正在浏览网站的Cookies。当你选择一行时，可以在页面底部查看值（_见图片5._）
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_04.webp)  
 _图片4. 网站“检查”将让你查看该特定网站的Cookies以及用户接受的Cookie同意_
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_05.webp)  
 _图片5. Cookie同意也很明显_
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_06.webp)  
 _图片6. 打开Google Chrome浏览器后自动打开www.google.com网站并检查活动Cookies的结果！_
 
 ### Cookies的类型
@@ -142,10 +142,10 @@ Tokens是自包含和紧凑的JSON对象，用于信息交换。典型的Token�
 
 **OpenID Connect**扩展了OAuth 2.0授权协议，使其也作为一种身份验证协议，使用ID Token。OpenID Connect登录流程用于获取ID Token，该Token被发送到验证用户身份的应用程序。
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_07.webp)  
 _OpenID Connect登录流程。来源: Microsoft Learn_
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_08.webp)  
 _登录流程后，通过OAuth授权流程获取访问Token。来源: Microsoft Learn_
 
 ### Tokens解决的问题
@@ -176,7 +176,7 @@ Microsoft有两个版本的ID Tokens，这两个版本具有不同的端点。�
 - v1.0 **https://login.microsoftonline.com/common/oauth2/authorize**
 - v2.0 **https://login.microsoftonline.com/common/oauth2/v2.0/authorize**
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_09.webp)
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_09.webp)
 
 _用户正在登录到Web应用程序，该应用程序会将用户重定向到Entra ID以完成身份验证。一旦验证成功，Entra ID将发出ID Token并将其发送给客户端（浏览器）。浏览器不会尝试理解ID Token，而只是将其发送到Web服务器。_
 
@@ -257,19 +257,19 @@ HMACSHA256(
 
 以下截图显示了左侧的已签名JWT，以及右侧的头部、有效载荷和签名。
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_10.webp)  
 _你可以在已签名JWT中看到所有三个部分，其中不同部分用句点(.)分开_
 
 ### 示例Token
 
 查看JWT的最简单方法是访问Microsoft Graph Explorer [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)并登录。登录后，我们运行“**获取我的个人资料**”查询并打开**访问Token**选项卡，复制Token。
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_11.webp)  
 _部分访问Token出于安全卫生原因已被屏蔽_
 
 然后，我们进入 [https://jwt.ms](https://jwt.ms)，并粘贴Token。
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_12.webp)  
 __部分访问Token出于安全卫生原因已被屏蔽__
 
 在我们粘贴的Token下面是解码的Token内容，以及“声明”选项卡，解释了声明缩写，如“oid”、“uti”等。从下面的Token中，我们可以推断出以下内容：
@@ -282,7 +282,7 @@ __部分访问Token出于安全卫生原因已被屏蔽__
 - **“scp”: “openid profile User.Read email”** 列出了应用程序（Graph Explorer）请求的API作用域以及同意的内容和Microsoft Graph已公开的内容
 - **“ver”: “1.0”** 表示Token版本
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_13.webp)
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_13.webp)
 
 ```
 **小贴士！** 我注意到我获取的所有Token的发行者都是**sts.windows.net**。我原以为它应该是**login.microsoftonline.com**。快速研究指向**accessTokenAcceptedVersion**参数，该参数似乎控制Token发行端点。稍后需要更多测试来确认，但目前似乎是这样工作的：  
@@ -291,7 +291,7 @@ __部分访问Token出于安全卫生原因已被屏蔽__
 值 **2** 表示版本2.0（login.microsoftonline.com）
 ```
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_14.webp)  
 _应用程序注册清单配置_
 
 ### JWT的安全隐患

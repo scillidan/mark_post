@@ -37,7 +37,7 @@
 
 然而，最近的研究改变了这一看法。在过去的几十年里，一种两域树的观点占据了主导，真核生物是在古菌内部出现，而非与其并存。这一理论得到了最近努力揭示我们最新的原核祖先身份的支持——那个首次包围细菌的古老细胞，从而形成了真核细胞类型。在过去十年里，[Asgard古菌的发现](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/)为我们提供了valuable线索，它们是我们最近的原核亲属。
 
-![](https://scillidan.github.io/image_post/meet-the-eukaryote-the-first-cell-to-get-organized_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/meet-the-eukaryote-the-first-cell-to-get-organized_03.webp)  
 Mark Belan/*量子杂志*；来源：5W信息图
 
 2015年，Ettema在大西洋底部的硫化物烟囱中寻找那个神秘的第一个宿主细胞。水下热泉是良好的候选地点，因为它们喷出富含化学能的热水，一些原核生物可以利用它自我获取能量。他的团队从被称为洛基城的地点采集了微生物污泥。在实验室中，他们使用了一种称为宏基因组学的技术，解开了这些微生物DNA的混乱，重建了单个细胞的基因组。

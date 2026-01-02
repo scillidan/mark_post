@@ -1,6 +1,6 @@
 # [我们在下水道中发现的](https://www.asimov.press/p/sewers)
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_01.webp)
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_01.webp)
 
 > 下水道是城市的良知，一切在那儿汇聚并相互对抗。
 > 
@@ -28,7 +28,7 @@
 
 尽管今天下水道处理较少被考虑的组成部分，但在铁器时代的城镇中，排水是至关重要的。静止的水为蚊子、害虫和疾病提供了理想的滋生地。此外，滞留在表面的水逐渐削弱了建筑基础，导致泥土或粪土墙的侵蚀，增加了损坏或倒塌的风险。道路中间或侧面开挖的沟渠用于把这些水引出城门。排泄物则往往被运送到田地。例如，古耶路撒冷有一个专门的[粪便之门](https://jerusalemfoundation.org/old-project/dung-gate/)用于这个目的。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_02.webp)  
 耶路撒冷的粪便之门，在1952年扩建之前。
 
 在南亚，印度河流域文明（公元前2600-1900年）开发了更为复杂的系统。现代巴基斯坦的摩亨佐达罗等城市拥有网格规划的街道、标准化的烧制砖建筑，尤其是复杂的覆盖排水网络，为[3万到4万人](https://global.oup.com/academic/product/the-oxford-handbook-of-cities-in-world-history-9780199589531?cc=us&lang=en&)服务。
@@ -39,7 +39,7 @@
 
 罗马人自己意识到了这一点，因为最大的一座罗马下水道，汇聚着罗马的垃圾，被[斯特拉博](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5C*.html#3.8.2)描述得像是一条河流能够流过的那样大。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_03.webp)  
 罗马的克洛阿卡·马克西玛，由乔瓦尼·巴蒂斯塔·皮拉内西刻画。
 
 在这条下水道中，罗马人将动物粪便、屠宰场和肉铺的血液、工业废物、污垢和垃圾等都倾倒了进去。然而，移除人类排泄物是罗马巨大下水道系统的一个_次要目的_。罗马的私人厕所非常少，这会带来管道阻塞、异味、害虫及气体积聚导致爆炸的风险。因此，[历史学家假设](https://ngwa.onlinelibrary.wiley.com/doi/10.1111/gwat.12958)大多数罗马人使用有限的公共设施，尽管“有大量证据表明，很多人在街道、门口、坟墓甚至雕像后面解手”。
@@ -60,7 +60,7 @@
 
 盐peter在海上贸易中占据极其重要的地位，按照东印度商人标淮，船舶货物空间的16%被分配给它。有时，盐peter会装在重袋中运输，但更常见的是干散装运输到船舱，既是货物又是压舱物，并且散发出强烈的污水气味。在热带条件下航行的商船上，这种气味被水手和旅行者戏称为“[船的气味](https://go.gale.com/ps/i.do?id=GALE%7CA209404380&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00182370&p=AONE&sw=w&userGroupName=anon%7Ebd6ec801&aty=open-web-entry)”。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_04.webp)  
 盐peter运输船“东部君主”在英国斯匹特海岸起火。
 
 然而，随着对盐peter开采的需求减少，人口——及其废物——激增。伦敦的人口从1500年的50,000人增长到1800年的超过100万，并且增加了对马匹的[使用](https://etheses.whiterose.ac.uk/id/eprint/19496/1/AlmerothWilliams_Horses%20%26%20Livestock%20in%20Hanoverian%20London.pdf)，造成前所未有的污水量。
@@ -75,24 +75,24 @@
 
 污水病原体所造成的死亡激励了一种新的卫生改革者流派，他们开创了新兴的医学统计领域，以改善城市贫困居民的生活。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_05.webp)  
 两名夜间工在伦敦清理蓄粪池中的人类废物。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_06.webp)  
 威廉·伍德沃德的贸易卡，其中他是夜间工之一；一个劳工，收费收集蓄粪池和户外厕的废物。信用：威尔康收藏
 
 此时，首要的卫生运动者是埃德温·查德威克。作为社会改革者与法学家杰里米·边沁的门徒，查德威克开创了系统调查的使用来支持他的社会运动，并对传统的地方土地所有者主导的教区政府进行抨击，认为这是不进步的。在他对英国贫困法的改革中，用严格的集中化工作场所代替了由地方纳税人资助的慷慨社会福利计划，查德威克转向了糟糕的卫生问题，他主张这增加了贫困法的成本，使工人们生病，造成霍乱的寡妇和孤儿。
 
 查德威克的主要创新之一是利用新兴的统计学来支持他的论点。该领域的基础是收集有关国家的数据而不是以往通过无序的方法治理。查德威克转向新任总注册处的统计学家威廉·法尔，请他帮助写报告，使他的名字鹤立鸡群，同时开创公共卫生领域。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_07.webp)  
 埃德温·查德威克爵士
 
 1842年发布的《[劳工人口的卫生状况报告](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/health-02/)》证明了许多事情：贫困的教区未排水的街道有反复爆发的斑疹伤寒和霍乱，而且预期寿命低于排水良好的富裕地区。
 
 更重要的是，查德威克对伦敦污水问题的描述具有修辞和现实的威力，被形容为“一座巨大的缺陷管理和奢侈支出且极为缺陷的实施的丰碑”。除了这种尖锐的批评，他还阐明了如何利用地形建造更有效的下水道，强调了保持持续向下的坡度以防止淤积和沉积的问题，使水运污水既实用又经济。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_08.webp)  
 查德威克1842年报告中打印的一张表，显示了各种类型商人的死亡情况。
 
 1842年报告取得了[巨大的成功](https://www.amazon.com/Great-Stink-London-Bazalgette-Metropolis/dp/0750919752)。超过20,000份副本被售出。立法者还通过了1844年的《伦敦建筑法》，要求新建筑将排水连接至下水道，以及1846年的霍乱法案，通过赋予英王理事会可强制执行的权力，第一次让王室接受对其臣民健康的责任。
@@ -103,17 +103,17 @@
 
 这一僵局只有在1858年[伦敦遭遇异常炎热干燥的夏季](https://www.jstor.org/stable/j.ctt1r33q2c)后被打破。泰晤士河的气味，在被称为“伦敦大下水道”的43年里，变得根据查尔斯·狄更斯的说法，“令人严重恶心。”当时，许多在国会大厦工作的议员认为，恶臭是霍乱和伤寒等疾病的根源（即瘴气理论）。他们发现附近的泰晤士河的恶臭令他们不安，以至于迅速解除对巴扎尔盖特的限制，授予他新的大都市工程委员会筹集资金的权利，并消除[国会和地方政府的否决权](https://books.google.co.uk/books/about/The_Great_Stink_of_London.html?id=q5XeAAAAMAAJ&redir_esc=y)。[^8]
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_09.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_09.webp)  
 约瑟夫·巴扎尔盖特
 
 下水道的建设是一项浩大而令人印象深刻的工程。每条河两侧的主下水道被分为高、中、低海拔隧道，这些隧道由巨大的泵站连接。这一点对于防止历史下水道所遭遇的问题至关重要，历史下水道未保持一致的斜坡，导致沉积和阻塞。这些隧道还必须设计为可以绕过先前存在的地下障碍，如伦敦的运河和地下线路。这些新下水道将废水引入泰晤士河河岸，在新的堤岸下修建的截流污水管能够在将污水引入城市之外之前拦截污水。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_10.webp)  
 伦敦隧道内部。该隧道包括气体、水供应和污水的管道。铁路车辆用于运输材料和维修工具。
 
 巴扎尔盖特的设计之所以得到最大的赞誉，是因为他预计到未来人口的增长。在规划下水道时，巴扎尔盖特必须对该地区未来的人口进行预测，以满足他们的水需求和排水要求。他为25%高于当时生活在伦敦的人口设计了他的系统，使用每天30加仑的水。然而到他去世时（1891年），人口的增长比他预测的要高20%，使用量高达每天90加仑。尽管如此，他的设计使其满足了大幅增加的需求，并且在有限的升级情况下可以应对21世纪超过1000万的人口。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_11.webp)  
 用于将污水提升至不同水平的美丽泵站，被描述为“铁制的维多利亚教堂”。
 
 尽管下水道正在建设，推动其建设的人们对它的看法开始改变。
@@ -122,7 +122,7 @@
 
 他的工作被一代新兴的统计学医生接手，他们首先开始挑战瘴气理论。然而，前任的观点并非完全建立在迷信之上。威廉·法尔曾发表有影响力的地图，显示海平面以上的高度与霍乱死亡率成负相关，似乎为受污染的空气概念提供了信心。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_12.webp)  
 威廉·法尔
 
 最早证明瘴气对健康无害的是约翰·斯诺医生。作为一名英国家庭医生和早期麻醉师，斯诺在当学徒时经历了一场霍乱疫情。霍乱于1831年从印度传入英国，在维多利亚时代的英国造成了巨大的恐慌。它似乎随机发生，无法治疗，导致腹泻和脱水致死。
@@ -131,7 +131,7 @@
 
 斯诺提出这一理论的机会出现在1854年的索霍霍乱疫情中，当时数百人在几天内死亡。利用现在被称为流行病学的方法（记录病历和疾病发生地），他将疫情追溯到布劳德街的水泵。他说服当地理事会移除水泵手柄，之后疫情很快减退。尽管这并不能证明他的理论，但它提供了一个引人注目的案例。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_13.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_13.webp)  
 约翰·斯诺的霍乱地图，1854年。点表示霍乱病例。被污染的水泵位于布劳德街和列克星敦街的交界处。
 
 尽管法尔非常信奉瘴气理论，但他是少数认真对待斯诺工作的人之一，并开始统计地检查不同水供应商的霍乱死亡情况，比较南华克和沃克索公司的水源，前者取水于泰晤士河的污染区，而后者则取水于更为清洁的上游水源。他的分析在1850年代中期发表，显示使用更脏供应水的人群，霍乱死亡率要高得多，这为斯诺的理论提供了数据支持。
@@ -158,7 +158,7 @@
 
 这最终导致[活性污泥法](https://www.jstor.org/stable/25041901)的发现，由英国化学家爱德华·阿登和威廉·T·洛凯特于1913年提出。在进行充气实验时，阿登和洛凯特注意到，向污水瓶中注入空气反而增加了水的混浊度。添加氧气到未经处理的污水中可以促使有益的好氧细菌生长，形成密集的生物团（称为“絮状物”），这些生物能够有效地消耗有机废物。当这种物质沉淀后，可以被重新使用于新的污水批次，从而显著加快过程并迅速降低BOD。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_14.webp)  
 一名污水处理厂操作员准备测量污水沉淀池中活性污泥的深度。
 
 他们本质上偶然发现了一个自我维持的、高效的生物处理系统。与常用的滴滤法相比，活性污泥法通过机械供气的方式实现了更持续的混合和供氧。这反过来又允许更高的生物量浓度能更快地分解物质。
@@ -167,7 +167,7 @@
 
 对废水再利用的下降与工业化农业的崛起并非巧合。哈伯-博施过程（[Haber-Bosch process](https://en.wikipedia.org/wiki/History_of_the_Haber_process)）的发展，恰逢1913年，使合成氮肥的大规模生产成为可能，从而减少了对有机废物的依赖。但这形成了一个讽刺的循环：城市如今花费大量的能源去除污水中的氮，尽管以前被视为肥料的价值。随着新兴的施肥农田的方式，废物不再是经济资产，而是环境问题。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_15.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_15.webp)  
 英格兰兰开夏的一家现代污水处理厂。
 
 尽管哈伯-博施过程催生了[绿色革命](https://mlpp.pressbooks.pub/americanenvironmentalhistory/chapter/chapter-8-green-revolution/)和随之而来的人口爆炸，但这一过程在金钱和能源上依然极其沉重。它目前消耗全球能源的约2%，而约70%的氨则[用于农业](https://www.iea.org/reports/ammonia-technology-roadmap)。尽管65%的肥料中氮会[因径流而流失](https://ourworldindata.org/excess-fertilizer)，多达[80%](https://pmc.ncbi.nlm.nih.gov/articles/PMC5697967/#:~:text=Urinary%20nitrogen%20is%20excreted%20at,balance%20(7%2C%2013).)的膳食氮则会被排泄，随后在市政污水处理厂中被反硝化，也就是使用约3-5%的城市能源。这意味着，每年生产的氨中至少有19%因污水反硝化而以气体状态流失。
@@ -214,7 +214,7 @@
 
 美国在处理新冠废水数据的过程中所学到的许多经验教训被应用到了2024年德克萨斯州[H5N1奶牛疫情](https://www.nejm.org/doi/full/10.1056/NEJMc2405937)中。研究者监测中发现许多病毒的污水能够在任何人类病例出现之前，于城市地区检测出H5N1疫情，且在其他手段检测之前。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_16.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_16.webp)  
 2023和2024年德克萨斯州污水中发现多种流感A病毒。信用：[Tisza M.J.](https://www.nejm.org/doi/full/10.1056/NEJMc2405937) _[等人](https://www.nejm.org/doi/full/10.1056/NEJMc2405937)_ [(2024)](https://www.nejm.org/doi/full/10.1056/NEJMc2405937) _[NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2405937)_。
 
 最终，WBE项目面临的许多困难源于从降解信息质量与分辨率的环境中提取数据的挑战。有一个有效的WBE项目需要将采样地点拉近至邻里、医院、住所，甚至是[个人](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html)，对数据进行分解，以提供对个体健康的更高分辨率。实现这一目标需要观念的改变，将排泄物视为我们能够阅读以了解社区健康的另一种数据流。
@@ -225,7 +225,7 @@
 
 这种演变标志着返回到更古老的逻辑，然而在现代科学的更新下：我们所冲走的不仅是污垢，还有信息、能量与机会。巴扎尔盖特的成就是他那个时代的奇迹，但现在，污水是一个不可浪费的宝贵资源。下一位伟大的土木工程师将是那个能够矛盾重重地将污水*重新*带入人类生活的人，使其得以被检测和开采，恢复其对制造者的价值。
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_17.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_17.webp)  
 巴扎尔盖特在威克巷的截面图，发表于《插图伦敦新闻》（1859年）。这是伦敦新下水道系统的一部分，展示了该项目的高砖拱形结构。
 
 ---

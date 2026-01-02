@@ -2,7 +2,7 @@
 
 If you're working in a team using the Scrum framework, you use story points to estimate effort on your stories, tasks, etc. Some management also takes this into account and does planning, measures your productivity, and even keeps you accountable when something is done. Yet, they need to learn that software estimations are always wrong.
 
-![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_01.webp)
+![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_01.webp)
 
 The main reason is that estimations are **forecasts**, which are predictions of an unknown future. Yet we all know it is impossible to see the end, but people tend to forget this and make commitments based on estimations.
 
@@ -21,7 +21,7 @@ Yet, there are some other things **why estimations fail**:
 
 In addition, we have to deal with **The Cone Of Uncertainty** (introduced to the software development community by [Steve McConnell](http://www.stevemcconnell.com/)). Usually, at the early stages of the project, we still don’t understand all the requirements, but we need to make many decisions. Here, the uncertainty is high. As the project progresses, we have more information, and uncertainty decreases.
 
-![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_02.webp)  
 The Cone of Uncertainty
 
 > ⚠️ _Note that in the book “[The Leprechauns of Software Engineering](https://leanpub.com/leprechauns)”, the author claims the “cone of uncertainty” was never based on solid data. It started as a subjective guess by Barry Boehm, and Steve McConnell popularized it through his 1996 book "Rapid Development."_
@@ -54,7 +54,7 @@ In addition to this, my experience said the following:
 
 **Estimation = complexity + uncertainty**
 
-[![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_03.webp)](https://amzn.to/3O0y2SV)  
+[![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_03.webp)](https://amzn.to/3O0y2SV)  
 "Software Estimation Without Guessing" by George Dinwiddie
 
 In addition to everything above, Vasco Duarte, in his book “**[NoEstimates: How to Measure Project Progress Without Estimating](https://amzn.to/3NWeuyM)**,” suggested an alternative approach.
@@ -63,6 +63,6 @@ He is arguing against traditional methods of estimation, like **story points**. 
 
 Measurement should be based on throughput, the number of tasks completed within a set time frame, cycle times, and how long a job takes from inception to completion. A visual system like **Kanban** can help track progress and identify bottlenecks. **Regular retrospectives and feedback** enable continuous improvement, reinforcing the importance of iterative development to facilitate rapid delivery of small, incremental value.
 
-![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_04.webp)  
 “NoEstimates: How To Measure Project Progress Without Estimating,” by Vasco Duarte
 

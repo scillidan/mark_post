@@ -12,7 +12,7 @@ Those who work in ports or on the water have a good view of the proceedings; tug
 
 “The sides of ships have their own sort of beauty,” says photographer David Webster Smith, who is also a San Francisco tugboat engineer. “As soon as I can, I get my camera out.”
 
-[![name on the back of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_01.webp)](https://hakaimagazine.com/wp-content/uploads/2-naming-reading-ships.jpg)
+[![name on the back of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_01.webp)](https://hakaimagazine.com/wp-content/uploads/2-naming-reading-ships.jpg)
 
 Most ships have clues to their identity emblazoned on their stern, often in the same order: owner, name, port (or “flag”), and International Maritime Organization (IMO) number. American President Lines (APL) owns this ship, christened the _Mexico City_, and it sails under the flag of Singapore.
 
@@ -20,7 +20,7 @@ The owner, name, and flag may change over a ship’s lifespan, but the IMO numbe
 
 Curious about those yellow-green, fortune-cookie-shaped objects along the lines? They’re anti-rat devices, foiling rodent attempts to scrabble from dock to line to ship.
 
-[![rear view of a container ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_02.webp)](https://hakaimagazine.com/wp-content/uploads/3-port-of-convenience-reading-ships.jpg)
+[![rear view of a container ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_02.webp)](https://hakaimagazine.com/wp-content/uploads/3-port-of-convenience-reading-ships.jpg)
 
 Why would a ship owned by a South Korean company (Hanjin) list its port as Panama?
 
@@ -30,7 +30,7 @@ By far the most popular flag of convenience is Panama, with Liberia and the Mars
 
 There’s another thing about this ship worth mentioning. See the crew members up on deck, at the far left and right of the photo? They’re actually dummies dressed as mariners, meant to fool pirates into thinking someone is always on watch.
 
-[![plimsoll lines on the side of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_03.webp)](https://hakaimagazine.com/wp-content/uploads/4-plimsoll-reading-ships.jpg)
+[![plimsoll lines on the side of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_03.webp)](https://hakaimagazine.com/wp-content/uploads/4-plimsoll-reading-ships.jpg)
 
 These marks, called load lines, show the maximum load a ship can carry.
 
@@ -42,7 +42,7 @@ The marks and letters to the right of the circle indicate maximum loads under di
 
 W marks the maximum load in winter temperate seawater, S in summer temperate seawater, T in tropical seawater, F in fresh water, and TF in tropical fresh water, like that of the Amazon River.
 
-[![bulbous bow of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_04.webp)](https://hakaimagazine.com/wp-content/uploads/5-bulbous-bow-reading-ships.jpg)
+[![bulbous bow of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_04.webp)](https://hakaimagazine.com/wp-content/uploads/5-bulbous-bow-reading-ships.jpg)
 
 This ship is equipped with what’s called a bulbous bow, a protrusion low on the bow. Contrary to its ungainly appearance, the bulb actually reduces drag, increasing speed and fuel efficiency.
 
@@ -50,7 +50,7 @@ The white symbol that looks like the numeral five without the top line alerts tu
 
 The white circle with an X inside signals the presence of a bow thruster, a propulsion device that helps the boat maneuver sideways, a boon for getting on and off docks.
 
-[![draft lines on the side of ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_05.webp)](https://hakaimagazine.com/wp-content/uploads/6-draftlines-reading-ships.jpg)
+[![draft lines on the side of ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_05.webp)](https://hakaimagazine.com/wp-content/uploads/6-draftlines-reading-ships.jpg)
 
 The numbers arranged in a vertical line—called draft marks—measure the distance between the bottom of the hull (the keel) and the waterline. If the water comes up to the 10-meter line, for example, that means 10 meters of the ship is underwater.
 
@@ -58,17 +58,17 @@ Where the water hits the draft lines tells sailors if the ship is overloaded, an
 
 To the left of the draft lines are different versions of the bulbous bow and bow thruster symbols. BT|FP tells you the position of the bow thruster: between the ballast tank (BT) and the forepeak (FP), the forwardmost part of the ship. It’s important for a tugboat operator to know the location of the bow thruster, as it creates turbulence that the tug would rather avoid.
 
-[![side of a tanker ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_06.webp)](https://hakaimagazine.com/wp-content/uploads/7-tanker-reading-ships.jpg)
+[![side of a tanker ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_06.webp)](https://hakaimagazine.com/wp-content/uploads/7-tanker-reading-ships.jpg)
 
 Two tugboats approach an oil tanker near the Richmond-San Rafael Bridge. This photo is taken from a third tug that’s moving in on the ship, guided by white arrows pointing to “chocks” that house small but strong posts called “bitts.” The tug fastens lines to these bitts.
 
 SWL 50t means that the safe working load for each bitt is 50 tonnes. Once the tug has fastened a line to the bitt, it will exert no more than 50 tonnes of pulling pressure as it helps the ship brake or negotiate docking.
 
-[![pigeon hole ladder on the side of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_07.webp)](https://hakaimagazine.com/wp-content/uploads/8-pigeon-holes-reading-ships.jpg)
+[![pigeon hole ladder on the side of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_07.webp)](https://hakaimagazine.com/wp-content/uploads/8-pigeon-holes-reading-ships.jpg)
 
 Are these bird cubbies, rusting in the sea air? Not quite. The cavities are, however, known as pigeonholes. They’re part of an in-hull ladder that allows mariners to climb up the side of a barge. Unlike cargo ships, flat-bottom barges are not self-propelled. They’re usually towed or pushed by tugboats, though in the early days they were hauled up rivers and canals by horses, mules, or donkeys on an adjacent towpath. Though barges are often unstaffed, they occasionally must be boarded, for instance when a line needs to be thrown down to a dockworker. Pigeonholes give the boarders a leg up.
 
-[![paint on the side of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_08.webp)](https://hakaimagazine.com/wp-content/uploads/9-paint-reading-ships.jpg)
+[![paint on the side of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_08.webp)](https://hakaimagazine.com/wp-content/uploads/9-paint-reading-ships.jpg)
 
 A ship’s paint job isn’t primarily about aesthetics or branding. When you see this two-toned effect, the paint closer to the waterline is often of a different chemical composition, one that holds up better to immersion. Even more than preventing corrosion, a hull coating that may be underwater has to guard against the slime, algae, and barnacles that cling fast to a friendly hull.
 
@@ -76,7 +76,7 @@ What’s so bad about shellfish and microorganisms hitching a ride? The crusting
 
 Enter preventive measures, like antifouling paint. Early iterations contained copper and even arsenic, which effectively poisoned the organisms but also the water. Modern antifouling coatings are more eco-friendly, and there are always new systems being floated, such as creating a hull surface that mimics shark skin, since, unlike some whales, sharks don’t tend to harbor barnacles.
 
-[![markings on the side of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_09.webp)](https://hakaimagazine.com/wp-content/uploads/10-pilot-reading-ships.jpg)
+[![markings on the side of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_09.webp)](https://hakaimagazine.com/wp-content/uploads/10-pilot-reading-ships.jpg)
 
 The white rectangle edged in yellow—a pilot boarding mark—tells the maritime pilot where to board the ship. Maritime pilots (also called harbor or bar pilots) are experts on the navigational hazards of their home harbor and crucial characters in the drama of maritime life.
 
@@ -84,7 +84,7 @@ The pilot catches a ride out to the ship on a boat about the size of a tug, scra
 
 The white marks on the red are battle scars, reminders of scuffles with docks, other vessels (mostly tugs), and the sides of canals.
 
-[![ladder on the side of a ship](https://scillidan.github.io/image_post/the-secret-language-of-ships_10.webp)](https://hakaimagazine.com/wp-content/uploads/11-ladder-reading-ships.jpg)
+[![ladder on the side of a ship](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_10.webp)](https://hakaimagazine.com/wp-content/uploads/11-ladder-reading-ships.jpg)
 
 A maritime pilot would board this ship using the two ladders pictured. First, he or she ascends the rope ladder, sometimes called a Jacob’s ladder, alluding to the biblical Jacob, who famously dreamed of a ladder connecting heaven and Earth. Partway up, the pilot sidesteps onto the relative security of the diagonal gangplank, called an accommodation ladder.
 

@@ -1,6 +1,6 @@
 # [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_01.webp)
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_01.webp)
 
 > The sewer is the conscience of the city. Everything there converges and confronts everything else.
 > 
@@ -28,7 +28,7 @@ Excavations of Tel Ashkelon in Israel [found a higher occurrence](https://brill.
 
 Though a less frequently considered component of sewage treatment today, the drainage of standing water was vital in Iron Age towns. Stagnant water provided ideal breeding grounds for mosquitoes, pests, and diseases. Moreover, water that lingered on surfaces gradually weakened building foundations and caused erosion of mud or dung-based walls, increasing the risk of damage or collapse. Trenches in the middle or at the side of roads were used to channel this water out of the city gates. Excrement instead tended to be carried to the fields. Ancient Jerusalem, for example, had a specific [Dung Gate](https://jerusalemfoundation.org/old-project/dung-gate/) for this purpose.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_02.webp)  
 The Jerusalem Dung gate prior to its enlargement in 1952.
 
 In South Asia, the Indus Valley Civilization (2600–1900 BC) developed a much more sophisticated system. Cities like Mohenjo-daro in modern-day Pakistan boasted grid-planned streets, standardized fired-brick buildings, and above all, elaborate covered drainage networks, serving populations of [30,000–40,000](https://global.oup.com/academic/product/the-oxford-handbook-of-cities-in-world-history-9780199589531?cc=us&lang=en&) people.
@@ -37,7 +37,7 @@ Another city massive enough to necessitate central planning was Rome, which, wit
 
 The water of the baths themselves, which Marcus Aurelius described as an “offensive mixture” of “oil and sweat, dirtiness and water,” needed constant replenishing. Yet in gravity-fed systems that flowed directly into a river, sewers were in danger of silting up unless the water kept flowing. The lack of effective valves and plumbing, therefore, made Roman sanitation extremely water-intensive.[^4] To keep up with demand, Agrippa diverted water from surrounding springs and funneled it down the aqueducts into Rome. Rome thus sat on multiple rivers: the natural Tiber and the vast artificial flow of the aqueducts. The Romans themselves would have recognized this parallel, as the Cloaca Maxima, the vast major Roman sewer in which Rome’s detritus accumulated, [was described by Strabo](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5C*.html#3.8.2) as large enough for a river to flow through.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_03.webp)  
 Rome’s Cloaca Maxima, as etched by Giovanni Battista Piranesi.
 
 Into this sewer, the Romans threw animal dung from carts, blood from slaughterhouses and butchers, waste products from industry, dirt and mud, and abandoned rubbish. Nero was even rumored by Suetonius (admittedly not Nero’s biggest fan) to enjoy going out at night, killing men he came across, and [throwing their bodies](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html#26) into the sewer. 
@@ -60,7 +60,7 @@ By the time of the Restoration of the Merry Monarch King Charles II in 1660, the
 
 Saltpeter was so significant in the maritime trade that, according to the standard practices of East India captains, 16 percent of a ship’s cargo space was allocated to it. Sometimes, saltpeter was shipped in heavy bags, but more often it was shoveled loose into the hold, serving as both cargo and ballast with a strong sewage-like odor. Aboard trading ships sailing in tropical conditions, the smell came to be euphemistically known among sailors and [travelers](https://dn790002.ca.archive.org/0/items/travelsinindiahu00twin/travelsinindiahu00twin.pdf) as “[the smell of the ship](https://go.gale.com/ps/i.do?id=GALE%7CA209404380&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00182370&p=AONE&sw=w&userGroupName=anon%7Ebd6ec801&aty=open-web-entry).”
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_04.webp)  
 A saltpeter transport ship, the “Eastern Monarch,” burns off the coast of Spithead, United Kingdom.
 
 However, as the need to mine sewage for saltpeter decreased, the population — and its waste — surged. London grew from 50,000 residents in 1500 to over one million in 1800, and [increased](https://archive.org/details/horseworldlondo00johngoog/page/n24/mode/2up) its [use of horses](https://etheses.whiterose.ac.uk/id/eprint/19496/1/AlmerothWilliams_Horses%20%26%20Livestock%20in%20Hanoverian%20London.pdf), creating a volume of sewage never before seen.[7]
@@ -75,24 +75,24 @@ Both the sewage-polluted Thames and overflowing cesspits contributed to endemic 
 
 The deaths caused by sewage pathogens energized a new school of sanitation reformers who pioneered the emerging field of medical statistics to improve the lives of the urban poor.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_05.webp)  
 Two nightmen in London removing human waste from a cesspit.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_06.webp)  
 A trade card for William Woodward who, among other things, was a nightman; a laborer who would, for a fee, collect human waste from cesspits and outhouses. Credit: Wellcome Collection
 
 The foremost sanitation campaigner at this time was Edwin Chadwick. A disciple of social reformer and jurist Jeremy Bentham, Chadwick pioneered the use of systematic surveys to support his social campaigning and railed against traditional local landowner-led parish government, which he saw as unprogressive. After his reforms of the English Poor Law that replaced generous welfare programs for the poor paid for by local taxpayers with harsh centralized workhouses, Chadwick turned his attention to bad sanitation, which he argued inflated the cost of the Poor Law by making workers sick and creating cholera widows and orphans. 
 
 One of Chadwick’s major innovations was using the new field of statistics to support his arguments. The field was founded on the idea that collecting data about the state (hence the name) would allow for a scientific method of government. Chadwick turned to William Farr, a statistician at the new General Register Office, to help him write the report that would make his name and inaugurate the field of public health. 
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_07.webp)  
 Sir Edwin Chadwick
 
 Published in 1842, _[The Report on the Sanitary Condition of the Labouring Population](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/health-02/)_ proved, among many things, that poor parishes with undrained streets had repeated outbreaks of typhus and cholera and lower life expectancies than the drained, wealthy areas.
 
 More important still was the rhetorical and pragmatic power of [Chadwick’s descriptions of London’s sewage problem](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/coll-9-health1/health-02/), described as “a vast monument of defective administration of lavish expenditure and extremely defective execution.” In addition to such blistering critique, he laid out how the terrain could be harnessed to build more effective sewers, emphasizing the need for a constant downward gradient to prevent the buildup of silt and sediment and make waterborne sewage both practical and economical.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_08.webp)  
 A table printed in Chadwick’s 1842 report, showing deaths of various types of tradesmen.
 
 The 1842 Report was [an enormous success](https://www.amazon.com/Great-Stink-London-Bazalgette-Metropolis/dp/0750919752). More than 20,000 copies were sold. Legislators also passed the Metropolitan Buildings Act of 1844 in response, which required new buildings to connect their drains to sewers, and the Cholera Bill of 1846, which extended this requirement via the ability of the Privy Council to compel any behavior they saw fit to fight epidemics, the first time that the Crown accepted responsibility for the health of its subjects.
@@ -103,17 +103,17 @@ Balancing these competing interests was an incredible challenge. Joseph Bazalget
 
 The stalemate was only broken after an unusually hot and dry summer [struck London in 1858](https://www.jstor.org/stable/j.ctt1r33q2c). The smell of the Thames, which had for 43 years been dubbed “the great sewer of London,” became, according to Charles Dickens, “most head-and-stomach-distending.” This was what became known as the “Great Stink.” Most MPs working in the Houses of Parliament, which sit on the river at Westminster, believed at the time that bad smells were the cause of diseases such as cholera and typhoid (the miasma theory of disease). They found the stink of the nearby Thames so alarming that they rapidly removed restrictions on Bazalgette, granting his new Metropolitan Board of Works the right to raise money via government-backed bonds and eliminating both [Parliamentary and local government vetoes](https://books.google.co.uk/books/about/The_Great_Stink_of_London.html?id=q5XeAAAAMAAJ&redir_esc=y).[^8]
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_09.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_09.webp)  
 Joseph Bazalgette
 
 The construction of the sewers was a vast and impressive undertaking. The main sewers on each side of the river were separated into high, middle, and low elevation tunnels, connected by huge pumping stations. This was crucial to prevent the issues that had plagued historic sewers, which had not maintained a consistent drop, leading to sedimentation and blockages. These tunnels also had to be designed to fit around preexisting subterranean obstacles, such as London’s canals and underground lines. These new sewers brought wastewater to the banks of the Thames, where intercepting sewers, built under the new Embankments, captured the sewage before carrying it downstream to outflow points beyond the city.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_10.webp)  
 Inside the London tunnels. These tunnels included pipes for gas, water supply and sewage. Rail cars were used to transport materials and tools for repairs.
 
 Bazalgette deserves the most credit for his anticipation of further population growth. In planning the sewers, Bazalgette had to make assumptions about the future population of the area to accommodate their water needs and drainage requirements. He designed his system for a population 25 percent greater than the one then living in London, using 30 gallons of water per day. By the time of Bazalgette’s death, in 1891, however, the population had grown to be 20 percent greater than his prediction and was using as much as 90 gallons of water a day. Despite this, his design allowed it to meet the greatly expanded demand and, with limited upgrades, cope with a population of over 10 million in the 21st century.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_11.webp)  
 The beautiful pumping stations that were built to lift sewage between the different levels. Described as “a Victorian cathedral of ironwork.”
 
 Even as the sewers were being built, the views of those who had campaigned for them began to change.
@@ -122,7 +122,7 @@ Chadwick and other radicals had campaigned for sewers largely to alleviate the m
 
 His work was taken up by a new generation of statistically trained doctors who began by challenging the miasma theory. Their predecessors’ notions were not based purely on superstition, however. William Farr had published influential maps showing that elevation above sea level was inversely correlated with cholera deaths, seeming to give credence to the notion of tainted air.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_12.webp)  
 William Farr
 
 The first to disprove the role of miasmas was Dr. John Snow. An English physician and early anaesthetist, Snow had experienced a cholera outbreak while an apprentice.[^9] Cholera, which had arrived in Britain in 1831 from India, caused vast panic in Victorian England. It seemed to strike at random, defying treatment and leading to death from diarrhea and dehydration.
@@ -131,7 +131,7 @@ Snow first outlined his theory that cholera was caused by a waterborne element i
 
 Snow’s opportunity to bolster his theory came during the 1854 cholera outbreak in Soho, when over 600 people died in a matter of days. Using what we’d now call epidemiological methods (documenting cases and where they occurred), he traced the outbreak to the Broad Street water pump. He persuaded the local council to remove the pump handle, and shortly afterward, the outbreak subsided. Though this didn’t prove his theory, it offered a compelling case study.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_13.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_13.webp)  
 John Snow’s cholera map, 1854. Dots depict cholera cases. The contaminated water pump was located at the corner of Broad Street and Lexington Street.
 
 Despite being a firm believer in the miasma theory, Farr was one of the few to take Snow’s work seriously, and he began statistically examining cholera deaths by water supplier, contrasting the Southwark and Vauxhall Company, which drew water from a polluted part of the Thames, with the Lambeth Waterworks, which drew water from a cleaner upstream source. His analysis, published in the mid-1850s, showed that cholera deaths were dramatically higher among customers of the dirtier supply, supporting Snow’s theory with hard data.
@@ -158,7 +158,7 @@ While trickle filtration effectively allowed for the large-scale return of treat
 
 This culminated in the [discovery](https://www.jstor.org/stable/25041901) of the activated sludge process by British chemists Edward Ardern and William T. Lockett in 1913. While experimenting with aeration, Ardern and Lockett noticed that bubbling air through wastewater in a bottle increased, rather than cleared, its murkiness. They found that adding oxygen to the untreated sewage allowed clusters of beneficial aerobic bacteria to grow, which formed dense biological masses (known as “flocs”) that actively consumed organic waste. When this mass was allowed to settle, it could be reused in a new batch of sewage, where it would speed up the process exponentially and rapidly lower BOD.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_14.webp)  
 An operator at a wastewater treatment plant prepares to measure the depth of activated sludge in a wastewater clarifier.
 
 They had essentially stumbled upon a self-perpetuating, hyper-efficient biological treatment system. Compared to the commonly used trickle filter method, where aeration occurred from splashing or diffusion, the activated sludge process made use of mechanical aeration to facilitate more constant mixing and oxygen. This, in turn, allowed for much higher biomass concentrations that could more quickly break down matter.
@@ -167,7 +167,7 @@ However, one of the major benefits of activated sludge treatment, its ability to
 
 It is no coincidence that the decline of sewage reuse coincided with the rise of industrialized agriculture. The development of the [Haber-Bosch process](https://en.wikipedia.org/wiki/History_of_the_Haber_process), also in 1913, enabled the mass production of synthetic nitrogen fertilizers, reducing reliance on organic waste. But this created an ironic cycle: cities now spent vast amounts of energy removing nitrogen from sewage, despite its former value as fertilizer. With new ways to fertilize farmland, waste was no longer an economic asset but an environmental problem.
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_15.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_15.webp)  
 A modern sewage treatment plant in Lancashire, England.
 
 While the Haber-Bosch process spurred a [Green Revolution](https://mlpp.pressbooks.pub/americanenvironmentalhistory/chapter/chapter-8-green-revolution/) and a resultant population explosion, it was then, and still is today, immensely costly in terms of both money and energy. It currently consumes roughly two percent of global energy, and around 70 percent of the ammonia made [is used in agriculture](https://www.iea.org/reports/ammonia-technology-roadmap). Although 65 percent of the nitrogen in fertilizer is [lost from runoff](https://ourworldindata.org/excess-fertilizer), as much as [80 percent](https://pmc.ncbi.nlm.nih.gov/articles/PMC5697967/#:~:text=Urinary%20nitrogen%20is%20excreted%20at,balance%20(7%2C%2013).) of dietary nitrogen is excreted and is then denitrified in municipal wastewater plants, which themselves use ~3-5 percent of a city’s energy. This means that at least 19 percent of all ammonia produced yearly is lost as gas via sewage denitrification.
@@ -213,7 +213,7 @@ The British company [Faculty AI](https://faculty.ai/) also built the highly succ
 The most successful nations were those that issued [clear, standard operating procedures](https://www.epa.gov/system/files/documents/2021-09/wastewater-surveillance-compendium.pdf) for sampling and analysis, and provided easy routes for the [reporting of data](https://www.sciencedirect.com/science/article/pii/S0043135420309398) to a [central repository](https://journals.asm.org/doi/10.1128/cmr.00103-22), but allowed local bodies to determine where they sampled. 
 
 Many of the lessons learned in the U.S. from the poor handling of Covid wastewater data were applied to the H5N1 dairy cattle outbreak [in Texas](https://www.nejm.org/doi/full/10.1056/NEJMc2405937) in 2024. Researchers monitoring wastewater for hundreds of viruses were able to detect H5N1 in urban areas before there were any human cases and before it had been detected by other means. 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_16.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_16.webp)  
 Multiple types of influenza A were found in Texas wastewater in 2023 and 2024. Credit: [Tisza M.J.](https://www.nejm.org/doi/full/10.1056/NEJMc2405937) _[et al.](https://www.nejm.org/doi/full/10.1056/NEJMc2405937)_ [(2024)](https://www.nejm.org/doi/full/10.1056/NEJMc2405937) _[NEJM](https://www.nejm.org/doi/full/10.1056/NEJMc2405937)_.
 
 Ultimately, many of the difficulties of WBE programs stem from the challenge of extracting data from an environment that degrades both information quality and resolution. An effective WBE program would bring sampling closer to the neighborhood, hospital, house, or even [individual](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html), disaggregating data to provide greater resolution on the health of individuals. Doing this will require a change in perspective, seeing excrement as simply another data stream that we can read to understand community health. 
@@ -224,7 +224,7 @@ But today, in a world of increasingly strained resources, rising populations, an
 
 This evolution marks a return to an older logic, updated by modern science: that what we flush is not just filth, but information, energy, and opportunity. Bazalgette’s achievements were wonders for his time, but now, sewage is a resource too valuable to waste. The next great civil engineer will be the one able, paradoxically, to bring sewage *back* into human life, enabling it to be assayed and mined, restoring its value to those who made it. 
 
-![](https://scillidan.github.io/image_post/what-we-find-in-the-sewers_17.webp)  
+![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_17.webp)  
 Bazalgette’s cross section at Wick Lane, as published in the Illustrated London News (1859). This was part of London’s new sewer system, and shows the high brick arches that characterized the project.
 
 ---

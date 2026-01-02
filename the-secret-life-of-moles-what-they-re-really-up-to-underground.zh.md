@@ -1,6 +1,6 @@
 # [鼹鼠的秘密生活：它们在地下到底在忙些什么](https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/)
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_01.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_01.webp)
 
 当你走在地面上，完全没有察觉的时候，一整个毛茸茸的工程师文明正在你脚下构建复杂的隧道网络。鼹鼠生活在一个远比大多数人意识到的更为复杂和迷人的隐藏世界里。以下是它们在我们不注意（或者甚至不知道它们存在）时所做的事情。
 
@@ -20,7 +20,7 @@
 
 ## 它们维护着有活体储存的地下食品储藏室。
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_02.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_02.webp)
 
 Getty Images/iStockphoto
 
@@ -36,7 +36,7 @@ Getty Images/iStockphoto
 
 ## 它们通过复杂的通风系统来循环隧道内的空气。
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_03.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_03.webp)
 
 Getty Images
 
@@ -62,7 +62,7 @@ Getty Images
 
 ## 它们能够在水下屏息较长时间。
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_04.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_04.webp)
 
 Getty Images/iStockphoto
 

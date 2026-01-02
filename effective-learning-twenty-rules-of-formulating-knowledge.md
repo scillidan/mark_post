@@ -115,7 +115,7 @@ A: Tanzania
 **Well-formulated knowledge – Simple cloze deletion**
 
 Q: What African country is marked white on the map?  
-![afryka](https://scillidan.github.io/image_post/effective-learning-twenty-rules-of-formulating-knowledge_01.webp)  
+![afryka](https://scillidan.github.io/cdn_image_post/effective-learning-twenty-rules-of-formulating-knowledge_01.webp)  
 A: Tanzania
 
 ## 7) Use mnemonic techniques
@@ -123,14 +123,14 @@ A: Tanzania
 Mnemonic techniques are various techniques that make remembering easier. They are often amazingly effective. For most students, a picture of a 10-year-old memorizing a sequence of 50 playing cards verges on discovering a young genius. It is very surprising then to find out how easy it is to learn the techniques that make it possible with a dose of training. These techniques are available to everyone and do not require any special skills!Before you start believing that mastering such techniques will provide you with an eternal solution to the problem of forgetting, be warned that the true bottleneck towards long-lasting and useful memories is not in quickly memorizing knowledge! This is indeed the easier part. The bottleneck lies in retaining memories for months, years or for lifetime! To accomplish the latter you will need [SuperMemo](https://www.supermemo.com) and the compliance with the 20 rules presented herein.There have been dozens of books written about mnemonic techniques. Probably those written by Tony Buzan are most popular and respected. You can search the web for keywords such as: _mind maps, peg lists_, _mnemonic techniques_, etc.Experience shows that with a dose of training you will need to consciously apply mnemonic techniques in only 1-5% of your items. With time, using mnemonic techniques will become automatic!  
 Exemplary mind map:
 
-![](https://scillidan.github.io/image_post/effective-learning-twenty-rules-of-formulating-knowledge_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/effective-learning-twenty-rules-of-formulating-knowledge_02.webp)  
 (_Six Steps_ mind map generated in [Mind Manager 3.5](http://www.mindman.com/), imported to SuperMemo 2004, courtesy of John England, TeamLink Australia)
 
 ## 8) Graphic deletion is as good as cloze deletion
 
 Graphic deletion works like cloze deletion but instead of a missing phrase it uses a missing image component. For example, when learning anatomy, you might present a complex illustration. Only a small part of it would be missing. The student’s job is to name the missing area. The same illustration can be used to formulate 10-20 items! Each item can ask about a specific subcomponent of the image. Graphic deletion works great in learning geography!Exemplary graphic deletion:
 
-![](https://scillidan.github.io/image_post/effective-learning-twenty-rules-of-formulating-knowledge_03.webp)
+![](https://scillidan.github.io/cdn_image_post/effective-learning-twenty-rules-of-formulating-knowledge_03.webp)
 
 | SuperMemo 2000/2002 | SuperMemo 99 |
 | :- | :- |

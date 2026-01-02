@@ -64,7 +64,7 @@ Then we need to estimate the probability distribution of the bad events that cou
 
 We’re going to ignore the deductible for now because it makes the equation more complicated, but we’ll get back to it. We plug these numbers into the equation[^6] for the value VV of the insurance to someone in our situation:
 
-![](https://scillidan.github.io/image_post/when-is-insurance-worth-it_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/when-is-insurance-worth-it_01.webp)  
 ```tex
 V \;=\;\log\bigl(W - P\bigr)
 \;-\;\bigl(1 - \sum p_i\bigr)\,\log W
@@ -88,7 +88,7 @@ In the same example as above, now set a fixed deductible of $500 for both events
 
 We can put a fixed deductible dd into the equation as such:
 
-![](https://scillidan.github.io/image_post/when-is-insurance-worth-it_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/when-is-insurance-worth-it_02.webp)  
 ```tex
 V = \bigl(1 - \sum p_i\bigr)\,\log(W - P)
 \;+\;\Bigl(\sum p_i\Bigr)\,\log\bigl(W - P - d\bigr)
@@ -141,7 +141,7 @@ It sounds crazy, but that’s the effect of the asymmetric nature of differentia
 
 The clever reader will also see that if we set the deductible to be event-dependent, and create a virtual event for when nothing bad happens (this event has a deductible and cost of zero), a lot of the terms are similar and can be combined. Indeed, the equation can then be given as
 
-![](https://scillidan.github.io/image_post/when-is-insurance-worth-it_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/when-is-insurance-worth-it_03.webp)  
 ```tex
 V \;=\;\sum\bigl[p_i\,\log\!\frac{\,W - P - d_i\,}{\,W - c_i\,}\bigr]
 ```

@@ -7,10 +7,10 @@ Space in general is a blank unprinted area, a counterform that separates letters
 
 European languages did not use word spacing for a long time, it was not until the 7th century that word spacing entered Latin script. In the age of metal type, the space was a material, tangible object—a piece of metal that left no print. In the pre-digital era, most text blocks were justified, which required several spaces of different width. Those types of spacing were defined by the notion of _em_ (or _point size_), which is height of the piece of metal used for printing a character. For example, one em in a 12-point typeface is 12 points, whereas its en (half-em) spaces’ width is 6pt, third space (of an em) equals 4pt, and so on.
 
-![litera](https://scillidan.github.io/image_post/manual-spaces_01.webp)  
+![litera](https://scillidan.github.io/cdn_image_post/manual-spaces_01.webp)  
 Diagram of a cast metal sort, **c** is point size
 
-![](https://scillidan.github.io/image_post/manual-spaces_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_02.webp)  
 _Whitespace characters in [Gauge](https://type.today/en/collection/gauge). Widths and correlations between spaces differ depending on the typeface_
 
 These types of spaces are still existent in the digital age, but they are mostly used by advanced typographers. Messengers, text editors, and other programs and applications most typically use only regular space.
@@ -33,7 +33,7 @@ In the early digitised fonts one often sees excessively wide spaces; probably, i
 > **M.I.Schelkunov**  
 > [History, Technique, Art of Printing (1926)](https://www.booksite.ru/fulltext/shelkunov/index.htm)
 
-![](https://scillidan.github.io/image_post/manual-spaces_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_03.webp)  
 _A wide word spacing seems weird to an eye of the modern reader, and it is way too visible in texts_
 
 Today, word space width is specified by the typeface’s designer themselves, and it is one of the defining moments in designing a typeface, along with spacing,—texture and rhythm of the typeset are heavily dependent on word space width.
@@ -54,13 +54,13 @@ Depending on whether your typeface is serif or sans serif, it makes sense to tak
 
 Blank space between words should be such as to ensure that words are visibly separated from each other—if spacing is wider, there will be holes between words, if smaller, it will be difficult to tell one word from another. You can’t measure space with a ruler, as everything depends on specific design or typeface.
 
-![](https://scillidan.github.io/image_post/manual-spaces_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_04.webp)  
 _Word spaces as set in [Kazimir Text](https://type.today/en/kazimir-text). The space width is good: words are separated from one another, the hierarchy of white space is maintained_
 
-![](https://scillidan.github.io/image_post/manual-spaces_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_05.webp)  
 _If you increase word spacing, word spaces would conflict with leading, which makes it hard to navigate through the text_
 
-![](https://scillidan.github.io/image_post/manual-spaces_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_06.webp)  
 _If you decrease the width of word space, it will affect legibility, as the words will blend together_
 
 Using double spaces is a technique inherited from the age of typewriters. It is strongly advisable to check a document for double spaces and replace those by single spaces.
@@ -129,10 +129,10 @@ One fourth of an em space. Some authors believe quarter space to be the primary 
 
 ⅕ of an em space. It is common that thin space equals about half the standard one, which is why thin space is used where standard word space would be too wide. For example, thin space is often utilised for spacing a dash in cases where standard space is too wide. Thin space is also used for spacing initials, from each other and from the surname:
 
-![](https://scillidan.github.io/image_post/manual-spaces_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_07.webp)  
 _Standard space in [Spectral](https://type.today/en/spectral) is too wide to be used for spacing initials and dashes_
 
-![](https://scillidan.github.io/image_post/manual-spaces_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_08.webp)  
 _Thin spaces look more neat, better connecting initials with a surname and two parts of a sentence with each other_
 
 French typographic tradition prescribes the use of either thin or hair spaces to space any two-part symbols: exclamation mark, question mark, semicolon, etc.
@@ -180,7 +180,7 @@ In setting justified texts, standard word space width becomes a fluctuating valu
 
 Figure space, or numeric space, is used for typesetting tables and sheets. If a typeface is fitted with tabular figures, its figure space will be equal to the width of tabular figures. Figure space is a non-breaking one.
 
-![](https://scillidan.github.io/image_post/manual-spaces_09.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_09.webp)  
 _Normally, figure space is significantly wider than standard space, it will be helpful when you need to even a large amount of multi-digit numbers_
 
 ## Punctuation Space
@@ -201,13 +201,13 @@ Body text font, designed for smaller sizes, would require smaller spacing and wo
 
 It is also necessary to consider spacing when you’re dealing with particular elements of the text. For instance, small-caps or all-caps fragments quite often should be additionally spaced. Manual spacing is sometimes necessary in bold or italic styles, or even if no additional styles are applied at all.
 
-![](https://scillidan.github.io/image_post/manual-spaces_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_10.webp)  
 _Small-caps spacing in Charter is too tight by default, more white space is needed_
 
-![](https://scillidan.github.io/image_post/manual-spaces_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_11.webp)  
 _In William, small caps are taken care of, this generous spacing doesn’t require additional adjustment_
 
-![](https://scillidan.github.io/image_post/manual-spaces_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_12.webp)  
 _A text set in a quality typeface sometimes needs manual adjustment: standard word space in Guyot is clearly not enough for the **of ‘i’** combination_
 
 ## White spaces in software
@@ -224,16 +224,16 @@ Spaces calculated this way are not always suitable for your task. Depending on t
 
 Be vigilant and trust your eye: it is not mathematical values that matter, but a convincing, reasonable relationship between the black and the white.
 
-![](https://scillidan.github.io/image_post/manual-spaces_13.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_13.webp)  
 _These dashes are spaced by hair spaces provided by the typeface_
 
-![](https://scillidan.github.io/image_post/manual-spaces_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_14.webp)  
 _These dashes are spaced by hair spaces provided by the typeface_
 
-![](https://scillidan.github.io/image_post/manual-spaces_15.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_15.webp)  
 _The typefaces above have no hair space, therefore its width is set automatically_
 
-![](https://scillidan.github.io/image_post/manual-spaces_16.webp)  
+![](https://scillidan.github.io/cdn_image_post/manual-spaces_16.webp)  
 _With x-height and spacing that Arno Pro and RIA Text have, the InDesign’s hair space is good enough. Whereas in IBM Plex we perhaps should put thin space instead of a hair one_
 
 Whitespace characters are among the most important typographic elements. Alongside sidebearings, they define text rhythm and organise blocks of information. Disregard for white spaces can ruin relations between them: line and word spacing, word spacing and column-gap. In such case the reader wouldn’t be able to easily track the line and would have to put additional effort—unless this is your intended goal, you should always consider how different sorts of white space work with each other.

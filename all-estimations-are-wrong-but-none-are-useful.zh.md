@@ -2,7 +2,7 @@
 
 如果你在使用Scrum框架的团队中工作，你会使用故事点来估算你的故事、任务等的工作量。一些管理层也会考虑这一点并进行计划，衡量你的生产力，甚至在某些事情完成时让你负责。然而，他们需要明白，软件估算总是错误的。
 
-![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_01.webp)
+![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_01.webp)
 
 主要原因是估算是**预测**，它是对未知未来的预言。然而，我们都知道很难看到最终结果，但人们往往忘记这一点并根据估算做出承诺。
 
@@ -21,7 +21,7 @@
 
 此外，我们还必须面对**不确定性锥**（由[史蒂夫·麦克康奈尔](http://www.stevemcconnell.com/)引入软件开发社区）。通常，在项目的早期阶段，我们仍然不理解所有需求，但需要做出许多决策。在这里，不确定性很高。随着项目的进展，我们有了更多的信息，不确定性减少。
 
-![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_02.webp)  
 不确定性锥
 
 > ⚠️ _请注意，在书籍《软件工程中的小精灵》中，作者声称“锥形不确定性”从未基于可靠的数据。它最初是巴里·博厄姆的主观猜测，史蒂夫·麦克康奈尔在其1996年的书《快速开发》中使之流行。_
@@ -54,7 +54,7 @@
 
 **估算 = 复杂性 + 不确定性**
 
-[![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_03.webp)](https://amzn.to/3O0y2SV)  
+[![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_03.webp)](https://amzn.to/3O0y2SV)  
 "无需猜测的软件估算" by 乔治·迪温迪
 
 此外，瓦斯科·杜阿尔特在他的书《**无估算：如何在不估算的情况下衡量项目进度**》中建议了一种替代方法。
@@ -63,7 +63,7 @@
 
 测量应基于通过量，即在设定时间框架内完成的任务数量，周期时间，以及从创意到完成的工作所需时间。像**看板**这样的可视化系统可以帮助跟踪进展和识别瓶颈。**定期回顾和反馈**使持续改进成为可能，强调迭代开发的重要性，以 facilitar 提供小而增量的价值。
 
-![](https://scillidan.github.io/image_post/all-estimations-are-wrong-but-none-are-useful_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/all-estimations-are-wrong-but-none-are-useful_04.webp)  
 “无估算：如何在不估算的情况下衡量项目进度”，by 瓦斯科·杜阿尔特
 
 [GPT-4o mini]

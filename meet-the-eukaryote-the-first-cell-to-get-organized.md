@@ -38,7 +38,7 @@ For many decades, biologists considered eukaryotes to be one of three main domai
 
 However, recent research has changed that view. Over the past few decades, a two-domain tree has prevailed, in which eukaryotes emerged from within archaea rather than alongside them. The theory is supported by recent efforts to uncover the identity of our most recent prokaryotic ancestor — the ancient cell that first enclosed a bacterium, resulting in the eukaryotic cell type. Over the last decade, [the discovery of Asgard archaea](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/), our closest living prokaryotic relatives, has offered valuable clues.
 
-![](https://scillidan.github.io/image_post/meet-the-eukaryote-the-first-cell-to-get-organized_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/meet-the-eukaryote-the-first-cell-to-get-organized_03.webp)  
 Mark Belan/*Quanta Magazine*; source: 5W Infographics
 
 In 2015, Ettema went looking for that mysterious first host cell in a field of sulfide chimneys at the bottom of the Atlantic Ocean. Underwater vents are good candidates for the nursery of that original cell because they spout hot water rich in chemical energy, which some prokaryotes can use to make energy for themselves. His team collected microbial slush from a site known as Loki’s Castle. Back at the lab they used a technique called metagenomics to untangle the mess of microbial DNA and reconstruct the genomes of individual cells.

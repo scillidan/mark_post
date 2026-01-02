@@ -1,20 +1,20 @@
 # [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 
-![access token image](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_01.webp)
+![access token image](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_01.webp)
 
 OAuth was first introduced in 2007. It was created at Twitter because Twitter wanted a way to allow third-party apps to post tweets on users' behalf. Take a second to imagine designing something like that today. How would you do it? One way would just be to ask the user for their username and password. So you create an unofficial Twitter client, and present the user a login screen that says "log in with Twitter". The user does so, but instead of logging into Twitter, they're actually sending their data to you, this third-party service which logs into Twitter for them.
 
-![Bad way – giving a third party your password](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_02.webp)
+![Bad way – giving a third party your password](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_02.webp)
 
 This is bad for a lot of reasons. Even if you trust a third-party app, what if they don't store your password correctly and someone steals it? You should never give your password to a third-party website like this.
 
 Another way you might be thinking is, what about API keys? Because you're hitting Twitter's API to post data for a user, and for an _API_, you use _API keys_. But API keys are general. What you need is an API key specific to a user.
 
-![Good way – OAuth token](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_03.webp)
+![Good way – OAuth token](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_03.webp)
 
 To solve these problems, OAuth was created. You'll see how it solves all these problems, but the crux of OAuth is an **access token**, which is sort of like an API key for a specific user. An app gets an access token, and then they can use that to take actions on the user's behalf, or access data for a user.
 
-![Drawing of some YNAB categories](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_04.webp)
+![Drawing of some YNAB categories](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_04.webp)
 
 ## How OAuth works
 
@@ -33,7 +33,7 @@ So to start, I'm at YNAB, and I want to connect Chase as a source. The OAuth flo
 3. Chase shows me a screen saying "YNAB wants to connect to Chase. Pick what accounts you want to give YNAB access to". It'll show me a list of all my accounts. Let's say I pick just my checking account, to give YNAB read access to this account, and hit OK.
 4. From Chase, I'm redirected back to YNAB, and now, magically, YNAB is connected to Chase.
 
-![flow illustrated](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_05.webp)
+![flow illustrated](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_05.webp)
 
 This is the experience from a user's perspective. But what happened there? What magic happened in the background, so that YNAB somehow has access to my data on Chase?
 
@@ -61,13 +61,13 @@ When you were redirected from Chase back to YNAB, Chase sent YNAB an _authorizat
 
 An authorization code is not an access token! Chase sends YNAB an authorization code, and YNAB _exchanges the authorization code for an access token_. It does this by making a backend request to Chase, a backend POST request over HTTPS, which means no one can see the access token.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_06.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_06.webp)
 
 And then YNAB has the access token. End of OAuth flow. OAuth success.
 
 ## Two parts of OAuth
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_07.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_07.webp)
 
 Let's talk about what we just saw. At a high level, there are two parts to an OAuth flow. The first is the **user consent flow**, which is where you, the user, log in and pick what to give access to. This is a critical part of OAuth, because in OAuth, we always want the user to be actively involved and in control.
 
@@ -80,7 +80,7 @@ Let's talk about more details of exactly how this works. And let's also talk abo
 - The server where you log in is called the **authorization server**. The server where you get user data from is called the **resource server** (This could be the same as the authorization server).
 - On the authorization server, when the user picks what's allowed, those are called **scopes**.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_08.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_08.webp)
 
 I'll try to use that terminology, because you'll need to get familiar with it if you're going to read more OAuth documentation.
 
@@ -90,21 +90,21 @@ So let’s look at this high level again, with the new terms.
 
 You have OAuth clients. An OAuth client wants to access data on a resource server, and the data belongs to the resource owner.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_09.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_09.webp)
 
 To do that, the OAuth client redirects to the authorization server. The user logs in, user agrees to **scopes** (what this token is allowed to access), and the user gets redirected back to the OAuth client with an authorization code in the URL.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_10.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_10.webp)
 
 On the back end, the OAuth client sends the authorization code and client secret (we'll talk about client secrets shortly) to the authorization server, and the authorization server responds with the access token.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_11.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_11.webp)
 
 That's the exact same flow, but using the new terminology we just discussed. Now let's talk specifics. We've seen what this flow looks like from the user's point of view, let's look at what it looks like from the developer's point of view.
 
 ## Registering a new app
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_12.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_12.webp)
 
 To use OAuth, you first need to register a new app. So for example, GitHub provides OAuth. If you want to create a new app for GitHub, you first register it. Different services require different types of data in the app registration, but every service will require at least
 
@@ -120,7 +120,7 @@ Awesome, you have registered your OAuth application. Let's say your app is YNAB,
 
 Step one: You will redirect them to Chase's authorization server's OAuth endpoint, passing these parameters in the URL:
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_13.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_13.webp)
 
 1. Client ID, which we just talked about.
 2. The redirect URI. Once the user is done on Chase, this is where Chase will redirect them back to. This will be a YNAB url, since you're the YNAB app.
@@ -139,7 +139,7 @@ Chase will redirect them back to the redirect URI that you gave, lets say ynab.c
 
 > Side note: you might be wondering, what is the difference between URI and URL? Because I'm kind of using both. Well, a URL is any website URL that we know and love. URI is more general. URL is a type of URI, but there are many other types of URIs.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_14.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_14.webp)
 
 > The reason I'm saying redirect URI instead of redirect URL is because mobile apps won't have a URL. They'll just have a URI, which is a protocol they have made up that might look something like `myapp://foobar`. So if you're only doing web work, whenever you read URI, you can read it as URL. And if you're doing mobile work, you can read URI and know that yes, your use case is supported too.
 
@@ -153,7 +153,7 @@ The other big reason is because we want the user to be involved. That makes it c
 
 I keep saying frontend and back-end, but in the OAuth docs, they say front-channel and back-channel instead. Let's talk about why.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_15.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_15.webp)
 
 ## Front-channel and back-channel
 
@@ -167,7 +167,7 @@ Same problem for mobile apps. Unless you have a mobile app that has a backend co
 
 So those are two other terms that are good to know: **front-channel** and **back-channel**.
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_16.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_16.webp)
 
 At this point, you've seen what the OAuth flow looks like from the user's perspective, and from the developer's perspective, and you have seen the components that make it secure.
 
@@ -179,4 +179,4 @@ The other part of OAuth we didn't cover is that tokens expire and you need to re
 
 Now you're good to go out and do your own OAuthing. Good luck!
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_17.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_17.webp)

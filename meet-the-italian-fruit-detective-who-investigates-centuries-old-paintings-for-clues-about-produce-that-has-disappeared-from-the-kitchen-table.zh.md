@@ -2,7 +2,7 @@
 
 **文艺复兴的画作、中世纪的档案、隐秘的果园——一位意大利科学家如何揭示可以帮助应对日益严峻的农业危机的秘密**
 
-![](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_01.webp)  
 伊莎贝拉·达拉·拉基奥内（Isabella Dalla Ragione）的果园里收获的多种果实，包括苹果、梨、梅子、杏仁、榛子和葡萄。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
 当伊莎贝拉·达拉·拉基奥内评估一幅文艺复兴时期的画作时，她首先注意到的不是笔触或画面的宏伟，而是水果。
@@ -11,7 +11,7 @@
 
 这幅引人注目的作品出自15世纪的艺术巨匠皮耶罗·德拉·弗朗切斯卡（Piero della Francesca）之手。它描绘了身披深蓝色长袍的圣母，怀抱着一个金发的耶稣婴儿。但达拉·拉基奥内指着耶稣微小的手中似乎捏着的一小束半透明的玻璃珠：樱桃！它们呈浅红色，带有白色的色调——羡慕的樱桃（acquaiola）是一种在意大利几乎已经消失的品种，但在那个时候却相当常见。它的果汁被视为基督血液的象征。拱顶的天花板、精神的意象和其他观众的窃窃私语以及脚步声赋予了这一场景一种神圣的感觉。
 
-![在皮耶罗·德拉·弗朗切斯卡的《圣安东尼多联画》中，耶稣手握达拉·拉基奥内确认的珍贵水果，羡慕的樱桃。它曾在意大利大量生长，如今几乎消失。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_02.webp)  
+![在皮耶罗·德拉·弗朗切斯卡的《圣安东尼多联画》中，耶稣手握达拉·拉基奥内确认的珍贵水果，羡慕的樱桃。它曾在意大利大量生长，如今几乎消失。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_02.webp)  
 在皮耶罗·德拉·弗朗切斯卡的*《圣安东尼多联画》*中，耶稣手握达拉·拉基奥内确认的珍贵水果——曾大量存在于意大利的羡慕樱桃，如今几乎消失。*©翁布里亚国家画廊，佩鲁贾*
 
 但在我们能够停留之前，67岁的达拉·拉基奥内话语迅速，精神抖擞，带着时尚的眼镜和短短的灰色头发，匆匆将我们带过这幅画，前往另一个地方。“快点，我们去，还有一幅你一定要看看！”她坚持着，我们沿着另一条长走廊飞奔而去。
@@ -28,10 +28,10 @@
 
 那些品种的消失不仅是失去美味的问题。这也意味着我们失去了数世纪以来编码在昔日水果基因中的适应能力。根据与联合国粮食及农业组织*气候变化处*合作的农艺师马里奥·马里诺（Mario Marino）的说法，他在阿基欧利亚·阿博里亚的顾问委员会服务，重新发现那些古老水果的后代对意大利抵御不可预测和愈发严峻的气候变化影响至关重要。
 
-![](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_03.webp)  
 伊莎贝拉·达拉·拉基奥内在佩鲁贾乡村的家中。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
-![](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_04.webp)  
 达拉·拉基奥内家中的一日采摘，包括多种昔日的苹果——包括“夏季红”（rossa d’estate，“多汁、非常甜、脆”）和“雷内塔”（renetta，适合做蛋糕）以及新鲜的杏仁。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
 其中一个可以找到一些这些古老水果的地方，位于距离佩鲁贾市35英里处，坐落在台伯河上方的山中，围绕着达拉·拉基奥内的家族住宅。要到达那里，我的租车菲亚特（Fiat）在土路上行驶颇为吃力。八百年前，这座房屋曾是一座罗曼式石教堂。14世纪，该教堂成为了一个修道院。如今的居住区正是达拉·拉基奥内的厨房和工作室。
@@ -40,14 +40,14 @@
 
 “这是一本关于贝利尼（Bellini）的书，”她兴奋地翻到一页，其中包括著名的画作，通常被称为*母子图*或*梨圣母图*（Madonna col Bambino或Madonna della Pera）。“但是它不是一个梨——它是一个苹果！”她常常发现这样的错误。达拉·拉基奥内确认这是一种“牛鼻”（cow-nose）苹果，600年前非常常见，现在极为稀有，因为其形状让人联想到一条细长的嘴巴。（这幅画的错误名称几乎肯定不是由于乔瓦尼·贝利尼（Giovanni Bellini）本人的原因，而是后来的艺术史学家为了区分当时许多“母子图”画作而加上的。）
 
-![达拉·拉基奥内发现贝利尼的《母子图》中的水果，偶尔被称为“梨圣母”，实际上是牛鼻苹果。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_05.webp)  
+![达拉·拉基奥内发现贝利尼的《母子图》中的水果，偶尔被称为“梨圣母”，实际上是牛鼻苹果。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_05.webp)  
 达拉·拉基奥内发现贝利尼的*《母子图》*中的水果，通常被称为*梨圣母*，实际上是牛鼻苹果。斯卡拉艺术资源，NY
 
 达拉·拉基奥内与这片土地的最深的联系来自于她的父亲，利维奥·达拉·拉基奥内（Livio Dalla Ragione），他于1922年出生在托斯卡纳（Tuscany），在附近的中世纪村庄奇塔·迪·卡斯泰洛（Città di Castello）长大。作为游击队员，在这些山上与法西斯穆索里尼政府抗争，随后又在德国占领意大利期间与纳粹作斗争后，他成为了艺术物质主义运动的一部分，该运动集中在罗马，主张使用木材、纺织品和其他触觉材料制作艺术。1960年，他回到翁布里亚，买下了这座曾经的修道院，成为了他家庭的家。利维奥在一所当地大学教授艺术的同时，开始研究该地区农村生活的工具和实践，这些实践已因工业化农场取代地方农民而开始消失，而那些失业的农民则放弃了乡村生活，迁移到城市。利维奥是意大利当今蓬勃发展的农村农业与食品运动的先驱——他在这里种下了这个珍贵的家庭果园，栽种了他所看到的被农民抛弃的本地品种。他还在奇塔·迪·卡斯泰洛创办了一座[民间艺术博物馆](https://www.cittadicastelloturismo.it/percorso/folk-museum-centro-delle-tradizioni-popolari/?lang=en)，如今仍在运营。
 
 达拉·拉基奥内在佩鲁贾大学获得了农业学本科学位，同时也与各种剧团学习戏剧和表演。她甚至和一位来自巴黎著名小丑学校的老师上过课。她描述在1980年代过着两种生活——一种是在剧院作为表演者，另一种是在田野作为农艺师。在那个时候，意大利和全球推进工业化规模种植，使得作物多样性快速下降，通用种子在大面积种植的替代品中取而代之，取代了那些适应地区性环境的种子。当地水果品种消失在田野和市场上；数千名地方育种者被收购或无法竞争。到了三十出头的年纪，达拉·拉基奥内意识到自己的真正热情。“我必须决定是做真实的女演员，四处走动像一个演员那样，没有根，”她回忆道。“而我看到我需要我的‘根’，我的领域，我的故事。于是我离开了戏剧，把我的生活专注于果树。”
 
-![在达拉·拉基奥内的果园中，一棵树上结满了牛鼻苹果，和贝利尼的《母子图》中看到的那种一样。它们常常被误认为是梨。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_06.webp)  
+![在达拉·拉基奥内的果园中，一棵树上结满了牛鼻苹果，和贝利尼的《母子图》中看到的那种一样。它们常常被误认为是梨。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_06.webp)  
 在达拉·拉基奥内的果园中，一棵树上结满了牛鼻苹果，和贝利尼的*《母子图》*中看到的那种一样。它们常常被误认为是梨。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
 起初，她跟随父亲对当地农民进行关于失落和消失水果品种的采访：“这对我来说就像一场冒险，有点像是消遣，”她回忆道。“但在那个时代并没有人谈论生物多样性或遗传侵蚀。”1989年，32岁时，她和父亲共同创立了阿基欧利亚·阿博里亚，这个组织将作为承载他们大量自筹研究失落物种的伞。那时父女俩都还有全职工作，利维奥担任教师，伊莎贝拉则作为一种农艺师，与邻近地区协作他们的生物多样性和农业生态战略。
@@ -58,17 +58,17 @@
 
 然而，达拉·拉基奥内很快发现，仅仅通过翻阅数个世纪前的数字无法得到太多结果。随后，她有了一个启示，加速了她寻找古老果树的脚步。在宫殿里，她常常在墙壁上经过悬挂着描绘战斗、宗教象征和神话场景的画作。一天，她停下来更加仔细地观察“普罗米修斯房”（Prometheus Room）的天花板——因其包括克里斯托法诺·盖拉尔迪（Cristofano Gherardi）创作的普罗米修斯将火带给人类的16世纪壁画而得名。现在，她第一次注意到，上面散布的正是她在楼上的档案中所阅读的梨、苹果、梅子和其他水果。她说：“在这时，我理解了文件、壁画和真正水果之间的联系圈。”她意识到艺术创作的时间在于那些文档同时点。对她来说，这是一个不可思议的连接。
 
-![在宫殿内，壁画展示了榲桲和其他水果。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_07.webp)  
+![在宫殿内，壁画展示了榲桲和其他水果。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_07.webp)  
 在宫殿内，壁画展示了榲桲和其他水果。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
 当她开始看画作时，发现水果无处不在。她意识到画作不仅仅是艺术，它们是证据，而不仅仅是数百年前水果的证据。它们还证明，生长在她自己果园里的水果——细长的梨、短鼻子的苹果和黄绿色的梅子——可能是与她接触的壁画和画作中寓意的后裔。
 
 她也逐渐理解到她在意大利工作的幸运。在许多方面，意大利是文艺复兴绘画的中心。在15世纪之前，几乎所有的欧洲艺术作品都集中在神话或宗教的意象。然而，很多艺术家在开始摆脱中世纪的形式与主题的僵化时，往往沉浸于自已的乡村社会，开始以越来越虔诚的精度来描绘大自然及其丰饶。甚至更重要的是，达拉·拉基奥内表示，水果往往具有象征意义——樱桃为基督血液，梨为死后的天堂象征，等等。画家们需要精准地描绘，以便“画作中的信息能够到达每一个人，无论是富人还是穷人。”这种栩栩如生的精准性意味着达拉·拉基奥内可以根据水果的茎的位置、形状或皮肤的颜色，不仅识别出水果的种类，还能识别出品种——即不仅是区分苹果与梨的不同，还有不同品种苹果或梨之间的区别。后来一些重视想象力而非具象准确性的艺术运动并没有提供相同的准确度。
 
-![梨](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_08.webp)  
+![梨](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_08.webp)  
 普拉托的梅迪奇别墅中的静物博物馆展示了17世纪意大利水果的多彩描绘，包括巴尔托洛梅奥·比比（Bartolomeo Bimbi）所绘的这些梨。 *阿利纳里档案，佛罗伦萨 / 布里奇曼图像*
 
-![葡萄](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_09.webp)  
+![葡萄](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_09.webp)  
 对达拉·拉基奥内来说，静物博物馆中的比比画作，例如这些葡萄，每种品种都有名称。 *阿利纳里档案，佛罗伦萨 / 布里奇曼图像*
 
 自从在布法里尼宫殿的“顿悟”之后，达拉·拉基奥内已经将阿基欧利亚·阿博里亚发展成一个非营利的研究和教育基金会，以支持她的科学研究，记录水果特性及树木可承受的各种环境压力——或无法承受的压力。此外，阿基欧利亚·阿博里亚现在接受来自于意大利和美国的大多数慈善家的资助，并与联合国粮食及农业组织和佩鲁贾大学等科学组织合作。
@@ -95,10 +95,10 @@
 
 与此同时，她还帮助世界各地那些寻求古老品种的人们。每年两次，她前往黎巴嫩，在开花和收获期帮助复兴当地的遗产樱桃和杏子（“太甜了！”她惊叹道）。她最近一次是今年七月份，但因黎以关系紧张只能提前离开。在约旦，她向农业部咨询种植土著芦荟植物的事宜，还帮助训练西岸的农民运用农业生态技术复兴古老的棕榈树。在以往的日子里，在俄罗斯入侵乌克兰之前，她还向托尔斯泰（Leo Tolstoy）和陀思妥耶夫斯基（Fyodor Dostoyevsky）家族的故居提供了有关重新引入当地苹果品种的帮助。
 
-![达拉·拉基奥内正在策划重建布法里尼宫的果园。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_10.webp)  
+![达拉·拉基奥内正在策划重建布法里尼宫的果园。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_10.webp)  
 达拉·拉基奥内正在策划重建布法里尼宫的果园。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
-![达拉·拉基奥内部分依赖于一份1706年的计划，其中详细列出了许多苹果和梨品种。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_11.webp)  
+![达拉·拉基奥内部分依赖于一份1706年的计划，其中详细列出了许多苹果和梨品种。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_11.webp)  
 达拉·拉基奥内部分依赖于一份1706年的计划，其中详细列出了许多苹果和梨品种。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
 回到意大利，达拉·拉基奥内正致力于复兴数座15和16世纪维拉及宫殿中的历史花园。在她曾获得“顿悟”的布法里尼宫，她的研究为消失的果品种提供了重要见解，我亲眼目睹了她工作的确切成果。她十多年前种植的树木，正茂盛生长，结出来自16世纪布法里尼家族辉煌时期的杏、桃、苹果和梨品种。达拉·拉基奥内表示：“我正在努力创造的是田野里的‘生物多样性生活目录’。”
@@ -109,10 +109,10 @@
 
 这个地方是她的领域，通过毅力和执着，她让父亲种下的果园的面积增长了两倍以上。有一棵杏树或许就是我们在弗洛伦萨镇波鲁卡特边界的宫殿图中看到的那一棵，戈梅尔·达·法比亚诺（Gentile da Fabriano）和他的学生在1412年创作的一幅《人类的七个年龄》（The Seven Ages of Man）壁画中描绘了杏树。在作品中，不同的水果象征着生命的不同阶段。因此，我们缓慢地走过那些阶段。有一棵梨树，细长的树枝上挂着刚从花苞中伸出的微小果实，象征着幼年。与之相对的是一棵桃树，上面结满了小圆球，象征着老年。
 
-![来自布鲁恩的杰作《人类的七个年龄》（1412年）中的老年人形象，象征着他的耄耋之年。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_12.webp)  
+![来自布鲁恩的杰作《人类的七个年龄》（1412年）中的老年人形象，象征着他的耄耋之年。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_12.webp)  
 来自布鲁恩的杰作《人类的七个年龄》（1412年）中的老年人形象，象征着他的耄耋之年。 *NPL - DEA图书馆 / S. Vannini / 布里奇曼图像*
 
-![达拉·拉基奥内正在挑选牛鼻苹果，前景是红色的“夏季红”苹果。](https://scillidan.github.io/image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_13.webp)  
+![达拉·拉基奥内正在挑选牛鼻苹果，前景是红色的“夏季红”苹果。](https://scillidan.github.io/cdn_image_post/meet-the-italian-fruit-detective-who-investigates-centuries-old-paintings-for-clues-about-produce-that-has-disappeared-from-the-kitchen-table_13.webp)  
 达拉·拉基奥内正在挑选牛鼻苹果，前景是红色的“夏季红”苹果。 *西蒙娜·吉齐奥尼（Simona Ghizzoni）*
 
 在小山的边缘，另一棵梨树，其果实更为细长，与布法里尼壁画相符。在陀思妥耶夫斯基父亲种植的旧园中，达拉·拉基奥内的父亲种植的园子里，我们发现了苹果——形成中尚处于幼年萌芽的短鼻苹果（与贝利尼误标的苹果相似）以及在平托里基奥那幅画中圣母脚边的长型苹果，如今即将从项下结出。回到她的家，通往家中之路的附近，停放着一叠榛子，显然是在法比亚诺的时代象征着成年的水果。邻近的一片樱桃，呈红白相间，像耶稣微小手中所见的果实，依偎于树枝上，正在悄然绽放。

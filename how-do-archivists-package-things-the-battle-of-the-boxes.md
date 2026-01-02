@@ -1,6 +1,6 @@
 # [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_01.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240409_093520-3819877179-e1725479157965.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_01.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240409_093520-3819877179-e1725479157965.jpg)
 
 It’s been a while since we posted one of our articles pulling back the curtains on archival work. To make up for that, here’s a special edition of our popular [Archives FAQs and Facts](https://peelarchivesblog.com/category/archives-faqs-and-facts/) series. For the first time, we’ll compare how archivists in two countries do things a little differently to achieve a common goal.
 
@@ -16,7 +16,7 @@ This post came about for a few reasons:
 
 - **Professional curiosity**: I (Samantha at the Region of Peel Archives) have long noticed some intriguing differences in packaging practices between archives in the UK and North America. The comparison is a great way to showcase basic preservation measures.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_02.webp)
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_02.webp)
 
 *This box carried by Archivist Barbie on social media is instantly identifiable as a archival box by archives aficionados in North America – perhaps not so much in other countries. (Courtesy of a [twitter thread](https://x.com/NCArchives/status/1682055889220694016) by the State Archives of North Carolina.)*
 
@@ -34,12 +34,12 @@ Our exploration of archival packaging begins with popping a pervasive stereotype
 
 Archives in movies and TV often have a certain *look*: a jumble of odd-sized papers and books (mostly books), crammed on shelves and tables. This stuff looks varied and intriguing. (It’s much easier for stuff to look intriguing when it’s exposed.)
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_03.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/movies-packaging.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_03.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/movies-packaging.jpg)  
 *Scenes from the films* The Ring *and* Nostradamus. *Horror comes in many forms.*
 
 Of course, real archival shelves do host traditionally vintage-looking items, especially large tomes. (These shelves are frequently employed as photo op backdrops when archives appear in the news.) But the archivist’s guilty secret is that most stocked archival shelves look comparatively bland: row on row of identical boxes, filled with identical files, and cryptically labelled.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_04.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/shelves.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_04.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/shelves.jpg)  
 Left: *Region of Peel Archives in Brampton, Ontario, Canada.* Right: *Tyne & Wear Archives in Newcastle, UK. (Courtesy of Tyne & Wear Archives.)*
 
 Why would regularly sized boxes and files be the norm, especially if archival records run the gamut from maps, postcards, and reports, to letters, handbills, and photographs? In a way this question has answered itself, but let’s unpack it – pun intended.
@@ -56,7 +56,7 @@ In this common archival packaging method, records are placed in standard archiva
 
 One of the key advantages of standard packaging is that it universally accommodates a particular range of common document sizes. For convenience, we’ll call this range **_hand-scale documents_**: documents that can be held comfortably between our hands held not too far apart. This range of sizes arguably encompasses the majority of paper and photographic records produced in daily life over the centuries, both before and after paper sizes were standardized.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_05.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/hand-scale-documents-examples.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_05.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/hand-scale-documents-examples.jpg)
 
 *Files of hand-scale documents at the Region of Peel Archives.* From top left clockwise: *early 19th century, mid-late 19th century, late 20th twentieth century, early 20th century*.
 
@@ -118,7 +118,7 @@ Standard packaging in North America relies on two basic physical containers: the
 
 The classic North American **archival folder** (also called a file or a file folder) is a folded piece of acid-free card. The open edge of the file sports a tab or raised edge on which we write information about the file contents, keyed to the [archival description](https://peelarchivesblog.com/2016/02/29/how-do-archivists-describe-collections-or-how-to-read-a-finding-aid/).
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_06.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/file-folder.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_06.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/file-folder.jpg)  
 *The typical North American archival file folder.*
 
 **Boxes** for hand-scale documents generally come in two main styles:
@@ -127,7 +127,7 @@ The classic North American **archival folder** (also called a file or a file fol
 
 **The Bankers Box**: A commonly used larger box is the classic “Bankers Box.” This size of box is typically used in records centres of large organizations. An acid-free version is used for modern administrative records in archives. This box can be, let’s say, taxing on staff in the large volumes in which it tends to accumulate.  
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_07.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/archival-boxes.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_07.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/archival-boxes.jpg)
 
 *Typical North American archival boxes including (from the left) a Bankers box, a Hollinger box, and a half-Bankers box, a new favourite of the Region of Peel Archives. Some brands have removable lids while others have hinged lids.*
 
@@ -143,13 +143,13 @@ At the Region of Peel Archives (and in many other North America archives) we pre
 Naturally, many of our records predate this standard sizing; but we find that legal-size folders and boxes accommodate the majority of hand-scale documents created over many centuries. This includes all the examples of hand-scale documents depicted above.
 ```
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_08.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_115001.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_08.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_115001.jpg)
 
 Last on our list of basic supplies are a variety of **enclosures** that we use *within* files to help further stabilize documents.
 
 Enclosures, such as paper or [archivally acceptable plastic](https://postalmuseum.si.edu/choosing-safe-plastics) sleeves, tend to have at least one open edge. This reduces the level at which the record will stew in its own juices (in a “microclimate”) without exposure to air circulation.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_09.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240411_131116-1-1241821945-e1725382689365.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_09.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240411_131116-1-1241821945-e1725382689365.jpg)  
 *Some examples of enclosures and sleeves, both paper and archival plastic.*
 
 ## B. Basic configuration
@@ -158,7 +158,7 @@ Now let’s look at how these supplies work together.
 
 As we’ve already hinted, at the Region of Peel Archives, as in most of North America, we package hand-scale files **vertically** in boxes. Files are held in place by the files on either side of them.  
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_10.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_151222-679877836-e1725388304768.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_10.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_151222-679877836-e1725388304768.jpg)  
 *A Hollinger box of records at the Region of Peel Archives.*
 
 To protect documents filed this way, we need to package them properly. Here are some guidelines we observe.
@@ -167,7 +167,7 @@ To protect documents filed this way, we need to package them properly. Here are 
 
 **File folders should not be overfilled and should be adjusted appropriately**. File folders should be manually squared off at the bottom to accommodate the thickness of the records within them. North American file folders generally come with an array of pre-scored lines for this purpose.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_11.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/good-and-bad-files.png)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_11.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/good-and-bad-files.png)
 
 Left and centre: *Correctly foldering a thick file of modern office paper, and a slim file of 19th century documents.* Right: *Incorrectly foldering some 19th century deeds.*
 
@@ -175,7 +175,7 @@ Left and centre: *Correctly foldering a thick file of modern office paper, and a
 
 **Boxes should be filled snuggly with files, but not overfilled**. Both overfilling and underfilling a box could cause damage like folding or curvature. Archivists test the ideal fit by eye, as well as by ease of access to files, and ability to fit an average hand down the back of a filled box.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_12.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230815_140623.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_12.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230815_140623.jpg)
 
 _A vertically filled box seen from above. This box includes file folders containing documents of varying sizes, and also an unpublished bound volume (book). When bound volumes are stored in boxes, we make sure their spines are facing downwards so that the weight of the text block (the pages) does not pull away from the spine._
 
@@ -191,7 +191,7 @@ We find that the folded sheeting adjusts itself nicely as the gap is gradually f
 The “puffs” can be reused many times, unlike custom-made spacers.
 ```
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_13.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filled-file-folders-1-1.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_13.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filled-file-folders-1-1.jpg)
 
 ## Controlling documents inside files
 
@@ -201,26 +201,26 @@ Inside files we use a variety of means to stabilize individual documents and pro
 
 **Keeping multipage documents together**. A single document may have multiple parts, such as a multipage report, or letters with envelopes or inserts. To clarify which pages belong together in a file of multipage documents we may use a piece of buffered acid-free paper as a thin sub-folder for each. Generally speaking, we try to associate pages without altering or damaging them.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_14.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_145510-1525188161-e1725401097809.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_14.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_145510-1525188161-e1725401097809.jpg)  
 *The pages of this document are kept together inside a file by using a folded piece of bond paper.*
 
 Of course, some documents come to us clipped together with staples or paperclips. These are removed if corroded, but archivists decide whether to remove *all* non-archival clips on a case-by-case basis. (Whether and how to replace them with archival paperclips is [controversial](https://balliolarchivist.wordpress.com/tag/paper-clips/) even among archivists!)
 
 **Stabilizing fragile records**. A particularly fragile document may be placed in an enclosure, such as a polyester sleeve. (Again, only some plastics are suitable for archival use.) This sleeve allows researchers to view and handle the record safely. Similarly, photographic records like slides, negatives, and photographs may require extra protection to ensure the photographic emulsion (image layer) is not damaged. We may also use acid-free tissue paper to protect photographs or other easily scratched surfaces.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_15.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/fragile-records.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_15.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/fragile-records.jpg)  
 Left: *Photographs interleaved with archival tissue paper to protect image surfaces.* Right: *A fragile 19th-century letter protected by a Mylar sleeve and backed by a stiff piece of card.*
 
 **Stabilizing small records**. Small records like tiny cards and notes, or photographic slides, can shift around and be overlooked more easily within standard files, particularly when housed with larger associated records (think of snapshots enclosed in a letter). We may put smaller items in sleeves to bring them closer to standard document sizes.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_16.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/small-records.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_16.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/small-records.jpg)  
 *Small photographs and slides are inserted into paper or polypropylene sleeves to stabilize and keep them in order within larger files. (Large collections of same-sized photographs may be stored in other ways.)*
 
 ## Packing boxes on shelves
 
 Both Hollinger and Bankers boxes are shelved in a single layer on shelves specially designed for their height. As boxes aren’t piled on top of on another, this allows for quick retrieval and return.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_17.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_141744.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_17.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_141744.jpg)  
 *Removing a North American archival box from its shelf. Hollinger-style boxes sometimes come with a pullstring or handle to aid retrieval.*
 
 The labelling on boxes gives no detailed information about the records within. Rather an identification code links the box to information about its contents and allows archivists to find the box on kilometres of shelving.
@@ -237,13 +237,13 @@ Archivists in the UK also rely on boxes and folders for basic archival packaging
 
 **Files** are physically constructed in a variety of ways. Sometimes archivists use folders made of acid-free card. These are somewhat similar to standard North American file folders, but unlike the latter, they generally include flaps which enclose records or two or more sides. For thinner sets of records, archivists may use large acid-free envelopes as a file. In lieu of a file folder, they may also wrap sets of records in acid-free paper or tissue.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_18.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-folders.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_18.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-folders.jpg)
 
 Left: *Four-flap folder as used in the West Yorkshire Archive Service. (Courtesy and copyright of the West Yorkshire Archive Service, Conservation)*. Right: *Two-flap folder in use at the Tyne & Wear Archives. (Courtesy of the Tyne & Wear Archives.)*
 
 **Boxes** for documents in the UK tend to be shallow, with removeable lids.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_19.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-boxes.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_19.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-boxes.jpg)
 
 Left: *An empty archive box as used by the Tyne & Wear Archives, who have them specially made to fit their shelves. (Courtesy of Tyne & Wear Archives).* Right: *Archive boxes on the shelves at the West Yorkshire Archives. (Courtesy and copyright of West Yorkshire Archive Service, Wakefield.)*
 
@@ -251,28 +251,28 @@ Left: *An empty archive box as used by the Tyne & Wear Archives, who have them s
 
 As we’ll see shortly, in the UK **cotton tape** is widely used to tie each file shut. And, as in North America, archivists use various ways of stabilizing and associating records within files, including sleeves and paperclips.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_20.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-supplies.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_20.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-supplies.jpg)  
 *Basic packaging supplies and enclosures at the West Yorkshire Archive Service (left) and Tyne & Wear Archives (right). Copyright and courtesy of these archives.*
 
 ## B. Basic configuration
 
 Most archivists in the UK store hand-scale document files flat, by stacking them in shallow boxes.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_21.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-and-contents-2-723930952-e1725406716807.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_21.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-and-contents-2-723930952-e1725406716807.jpg)  
 *A filled box at the Tyne & Wear Archives showing two ways of packaging files, in folders and in large envelopes (see below)._ (_Courtesy of the Tyne & Wear Archives.)*
 
 ## Packing files ready for boxes
 
 In UK document boxes, files are commonly tied shut with archival tape made of cotton or linen. The knot or bow is placed to the side of the file. The archival citation is printed on the file so that the file can be identified and retrieved.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_22.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/tied-folder-out-of-box-3750063843-e1725407004929.jpeg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_22.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/tied-folder-out-of-box-3750063843-e1725407004929.jpeg)  
 *Closed and tied four-flap folder at the West Yorkshire Archive Service. (Courtesy and copyright of the West Yorkshire Archive Service, Conservation).*
 
 ## Packing folders into boxes
 
 Files are laid flat in their boxes, one on top of the next, until the box is full.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_23.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filling-uk-boxes.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_23.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filling-uk-boxes.jpg)  
 Left: *Stack of thicker tied folders ready for stacking into their box. (Courtesy and copyright of West Yorkshire Archive Service.)* Right: *Loaded box of stacked files. (Courtesy and copyright of The John Goodchild Archive and Antiquarian Collection, West Yorkshire Archive Service, Wakefield.)*
 
 For this orientation to work, files must be packaged correctly.
@@ -289,14 +289,14 @@ As in North America, UK archives each have their own in-house preferences for co
 
 That said, one uniquely British way of controlling documents within files includes the use of the “treasury tag,” particularly for modern government files. The treasury tag is piece of cord with wide ends. Holes are punched through one corner of a stack of related papers or enclosures, and the cord loosely passed through them. The tag ensures that papers from a file can’t become disassociated while being used. You can learn more about how tags are applied in [guidance](https://cdn.nationalarchives.gov.uk/documents/paper-files-preparation-guidance.pdf) from the UK’s National Archives. (Not all UK archives apply new tags, but many will receive records that have been tagged before reaching the archives.)
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_24.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/treasury-tags.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_24.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/treasury-tags.jpg)  
 Left: *Treasury tags of different lengths made to accommodate different file thicknesses.* Right: *A file bound with a treasure tag. (Courtesy of the National Archives* [Preparation of Records](https://web.archive.org/web/20211103021220/https://cdn.nationalarchives.gov.uk/documents/information-management/preparation-of-records.pdf).)
 
 ## Storing boxes on shelves
 
 Flat storage boxes in the UK are stacked one on top of the other within the limits of shelf depth and the pressure from accumulated weight.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_25.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-shelves-uk.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_25.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-shelves-uk.jpg)  
 Left: *Double stacks of boxes at the Tyne & Wear Archives. (Courtesy of the Tyne & Wear Archives.)* Right: *Triple stacks of boxes at the West Yorkshire Archives. (Courtesy and Copyright of the West Yorkshire Archive Service, Wakefield.)*
 
 ## Face-off: advantages and disadvantages
@@ -307,7 +307,7 @@ Over the years, I’ve met archivists from both sides of the Atlantic who were i
 
 **Advantages:**
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_26.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230418_113608.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_26.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230418_113608.jpg)
 
 - Documents are gently suspended and don’t move around very much even if the box is jostled.
 - The only edge of a document touching its file (the bottom edge) is protected from damage or folding by this sandwiching of the entire document.
@@ -353,7 +353,7 @@ Aside from habits rooted in history, our preferences may be philosophical and ae
 
 Perhaps, in the end, we should focus on the ultimate goal of preservation. In that spirit, we return to some commonalities. Here are some caveats all our archivists wanted you to know.
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_27.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/wonky-uk-and-can.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_27.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/wonky-uk-and-can.jpg)
 
 Top: *Shallow flat boxes stacked one on top of the other at the Region of Peel Archives in Canada.* Bottom: *Shallow flat boxes turned on their sides in a single layer at the National Archives of the UK. (Courtesy of the [National Archives](https://cdn.nationalarchives.gov.uk/documents/paper-files-preparation-guidance.pdf).)*
 
@@ -371,53 +371,53 @@ Archival work is, if nothing else, a compromise with reality. While we can’t h
 
 We conclude with a casual stroll through archival packaging examples from both the UK and Canada that go beyond what we’ve explored above. (We feel morally obligated to point out that all boxes depicted below have lids, even when not shown!) We hope this slideshow demonstrates our unity of purpose and practice on both sides of the Atlantic. 
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_01.webp)  
 A photograph album in a flat box at the Region of Peel Archives. Highly acidic albums and scrapbooks are a challenge if photos and other documents are glued into them, or pages feature important annotations. Often the best we can do is store the album as is, perhaps interleaving pages with acid-free tissue.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_02.webp)  
 Vellum (parchment) deed with wax seal, stabilized in a flat box at the Region of Peel Archives.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_03.webp)  
 Custom-made box for a particularly fragile bound volume at the West Yorkshire Archive Service. (Anne Lister Diary No. 12, 1829 – 1830. SH:7/ML/E/12. Photograph courtesy and copyright of West Yorkshire Archive Service, Calderdale.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_04.webp)  
 A custom-made large shallow box constructed to house an illuminated vellum (parchment) document with an attached seal, shown on the conservation desk at the West Yorkshire Archive Service. (Inspeximus of Henry VIII, WYL100/HX/A/42, West Yorkshire Archive Service, Leeds. Photograph courtesy and copyright of the West Yorkshire Archive Service.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_05.webp)  
 Large shelves for very large maps at the West Yorkshire Archive Service. (Courtesy and copyright of the West Yorkshire Archive Service, Wakefield.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_06.webp)  
 Hanging storage for framed items and historic signage at Tyne & Wear Archives. (Courtesy of the Tyne & Wear Archives.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_07.webp)  
 Storage of large flat maps and plans at the Tyne & Wear Archives. (Courtesy of the Tyne & Wear Archives.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_08.webp)  
 Photographs housed in uniformly sized sleeves in a divided box. (Courtesy and copyright of the West Yorkshire Archive Service, Conservation.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_09.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_09.webp)  
 Rolled plans in special slots at the Tyne & Wear Archives. (Courtesy of the Tyne & Wear Archives.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_10.webp)  
 Specialty storage for large rolled plans at the West Yorkshire Archive Service. (Courtesy and copyright of the West Yorkshire Archive Service, Wakefield.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_11.webp)  
 Glass negatives stored vertically in a box at the Tyne & Wear Archives. (Courtesy of the Tyne & Wear Archives.)
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_12.webp)  
 Loose and bundled turn-of-the-century tickets from an abandoned railway route stored in a flat box at the Region of Peel Archives.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_13.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_13.webp)  
 Awkwardly shaped and oversize records in a flat box at the Region of Peel Archives.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_14.webp)  
 Wrapped ledgers at the Region of Peel Archives.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_15.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_15.webp)  
 A growing collection of postcards housed in sleeves in a complementary box, at the Region of Peel Archives.
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_16.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_16.webp)  
 Map cabinets at the Region of Peel Archives, housing broadsides (posters), maps, plans, and other large-scale documents. 
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_17.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_17.webp)  
 Fragile and compromised glass plate negative stabilized in a custom enclosure made by a conservator, at the Region of Peel Archives. 

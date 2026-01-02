@@ -63,7 +63,7 @@ Examples of the types of tools that this post applies to include:
 
 But first, why would you go down this path?
 
-![A person choosing between building SaaS and self-hostable software.](https://scillidan.github.io/image_post/building-a-self-hostable-product_01.webp)
+![A person choosing between building SaaS and self-hostable software.](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_01.webp)
 
 Doesn’t the future belong to software-as-a-service (SaaS), where developers integrate functionality using APIs delivered over the Internet? Aren’t self-hostable products straight out of the early 2000s, when Sourceforge.net and Freshmeat.net were how people got software? Back then, weren’t they just called ‘software’, not ‘downloadable software’ or ‘self-hostable software’?
 
@@ -90,7 +90,7 @@ If there’s a performance issue, they can troubleshoot it. If they want to mini
 
 If they need to pin your product to a certain version, they can skip an upgrade, and treat the product like a library dependency.
 
-![A Winnie the Pooh meme emphasizing control.](https://scillidan.github.io/image_post/building-a-self-hostable-product_02.webp)
+![A Winnie the Pooh meme emphasizing control.](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_02.webp)
 
 #### Privacy Guarantees
 
@@ -179,7 +179,7 @@ Whew. Hopefully you’re convinced there’s value in self-hostable software. No
 
 There’s a lot to consider when building a self-hostable product. But front and center are your dependencies.
 
-![Little girl running with text 'what does your product need to run?'.](https://scillidan.github.io/image_post/building-a-self-hostable-product_03.webp)
+![Little girl running with text 'what does your product need to run?'.](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_03.webp)
 
 What dependencies does your product need to run?
 
@@ -268,7 +268,7 @@ With server side control, you can canary your changes and test in the real world
 
 Releasing a self-hostable product is different.
 
-![A person with a fork and the headline 'it just hits different' and the words deployment process and dependencies above the fork.](https://scillidan.github.io/image_post/building-a-self-hostable-product_04.webp)
+![A person with a fork and the headline 'it just hits different' and the words deployment process and dependencies above the fork.](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_04.webp)
 
 You have limited control over how and when your customers deploy. Remember, as a self-hostable product developer, you gave that power to them. But now you have limited ability to upgrade or downgrade the customer.
 
@@ -324,7 +324,7 @@ Self-hosting customers can go beyond turning it off and block network access, wh
 
 Users in the wild will have different resources and constraints than you might expect. When they run your software, they will find issues. Provide channels for manual and automated communication to capture these issues. You can then evaluate, prioritize and fix them.
 
-![A meme with Jeff Goldblum stating 'users will find a way'.](https://scillidan.github.io/image_post/building-a-self-hostable-product_05.webp)
+![A meme with Jeff Goldblum stating 'users will find a way'.](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_05.webp)
 
 Some level of reporting may also be required to charge your customers, if usage based pricing is part of your business model.
 
@@ -401,7 +401,7 @@ Then a self-hostable solution might be just the ticket.
 
 If you want to sell your self-hostable product, you have a few options.
 
-![Jerry Maguire yelling 'show me the business model' into a telephone.](https://scillidan.github.io/image_post/building-a-self-hostable-product_06.webp)
+![Jerry Maguire yelling 'show me the business model' into a telephone.](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_06.webp)
 
 - premium support, possibly with an SLA
 - advanced features, access which can be managed by a software license

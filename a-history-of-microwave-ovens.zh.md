@@ -12,7 +12,7 @@
 
 许多酷炫的雷达技术（例如[腔体磁控管](https://en.wikipedia.org/wiki/Cavity_magnetron)）是在二战期间研发的。战争结束后，一些军事技术被重新构想用于商业/家庭用途。
 
-![雷神模型1132](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_01.webp)
+![雷神模型1132](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_01.webp)
 
 **1947年：** Radarange 1132是第一款商业可用的微波炉。这个庞然大物通过水冷永久磁铁磁控管提供1600W的输出——显然不是家用机器。
 
@@ -20,7 +20,7 @@
 
 *是的，2.4 GHz正是Wi-Fi和蓝牙的频率……*
 
-[![Percy Spencer的1948年“食品烹饪”专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_02.webp)](https://patents.google.com/patent/US2540036A/en?q=(microwave+oven+door)&assignee=raytheon&before=priority:19600101)
+[![Percy Spencer的1948年“食品烹饪”专利](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_02.webp)](https://patents.google.com/patent/US2540036A/en?q=(microwave+oven+door)&assignee=raytheon&before=priority:19600101)
 
 当时尚不清楚介电加热是否适合食品。湿润的食物以更高的强度烹饪，这是令人惊讶的非直观。更糟糕的是，非均匀食物区域（即差不多所有东西）的烹饪不均匀，这在烹饪艺术中通常是不受欢迎的行为。
 
@@ -36,7 +36,7 @@
 
 无论如何，事实证明，2.4GHz的设备制造便宜，并且对食品的加热效果很好（即使是冷冻的）。如今，所有消费级微波炉都使用2.4GHz，但许多工业仍使用915MHz的微波炉用于特定需求的应用。
 
-![雷神模型1161](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_03.webp)
+![雷神模型1161](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_03.webp)
 
 **1954年：** 雷神模型1161与前一型号一样是1600W，但现在完全是风冷的。
 
@@ -46,7 +46,7 @@
 
 *为什么商业厨房的空气“经常充满绒毛”？真恶心。*
 
-![1958年雷神辐射密封专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_04.webp)
+![1958年雷神辐射密封专利](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_04.webp)
 
 微波炉可以很好地烹饪肉。在您阅读时，您可怜的读者，遗憾的是[由肉组成](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)。因此，确保微波留在箱子里，同时也能提供一个方便的门打开箱子，这一点至关重要。
 
@@ -60,7 +60,7 @@
 
 说到加热肉——
 
-![用微波中热疗法复活体温在o到i°C之间的老鼠](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_05.webp)
+![用微波中热疗法复活体温在o到i°C之间的老鼠](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_05.webp)
 
 **1954年：** [詹姆斯·洛夫洛克](https://en.wikipedia.org/wiki/James_Lovelock)等人使用临时微波炉复活了[低温冷冻](https://en.wikipedia.org/wiki/Cryogenics)的仓鼠。
 
@@ -78,17 +78,17 @@
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
 
-![雷神模型1170](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_06.webp)
+![雷神模型1170](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_06.webp)
 
 **1955年：** 雷神模型1170是一款800W的风冷台面型微波炉。
 
-![雷神模型图](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_07.webp)
+![雷神模型图](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_07.webp)
 
-[![1957年雷神微波炉专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_08.webp)](https://patents.google.com/patent/US2920174A/en)
+[![1957年雷神微波炉专利](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_08.webp)](https://patents.google.com/patent/US2920174A/en)
 
 到1950年代中期，现代微波炉的主要组件已经建立：这是一个~2.4GHz的磁控管加上散射器，置于一个通风的金属箱中，配有一个华丽的门。
 
-[![Tappan RL-1](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_09.webp)](https://www.si.edu/es/object/nmah_1088040)
+[![Tappan RL-1](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_09.webp)](https://www.si.edu/es/object/nmah_1088040)
 
 *我最喜欢的特点是那个可爱的食谱抽屉。*
 
@@ -98,7 +98,7 @@
 
 但为什么有那么多额外的旋钮？
 
-![更多Tappan RL-1](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_10.webp)
+![更多Tappan RL-1](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_10.webp)
 
 *抵御诱惑——[永远不要把孩子放进微波炉里](https://www.reddit.com/r/notinteresting/comments/1fw3qrn/my_microwave_asking_for_sacrifices/)。*
 
@@ -114,11 +114,11 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 
 *这就是为什么甜味剂和/或脂肪食品可能会变得意外热并融化塑料厨具。*
 
-![夏普R-10](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_11.webp)
+![夏普R-10](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_11.webp)
 
 **1962年：** 夏普大规模生产R-10，这是他们的第一款主要微波炉。
 
-![夏普R-600](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_12.webp)
+![夏普R-600](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_12.webp)
 
 **1966年：** [仅以¥200K](https://spectrum.ieee.org/microwave-oven)（今天约6000美元），夏普R-600是首款具有旋转盘的微波炉，以更均匀地加热食物。
 
@@ -132,17 +132,17 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 
 **1965年：** 雷神收购阿曼纳制冷设备公司，制造面向美国市场的消费微波炉。在新微波炉的帮助下，雷神[原型出一种便宜的磁控管](https://taylor.town/microwaves.pdf)。
 
-[![阿曼纳RR-1](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_13.webp)](https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/)
+[![阿曼纳RR-1](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_13.webp)](https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/)
 
 **1967年：** [售价495美元](https://spectrum.ieee.org/a-brief-history-of-the-microwave-oven)（约合今天的4500美元），阿曼纳RR-1获得巨大的成功。
 
-[![阿曼纳RR-1面板](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_14.webp)](https://www.radarange.com/)
+[![阿曼纳RR-1面板](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_14.webp)](https://www.radarange.com/)
 
 *惊喜！上面的旋钮增加25分钟的增量；底部的旋钮增加5分钟的增量——绝对没有“+30秒”按钮。*
 
 *人们不再习惯于[30分钟食谱](https://www.reddit.com/r/shittyfoodporn/comments/18iow73/microwave_on_high_for_3033_minutes/)或[相关控制](https://www.reddit.com/r/CasualUK/comments/17vefuk/why_does_the_microwave_go_up_to_35_minutes_has/)。*
 
-[![詹妮弗·劳伦斯在《美国骗局》中炸毁“科学烤箱”（2017）](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_15.webp)](https://www.youtube.com/watch?v=NkzQYtbt_MU)
+[![詹妮弗·劳伦斯在《美国骗局》中炸毁“科学烤箱”（2017）](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_15.webp)](https://www.youtube.com/watch?v=NkzQYtbt_MU)
 
 *詹妮弗·劳伦斯在《美国骗局》中炸毁了一台新的“科学烤箱”（2017）。*
 
@@ -160,23 +160,23 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 
 我就不赘述[乏味的细节](https://taylor.town/microwaves.pdf)了——微波炉被施加了严格的限制，且[10%-30%的旧型号](https://taylor.town/microwaves.pdf)必须进行改装以符合新法。这对公众对微波炉及其制造商的看法造成了不良影响。
 
-[![1968年的太空时代微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_16.webp)](https://www.reddit.com/r/RetroFuturism/comments/xzjrzt/space_age_microwave_oven_from_1968/)
+[![1968年的太空时代微波炉](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_16.webp)](https://www.reddit.com/r/RetroFuturism/comments/xzjrzt/space_age_microwave_oven_from_1968/)
 
 **1968年** Husqvarna制造了[Cupol](https://www.youtube.com/watch?v=DZLMiUEVKNM)烤箱。
 
-![90秒烤脆培根](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_17.webp)
+![90秒烤脆培根](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_17.webp)
 
 **1969年：** 尽管公众恐慌，微波广告开始兴起。
 
-![过去和预测的烹饪磁控管生产数量和用户单位成本](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_18.webp)
+![过去和预测的烹饪磁控管生产数量和用户单位成本](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_18.webp)
 
-![美国家庭（消费）微波炉的年度销售量](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_19.webp)
+![美国家庭（消费）微波炉的年度销售量](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_19.webp)
 
 > 虽然这在今天不常见，但在1970年代，主要家电制造商提供了组合微波-炉具，作为技术自然演变的一部分。Tappan和通用电气都提供看似传统炉灶/烤箱的设备，但在传统烤箱腔中包括微波能力。这种炉具对消费者具有吸引力，因为可以同时使用微波能和常规加热元件以加快烹饪，而且不会占用台面空间。对于制造商来说，这一提案也很有吸引力，因为与越来越敏感的市场定价相比，增加的组件成本可以更好吸收。
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven#Residential_use)
 
-![更多阿曼纳RR-4D](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_20.webp)
+![更多阿曼纳RR-4D](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_20.webp)
 
 **1974年：** 阿曼纳RR-4D是第一款具有“自动解冻”模式的微波炉，该模式每几秒钟开启/关闭磁控管。
 
@@ -189,11 +189,11 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 - 功率是“每秒能量”。要用那些指定的光子创建较低功率的“解冻”模式，工程师只需每秒发送更少的光子。
 - 历史上，调节光子每秒数量最廉价、最简单的方法是按不同的间隔开关磁控管。直到引入_逆变器_，这一点依然如此——但稍后再讲。
 
-![阿曼纳RR-6](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_21.webp)
+![阿曼纳RR-6](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_21.webp)
 
 **1975年：** 阿曼纳RR-6是第一款带有数字界面的微波炉。
 
-![康宁微波碗](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_22.webp)
+![康宁微波碗](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_22.webp)
 
 **1977年：** 微波炉的流行催生了专用工具和方法的第二市场。
 
@@ -203,25 +203,25 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [总是打破蛋黄](https://spectrum.ieee.org/microwave-oven)
 
-![阿曼纳RR-7B](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_23.webp)
+![阿曼纳RR-7B](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_23.webp)
 
-![阿曼纳RR-7D](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_24.webp)
+![阿曼纳RR-7D](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_24.webp)
 
 **1979年：** 阿曼纳RR-7系列将25/5旋钮替换为一个时间旋钮和一个功率旋钮。功率旋钮调整磁控管[占空比](https://en.wikipedia.org/wiki/Duty_cycle)在10%和100%之间。
 
-[![阿曼纳糖果制造商探头](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_25.webp)](https://www.ebay.com/itm/144723126657)
+[![阿曼纳糖果制造商探头](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_25.webp)](https://www.ebay.com/itm/144723126657)
 
 **1978年：** 阿曼纳为其RR-8型号配备温度探头。
 
-[![阿曼纳RR-8](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_26.webp)](https://thefuzzyfelt.com/products/1978-radarange-cookmatic-microwave-by-amana-vintage-retro-and-like-new-made-in-usa)
+[![阿曼纳RR-8](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_26.webp)](https://thefuzzyfelt.com/products/1978-radarange-cookmatic-microwave-by-amana-vintage-retro-and-like-new-made-in-usa)
 
 **1978年：** 当探头插入时，RR-8在达到设定的温度阈值后进行烹饪，然后保持温暖。
 
-[![采用气体传感器的微波炉（夏普）](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_27.webp)](https://patents.google.com/patent/US4319110A/en)
+[![采用气体传感器的微波炉（夏普）](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_27.webp)](https://patents.google.com/patent/US4319110A/en)
 
 **1979年：** 夏普获得了一种无探头的传感器加热微波炉专利。
 
-[![夏普转盘](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_28.webp)](https://www.ebay.com/itm/134078893833)
+[![夏普转盘](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_28.webp)](https://www.ebay.com/itm/134078893833)
 
 **1981年：** 夏普推出了一款豪华的对流/微波炉，配有旋转盘。
 
@@ -229,35 +229,35 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
 
-![利顿自动烹饪广告](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_29.webp)
+![利顿自动烹饪广告](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_29.webp)
 
 **1983年：** 利顿推出基于重量的自动烹饪。
 
 *那款微波炉好大！*
 
-[!['骗子！' '嘿，玩WiFi？你只能怪自己。'](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_30.webp)](https://xkcd.com/654/)
+[!['骗子！' '嘿，玩WiFi？你只能怪自己。'](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_30.webp)](https://xkcd.com/654/)
 
 **1985年：** FCC开放[ISM频段](https://en.wikipedia.org/wiki/ISM_radio_band)供低功率通信使用。
 
 *长话短说：这就是微波为何会干扰你的Wi-Fi信号的原因。[在家试试！](https://www.reddit.com/r/dataisbeautiful/comments/8xu89b/why_my_microwave_makes_me_lose_wifi_connection/)*
 
-[![夏普RE-2](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_31.webp)](https://design.sharp.co.jp/eng/design_column/a08_1987microwave-re2)
+[![夏普RE-2](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_31.webp)](https://design.sharp.co.jp/eng/design_column/a08_1987microwave-re2)
 
 **1987年：** 夏普推出RE-2胶囊微波炉。
 
-[![利顿爆米花专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_32.webp)](https://patents.google.com/patent/US4870238A/en?q=TI%3d(microwave)&q=(popcorn)&q=(-package)&before=priority:19950101&page=1)
+[![利顿爆米花专利](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_32.webp)](https://patents.google.com/patent/US4870238A/en?q=TI%3d(microwave)&q=(popcorn)&q=(-package)&before=priority:19950101&page=1)
 
 **1988年：** 利顿获得爆米花模式专利。
 
-![GoldStar一键微波按钮](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_33.webp)
+![GoldStar一键微波按钮](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_33.webp)
 
 **1991年：** GoldStar一键微波按钮配备了特定食品的按钮：爆米花、披萨、蔬菜、冷冻晚餐、烤土豆、食品盘。
 
-[![夏普转盘多选](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_34.webp)](https://www.youtube.com/watch?v=UiS27feX8o0)
+[![夏普转盘多选](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_34.webp)](https://www.youtube.com/watch?v=UiS27feX8o0)
 
 **1997年：** 微波炉达到了“巅峰”。
 
-![GE Advantium](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_35.webp)
+![GE Advantium](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_35.webp)
 
 **1999年：** GE Advantium使用石英卤素灯来用红外线给食物上色。
 
@@ -265,17 +265,17 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 
 > 在这项研究中，比较了不同烘焙方法的效果；微波、红外和红外-微波组合。仅用微波烘焙的蛋糕存在一些质量缺陷，如缺乏颜色、高重量损失、纹理非常坚硬且体积小。仅用红外加热也不值得推荐，因为产品的外壳非常厚，而且烘焙时间不小于红外-微波组合烘焙。
 
-[![KCF模式](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_36.webp)](https://www.reddit.com/r/mildlyinteresting/comments/adm597/this_microwave_has_a_kosher_consumer_friendly_mode/)
+[![KCF模式](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_36.webp)](https://www.reddit.com/r/mildlyinteresting/comments/adm597/this_microwave_has_a_kosher_consumer_friendly_mode/)
 
 **2001年：** 惠而浦推出带有[安息日模式](https://en.wikipedia.org/wiki/Sabbath_mode)的[STAR-K](https://www.star-k.org/articles/kashrus-kurrents/483/the-sabbath-mode/)电器。
 
 *如果您渴望历史背景，请查看这篇[1990年的期刊文章](https://taylor.town/microwave-sabbath-1990.pdf)和[2012年的论文](https://taylor.town/limited-electronics-spitz.pdf)。*
 
-[![混沌解冻](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_37.webp)](https://www.reddit.com/r/funny/comments/5tgccy/my_microwave_has_a_chaos_mode_and_ive_never/)
+[![混沌解冻](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_37.webp)](https://www.reddit.com/r/funny/comments/5tgccy/my_microwave_has_a_chaos_mode_and_ive_never/)
 
 **2003年：** 制造商声称“混沌解冻”以不规则的占用周期让食物加热更均匀。
 
-![松下逆变器](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_38.webp)
+![松下逆变器](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_38.webp)
 
 **2009年：** 松下的逆变器技术让微波炉的世界_颠倒过来_！对磁控管电源的改进使得微波炉能够以较低的功率水平（即解冻）更一致地加热食物。
 
@@ -289,31 +289,31 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven#Interference)
 
-![检测微波炉中爆米花状态的方法，图3](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_39.webp)
+![检测微波炉中爆米花状态的方法，图3](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_39.webp)
 
-![检测微波炉中爆米花状态的方法，图7](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_40.webp)
+![检测微波炉中爆米花状态的方法，图7](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_40.webp)
 
 **2014年：** 惠而浦的[基于声波的爆米花烹饪专利](https://patents.google.com/patent/US20160205973A1/en)在[WMH76719CS](https://www.ajmadison.com/cgi-bin/ajmadison/WMH73521CW.html?srsltid=AfmBOoocPpsUnA7bW6Zm3_MlriHr6NbG3_8vYokaM28RKBnzYzKsI3PZ)上市。
 
-![Breville Quicktouch](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_41.webp)
+![Breville Quicktouch](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_41.webp)
 
 **2015年：** Breville制造了一台外形优美的微波炉，功能更加。
 
-![马克·罗伯的热图微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_42.webp)
+![马克·罗伯的热图微波炉](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_42.webp)
 
 **2015年：** 马克·罗伯打造了一款[带有热图屏幕的微波炉](https://www.youtube.com/watch?v=ptkzzNaZb7U)。
 
-![Wayv露营微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_43.webp)
+![Wayv露营微波炉](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_43.webp)
 
-![NXP概念炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_44.webp)
+![NXP概念炉](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_44.webp)
 
 **2015年：** [固态射频技术的进步](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7173133)催生了一波精美的概念炉。
 
 > 固态微波炉相比于磁控管驱动的炉子，提供了更好的能量分配和烹饪精度。频率灵活性允许通过在2.45 GHz周围使用±50 MHz的频率变化，实现更均匀的能量分布。在多通道系统中，多个功率放大器和天线通过相位移变换器修改场分布，以提高均匀性。频率和相位灵活性调整射频功率，以匹配负载条件，确保高效率（超过90%），即使是对于小负载。高分辨率射频功率控制防止煮焦，尤其是对精细食物，并且前向/反射功率测量实现了精确的能量传递和一致的烹饪结果。
 
-![Panacrunch](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_45.webp)
+![Panacrunch](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_45.webp)
 
-![更多Panacrunch](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_46.webp)
+![更多Panacrunch](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_46.webp)
 
 **2017年：** 松下重新引入烤色元件。
 
@@ -321,9 +321,9 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [松下NN-GD368M手册](https://www.manualslib.com/manual/1178997/Panasonic-Nn-Gd368m.html?page=18)
 
-![美诺对话](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_47.webp)
+![美诺对话](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_47.webp)
 
-![半熟三文鱼](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_48.webp)
+![半熟三文鱼](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_48.webp)
 
 **2017年：** [美诺对话](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)（[演示](https://www.youtube.com/watch?v=wMwjHnspohU)）通过射频发射器/传感器的反馈回路进行烹饪。
 
@@ -337,15 +337,15 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [高频电子学](https://www.highfrequencyelectronics.com/index.php?option=com_content&view=article&id=1954:let-s-warm-things-up&catid=161&Itemid=189)
 
-[![GE扫描-烹饪](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_49.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
+[![GE扫描-烹饪](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_49.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
 
-[![GE智能Alexa](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_50.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
+[![GE智能Alexa](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_50.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
 
 **2018年：** GE智能微波炉兼容Alexa，并配有配套应用。
 
 正如您所期待的，[连线](https://www.wired.com/review/review-ge-smart-countertop-microwave-with-scan-to-cook-technology/)和[CNET](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/4/)对该应用都有负面体验。
 
-![亚马逊Basics微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_51.webp)
+![亚马逊Basics微波炉](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_51.webp)
 
 **2018年：** 亚马逊推出一款价格非常便宜的微波炉，配有语音控制。
 
@@ -357,11 +357,11 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [《边缘》](https://www.theverge.com/2018/11/21/18103123/amazonbasics-amazon-microwave-alexa-voice-commands-review-features)
 
-![Balmuda The Range](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_52.webp)
+![Balmuda The Range](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_52.webp)
 
 **2020年：** [Balmuda](https://us.balmuda.com/)生产了一款华丽的对流/微波炉。
 
-![美的微波炉主导美国市场。](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_53.webp)
+![美的微波炉主导美国市场。](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_53.webp)
 
 **2020年：** 《纽约时报》发布了一篇关于美的制造微波炉的病毒故事。
 
@@ -385,11 +385,11 @@ RL-1有一个“上色元件”，也就是“变得非常热的东西”，也�
 > 
 > -- [中国网](http://www.china.org.cn/english/BAT/36577.htm)
 
-![牧田微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_54.webp)
+![牧田微波炉](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_54.webp)
 
 **2023年：** 牧田[销售一款500W的电池供电微波炉](https://www.youtube.com/watch?v=0RYwaDaIOwk)。
 
-![GE厨房中心2](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_55.webp)
+![GE厨房中心2](https://scillidan.github.io/cdn_image_post/a-history-of-microwave-ovens_55.webp)
 
 **2024年：** 在[2020年首演后](https://www.cnet.com/home/smart-home/ge-kitchen-hub-adds-a-microwave-to-kitchen-hub-touchscreen-display/)，GE厨房中心2尚未上市。
 

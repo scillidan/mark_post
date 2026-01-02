@@ -12,7 +12,7 @@
 
 这种热情、挣扎和失望的循环变得过于熟悉。这就是海德拉项目效应：无论我取得多大进展，总有新的挑战似乎在其位置上蹦出。但是，虽然这个模式似乎难以打破，我决心找到驯服这一怪物的方法。在这篇文章中，我将探讨打破这种无尽的开始和令人不满的中间状态循环的策略。是时候学习完成的艺术，杀死这只海德拉，最终体验完成项目的满足感。
 
-![My Hydra looks amazing, I am fantastic at drawing](https://scillidan.github.io/image_post/the-art-of-finishing_01.webp)
+![My Hydra looks amazing, I am fantastic at drawing](https://scillidan.github.io/cdn_image_post/the-art-of-finishing_01.webp)
 
 ## 无尽项目的诱惑
 
@@ -28,7 +28,7 @@
 
 自相矛盾的是，有时我们对成功的恐惧与对失败的恐惧一样。一个成功的项目可能会导致更高的期望、更大的责任，或者一种我们尚未准备好的身份变化。未完成的项目变成了一个安全网，保护我们免受成功可能带来的未知后果。
 
-![My typical project timeline graph](https://scillidan.github.io/image_post/the-art-of-finishing_02.webp)
+![My typical project timeline graph](https://scillidan.github.io/cdn_image_post/the-art-of-finishing_02.webp)
 
 ## 从未完成的代价
 

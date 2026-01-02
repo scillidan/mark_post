@@ -6,7 +6,7 @@ I recently released a set of [Dither Brushes](https://abductedplatypus.itch.io/d
 
 Dithering is a technique used to make gradients and different teints of similar colors in pixel art, without using a wide scala of actual colors. It uses a pattern of alternating colors to “mix” two (but rarely more than two) colors together, tricking the human eye into believing that they actually perceive a third color. There are different patterns that can be used, each with a different “density” and style. A similar technique has been used in some pop art that utilised Ben Day dots. And in fact this technique is still used in modern printing; CMYK uses halftone dot patterns and LCD screens; each pixel is created from a red, green and blue subpixel. Tricking the human eye is always great.
 
-![](https://scillidan.github.io/image_post/dithering-in-photoshop.webp)  
+![](https://scillidan.github.io/cdn_image_post/dithering-in-photoshop.webp)  
 *Pop Art with Ben Day dots, zoomed in you can clearly see the the dots, zoomed out you see pinkish skin color; Close up of 'Drowning Girl' by Roy Lichtenstein (1963)*  
 Picture: Tim Pendemon, Close up: Matt Grommes
 
@@ -14,7 +14,7 @@ Often two similar colors are used to create a color that is in between the two, 
 
 Nowadays the main reason for using it is for aestatic reasons. A nice talk on this kind of graphics, including dithering, is by [Mark Ferrari](https://www.youtube.com/watch?v=aMcJ1Jvtef0), who worked on a lot of 80’s classics like The Secret of Monkey Island. And no, he doesn’t understand why there are still people that want to make pixel art. But he does acknowledge the fact that such limitations make you very creative.
 
-![](https://scillidan.github.io/image_post/dithering-in-photoshop.webp)  
+![](https://scillidan.github.io/cdn_image_post/dithering-in-photoshop.webp)  
 *Dithering in a gradient and usage in character.*  
 Character by Cure
 
@@ -36,7 +36,7 @@ It should also be noted that there is only one pattern, while the pattern can be
 
 Finally you should really know what you are doing and have some feeling on what the dither will look like when zoomed out.
 
-![](https://scillidan.github.io/image_post/dithering-in-photoshop.webp)  
+![](https://scillidan.github.io/cdn_image_post/dithering-in-photoshop.webp)  
 Problems you might encounter (and should know about) when using the 25% brushes.  
 
 ## Recommendations

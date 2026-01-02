@@ -12,7 +12,7 @@
 
 “船的侧面有一种独特的美感，”摄影师戴维·韦伯斯密斯（David Webster Smith）说，他也是旧金山的一名拖船工程师。“我一有机会就会拿出相机。”
 
-![船尾的名称](https://scillidan.github.io/image_post/the-secret-language-of-ships_01.webp)
+![船尾的名称](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_01.webp)
 
 大多数船只的身份线索被印在其船尾，通常按照相同的顺序排列：船主、船名、港口（或“国旗”）以及国际海事组织（IMO）编号。美国总统航运公司（APL）拥有这艘名为《墨西哥城》的船，它是在新加坡国旗下航行的。
 
@@ -20,7 +20,7 @@
 
 有没有好奇这些黄色绿色、像幸运饼干一样的物体呢？它们是防鼠设备，阻止鼠类试图从码头爬到绳索再到船上。
 
-![集装箱船的后视](https://scillidan.github.io/image_post/the-secret-language-of-ships_02.webp)
+![集装箱船的后视](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_02.webp)
 
 为什么一家韩国公司（韩进）的船只把其港口标注为巴拿马？
 
@@ -30,7 +30,7 @@
 
 还有一件事情值得一提。看到照片左侧和右侧甲板上的船员了吗？他们实际上是穿着海员服装的假人，旨在欺骗海盗，让他们以为总有人在监视。
 
-![船侧的普林索尔线](https://scillidan.github.io/image_post/the-secret-language-of-ships_03.webp)
+![船侧的普林索尔线](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_03.webp)
 
 这些标记称为载重线，显示船只能承载的最大负载。
 
@@ -42,7 +42,7 @@
 
 W标记表示冬季温带海水的最大负载，S表示夏季温带海水，T表示热带海水，F表示淡水，TF表示热带淡水，如亚马逊河的水。
 
-![船的球形艏](https://scillidan.github.io/image_post/the-secret-language-of-ships_04.webp)
+![船的球形艏](https://scillidan.github.io/cdn_image_post/the-secret-language-of-ships_04.webp)
 
 这艘船配备了所谓的球形艏，艏部低下的突起。与其笨拙的外形相反，球形艏实际上减少了阻力，提高了速度和燃油效率。
 
@@ -50,7 +50,7 @@ W标记表示冬季温带海水的最大负载，S表示夏季温带海水，T�
 
 带有X的白色圆圈表示存在艏侧推器，一种帮助船只横向机动的推进设备，是在码头进出时的一个福音。
 
-![船侧的吃水线](https://scillidan.github.io/image_post/the-secret-language-of_ships_05.webp)
+![船侧的吃水线](https://scillidan.github.io/cdn_image_post/the-secret-language-of_ships_05.webp)
 
 竖直排列的数字称为吃水线，测量船体底部（龙骨）与水线之间的距离。如果水位达到10米线，这意味着船舶的10米部分在水下。
 
@@ -58,17 +58,17 @@ W标记表示冬季温带海水的最大负载，S表示夏季温带海水，T�
 
 在吃水线的左侧有不同版本的球形艏和艏侧推器符号。BT|FP告诉你艏侧推器的位置：在压载水舱（BT）与船首尖（FP）之间，即船的最前端。拖船操作员了解艏侧推器的位置是很重要的，因为它会产生涡流，拖船尽量避免碰到。
 
-![一艘油轮的侧面](https://scillidan.github.io/image_post/the-secret-language-of_ships_06.webp)
+![一艘油轮的侧面](https://scillidan.github.io/cdn_image_post/the-secret-language-of_ships_06.webp)
 
 两艘拖船在里士满-旧金山拉菲尔大桥附近接近一艘油轮。这张照片是从一艘正在靠近船只的第三艘拖船拍摄的，白色箭头指向“楔座”（chocks），它们是小而强的杆叫作“缆绳桩”（bitts）。拖船将绳索系在这些缆绳桩上。
 
 SWL 50t意味着每个缆绳桩的安全工作负荷为50吨。拖船在将绳索系到缆绳桩后，其施加的拉力不会超过50吨，帮助船只刹车或调整停靠。
 
-![船侧的鸽子巢梯](https://scillidan.github.io/image_post/the-secret-language-of_ships_07.webp)
+![船侧的鸽子巢梯](https://scillidan.github.io/cdn_image_post/the-secret-language-of_ships_07.webp)
 
 这些是鸟的窝，还是在海风中生锈的？差不多。这些腔体实际上被称为鸽子巢。它们是船体内梯子的组成部分，可以让水手沿着驳船的侧面爬上去。与货船不同，平底驳船并不是自驱动的。它们通常由拖船拖曳或推送，尽管在早期，它们是通过马、骡子或驴在相邻的拖曳道上拉动的。尽管驳船通常无人值守，但偶尔需要登船，例如当需要将缆绳扔给码头工人时。鸽子巢为登船者提供了便利的攀爬方式。
 
-![船侧的涂料](https://scillidan.github.io/image_post/the-secret-language-of_ships_08.webp)
+![船侧的涂料](https://scillidan.github.io/cdn_image_post/the-secret-language-of_ships_08.webp)
 
 船只的涂装不仅仅是为了美观或品牌。当你看到这种双色效果时，靠近水线的涂料通常具有不同的化学成分，更能抵抗浸泡。更重要的是，船体的涂层不仅要防腐，还要抵御粘附在船体上的藻类、贻贝和其他生物。
 
@@ -76,7 +76,7 @@ SWL 50t意味着每个缆绳桩的安全工作负荷为50吨。拖船在将绳�
 
 要采取预防措施，比如防污涂料。早期的防污涂料含有铜甚至砷，能够有效毒死生物，但对水也有毒。现代的防污涂层更加环保，并且总有新的系统被研发，比如创造模仿鲨鱼皮肤的船体表面，因为与某些鲸鱼不同，鲨鱼通常不会带有海葵。
 
-![船侧的标记](https://scillidan.github.io/image_post/the-secret-language-of_ships_09.webp)
+![船侧的标记](https://scillidan.github.io/cdn_image_post/the-secret-language-of_ships_09.webp)
 
 白色矩形的边缘是黄色的——这是一种引导海事 pilots 登船船只的标记。海事 pilots（也称为港口飞行员）是对本港的航行危险非常熟悉的专家，是海事生活戏剧中的关键角色。
 
@@ -84,7 +84,7 @@ SWL 50t意味着每个缆绳桩的安全工作负荷为50吨。拖船在将绳�
 
 红色上的白色标记是碰撞的伤痕，提醒人们注意与码头、其他船只（大多是拖船）以及运河侧面的碰撞。
 
-![船侧的梯子](https://scillidan.github.io/image_post/the-secret-language-of_ships_10.webp)
+![船侧的梯子](https://scillidan.github.io/cdn_image_post/the-secret-language-of_ships_10.webp)
 
 海事飞行员会利用这两条梯子登上这艘船。首先，他或她攀爬绳梯，有时被称为雅各布梯，源自于圣经中的雅各，他以梦见一条连接天与地的梯子而著称。在爬梯子的过程中，飞行员转到相对安全的对角阶梯上，该阶梯称为通道梯（accommodation ladder）。
 

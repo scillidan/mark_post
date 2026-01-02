@@ -8,11 +8,11 @@
 
 让我们先简单看看：
 
-![PPResume PWA安装提示](https://scillidan.github.io/image_post/introducing-ppresume-pwa_01.webp)  
-![PPResume PWA macOS应用搜索](https://scillidan.github.io/image_post/introducing-ppresume-pwa_02.webp)  
-![PPResume PWA macOS应用切换](https://scillidan.github.io/image_post/introducing-ppresume-pwa_03.webp)  
-![PPResume PWA macOS窗口](https://scillidan.github.io/image_post/introducing-ppresume-pwa_04.webp)  
-![PPResume PWA iOS](https://scillidan.github.io/image_post/introducing-ppresume-pwa_05.webp)
+![PPResume PWA安装提示](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_01.webp)  
+![PPResume PWA macOS应用搜索](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_02.webp)  
+![PPResume PWA macOS应用切换](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_03.webp)  
+![PPResume PWA macOS窗口](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_04.webp)  
+![PPResume PWA iOS](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_05.webp)
 
 ## 什么是PWA？
 
@@ -22,7 +22,7 @@
 
 [iPhone的诞生](https://www.youtube.com/watch?v=VQKMoT-6XSg)开启了移动计算的新纪元。当2007年iPhone 1发布时，它配备了3.5英寸的显示屏，并有Safari的移动版本用于上网。而在当时，网络是向iPhone提供应用的唯一方式。正如你所见，那时大多数网站都是为桌面设备设计的——只有少部分[wap](https://en.wikipedia.org/wiki/Wireless_Application_Protocol)网站是为手机设计的——所以您必须用手指捏合以放大或缩小，从而浏览手机上的网站。
 
-![iPhone的诞生，MacWorld 2007](https://scillidan.github.io/image_post/introducing-ppresume-pwa_06.webp)  
+![iPhone的诞生，MacWorld 2007](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_06.webp)  
 
 不必多说，iPhone是一个革命性的移动设备，它是如此成功，以至于移动优先设计随后成为一种趋势，因为越来越多的流量来自移动设备。
 
@@ -36,7 +36,7 @@ App Store生态系统继续蓬勃发展，但网络也没有停止进化。随�
 
 2010年，[Ethan Marcotte](https://ethanmarcotte.com/)在[A List Apart](https://alistapart.com/)上发表了一篇文章，介绍了[响应式网页设计](https://alistapart.com/article/responsive-web-design/)的概念。响应式网页设计是一种设计方法，旨在创建能够适应绝大多数设备，从桌面计算机到移动设备的网站。响应式网页设计的核心思想是使用[CSS媒体查询](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries)根据设备的特点（如屏幕大小、方向和分辨率等）应用不同的样式。
 
-![内容像水一样](https://scillidan.github.io/image_post/introducing-ppresume-pwa_07.webp)  
+![内容像水一样](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_07.webp)  
 
 2015年，设计师[Frances Berriman](https://fberriman.com/)和她的丈夫[Alex Russell](https://infrequently.org/)，一位Google Chrome工程师，在Alex的博客中创造了“渐进式网络应用”的术语：[渐进式网络应用：在不失去我们的灵魂的情况下逃脱标签](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)。
 

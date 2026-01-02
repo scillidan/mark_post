@@ -200,13 +200,13 @@ When the cycle time for writing and executing a new version of the program is hi
 
 ### Epilogue - Eight Decades Later
 
-![von Neumann architecture diagram](https://scillidan.github.io/image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_01.webp)
+![von Neumann architecture diagram](https://scillidan.github.io/cdn_image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_01.webp)
 
 This is how von Neumann's architecture is taught in schools today. The famous Big-Oh notation is also based on a similar model of computer. However, after eight decades of evolution, the underlying hardware is completely different from this model.
 
 There is immense pedagogical value in our simple block diagram of von Neumann architecture, but let's be real here, even the original implementation of von Neumann architecture is not that simple. Let's take a look at this block diagram of modern Zen 4 architecture.
 
-![Zen 4 Block Diagram](https://scillidan.github.io/image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_02.webp)
+![Zen 4 Block Diagram](https://scillidan.github.io/cdn_image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_02.webp)
 
 Image from [Chips and Cheese](https://chipsandcheese.com/p/amds-zen-4-part-1-frontend-and-execution-engine).
 

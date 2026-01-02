@@ -12,7 +12,7 @@ As I prepare to step away from my desk, I can’t shake a feeling of frustration
 
 This cycle of enthusiasm, struggle, and disappointment has become all too familiar. It’s the Hydra Project Effect: no matter how much progress I make, new challenges always seem to sprout in their place. But while this pattern may seem unbreakable, I’m determined to find a way to tame this beast. In this post, I’ll explore strategies for breaking out of this cycle of endless beginnings and unsatisfying middles. It’s time to learn the art of finishing, to slay this Hydra once and for all, and to finally experience the satisfaction of a completed project.
 
-![My Hydra looks amazing, I am fantastic at drawing](https://scillidan.github.io/image_post/the-art-of-finishing_01.webp)
+![My Hydra looks amazing, I am fantastic at drawing](https://scillidan.github.io/cdn_image_post/the-art-of-finishing_01.webp)
 
 ## The Allure of the Endless Project
 
@@ -28,7 +28,7 @@ The absence of deadlines in personal projects adds another layer to this complex
 
 Paradoxically, sometimes we fear success as much as failure. A successful project might lead to increased expectations, more responsibility, or a change in identity that we’re not quite ready for. The unfinished project becomes a safety net, protecting us from the unknown consequences of success.
 
-![My typical project timeline graph](https://scillidan.github.io/image_post/the-art-of-finishing_02.webp)
+![My typical project timeline graph](https://scillidan.github.io/cdn_image_post/the-art-of-finishing_02.webp)
 
 ## The Cost of Never Finishing
 

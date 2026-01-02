@@ -20,7 +20,7 @@ To recover the wide eyes of childhood we need to learn to unsee with words. In I
 
 This trade-off is one we will encounter again: a new technology allows us to better manipulate notions, however we pay less attention to the things in themselves.
 
-![](https://scillidan.github.io/image_post/the-offshoring-of-thought-and-memory_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/the-offshoring-of-thought-and-memory_01.webp)  
 _Concepts emerging from Lint by Chris Ware_
 
 Most languages offer a limited set of symbols that can combine in limitless ways. Yet within a given mind, or — more precisely — within a human window of consciousness, the possibilities are constrained. 
@@ -49,7 +49,7 @@ This somewhat parallels the mode in which notions of personal identity no longer
 
 An illustrative case is arithmetic. While as children we struggle with the simplest of problems, having to reason through 3+3, later such simple operations become ingrained, automatic. We would still need to reason out more complicated expressions, although most of us now reach for calculators. In The Feeling of Power (1958), Azimov imagined a future in which even counting has been forgotten, those who  rediscover it are granted the titular sense of their innate potential.
 
-![](https://scillidan.github.io/image_post/the-offshoring-of-thought-and-memory_02.webp)
+![](https://scillidan.github.io/cdn_image_post/the-offshoring-of-thought-and-memory_02.webp)
 
 Much more complex reasoning tasks have begun to be offshored in the last decade: medical diagnosis, translation, criminal sentencing, verifying insurance claims, grading exam papers. In some cases this is not so much a transposition of capabilities from human to machine, rather the change of scale (with protein folding) or sensitivity (with medical imaging) permit us to confront tasks that were previously hopeless. We have automated both tedious tasks — for example the filtering of datasets — and also those we relish such as the playing of games, the creation of images and music.
 
@@ -59,7 +59,7 @@ The foregoing shifts have produced innovations yet their production has been str
 
 It is conceivable that not books, nor Wikipedia articles but tailored reconstructions by LLMs become the principal means by which we access one another’s ideas. Every blog will have a button to rephrase posts in a style that most suits the reader. And every blogger will have the option of allowing an LLM to more coherently extrapolate their ideas.
 
-![](https://scillidan.github.io/image_post/the-offshoring-of-thought-and-memory_03.webp)
+![](https://scillidan.github.io/cdn_image_post/the-offshoring-of-thought-and-memory_03.webp)
 
 Where in the past humans have remained at the nexus of creativity — albeit often cobbling materials from other sources — in the future humans may become the clients of machine reasoning.
 

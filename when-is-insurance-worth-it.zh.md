@@ -64,7 +64,7 @@ Kelly标准不仅仅是一个一般性的理念，而是[一个具体的数学�
 
 我们暂时忽略免赔额，因为这会使方程变得更复杂，但我们会回到这一点。我们将这些数字代入公式[6]中，求出在我们当前情况下保险的值 VV：
 
-![](https://scillidan.github.io/image_post/when-is-insurance-worth-it_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/when-is-insurance-worth-it_01.webp)  
 ```tex
 V \;=\;\log\bigl(W - P\bigr)
 \;-\;\bigl(1 - \sum p_i\bigr)\,\log W
@@ -88,7 +88,7 @@ V \;=\;\log\bigl(W - P\bigr)
 
 我们可以如下将固定免赔额 d 纳入方程：
 
-![](https://scillidan.github.io/image_post/when-is-insurance-worth-it_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/when-is-insurance-worth-it_02.webp)  
 ```tex
 V = \bigl(1 - \sum p_i\bigr)\,\log(W - P)
 \;+\;\Bigl(\sum p_i\Bigr)\,\log\bigl(W - P - d\bigr)
@@ -141,7 +141,7 @@ _任何_事物的概率分布都是未知的，但这不是问题。优秀的预
 
 聪明的读者还会注意到，如果我们设置免赔额为事件相关，并创建一个虚拟事件，当没有坏事情发生时（该事件的免赔额和成本均为零），很多项相似条款可以结合。确实，该方程可以表达为
 
-![](https://scillidan.github.io/image_post/when-is-insurance-worth-it_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/when-is-insurance-worth-it_03.webp)  
 ```tex
 V \;=\;\sum\bigl[p_i\,\log\!\frac{\,W - P - d_i\,}{\,W - c_i\,}\bigr]
 ```

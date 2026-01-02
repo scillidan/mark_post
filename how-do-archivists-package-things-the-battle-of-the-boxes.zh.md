@@ -1,6 +1,6 @@
 # [档案管理员如何打包东西？盒子的对决](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_01.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240409_093520-3819877179-e1725479157965.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_01.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240409_093520-3819877179-e1725479157965.jpg)
 
 我们已经有一段时间没有发布关于档案工作内幕的文章了。为了弥补这一点，这里是我们热门系列[档案常见问题和事实](https://peelarchivesblog.com/category/archives-faqs-and-facts/)的特别版。首次，我们将比较两个国家的档案管理员在实现共同目标时略有不同的做法。
 
@@ -16,7 +16,7 @@
   
 - **职业好奇**：我（佩尔地区档案馆的萨曼莎）长期以来注意到，英国和北美的包装实践之间有一些有趣的差异。这种比较是展示基本保护措施的绝佳方式。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_02.webp)
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_02.webp)
 
 *社交媒体上由档案管理员芭比（Archivist Barbie）携带的这个盒子对北美的档案爱好者来说是立即可识别的——在其他国家可能就不那么明显了。 （感谢[一条推特](https://x.com/NCArchives/status/1682055889220694016)由北卡罗来纳州立档案馆提供。）*
 
@@ -34,12 +34,12 @@
 
 电影和电视中的档案往往有着某种特定的*外观*：一堆奇怪尺寸的纸张和书籍（主要是书籍），挤满了架子和桌子。这些东西看起来多样而引人注目。（在未被收藏的情况下，东西看起来更多趣味。）
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_03.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/movies-packaging.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_03.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/movies-packaging.jpg)  
 *电影《灵异孤儿》和《诺查丹玛斯》的场景。* *恐怖以多种形式存在。*
 
 当然，真正的档案架上确实存放着传统的复古物品，尤其是大型书籍。（这些架子在档案出现在新闻中时经常作为照片背景。）但档案管理员的秘密是，大多数存储的档案架看起来相对单调：一排排相同的盒子，装满了相同的文件，并且标记晦涩。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_04.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/shelves.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_04.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/shelves.jpg)  
 左：*位于加拿大安大略省布兰普顿的佩尔地区档案馆。* 右：*位于英国纽卡斯尔的泰恩与威尔档案馆。（感谢泰恩与威尔档案馆。）*
 
 为什么常规尺寸的盒子和文件会成为常态，尤其是档案记录的种类从地图、明信片、和报告到信件、传单和照片的范围如此之广？在某种程度上，这个问题自我回答，但让我们来详细分析一下。
@@ -56,7 +56,7 @@
 
 标准包装的一个关键优势是它通用地适应特定范围的常见文件尺寸。为了方便，我们称这个范围为**_手持文档_**：可以在我们的双手间轻松保持不远的文件大小。这个尺寸范围可以说包括了几个世纪以来，我们日常生活中生成的大多数纸质和摄影记录，无论是在纸张尺寸标准化之前还是之后。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_05.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/hand-scale-documents-examples.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_05.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/hand-scale-documents-examples.jpg)
 
 *佩尔地区档案馆的手持文档文件。从左上顺时针：*早期19世纪，中晚19世纪，晚20世纪，早期20世纪*。
 
@@ -118,7 +118,7 @@
 
 经典的北美**档案文件夹**（也称为文件或文件夹）是一张折叠的无酸卡片。文件的开放边缘上有一个标签或隆起的边缘，上面写有关于文件内容的信息，与[档案描述](https://peelarchivesblog.com/2016/02/29/how-do-archivists-describe-collections-or-how-to-read-a-finding-aid/)相对应。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_06.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/file-folder.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_06.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/file-folder.jpg)  
 *典型的北美档案文件夹。*
 
 **盒子** 通常有两种主要样式：
@@ -127,7 +127,7 @@
 
 **银行盒子**：一种常用的较大盒子是经典的“银行盒子”。这种尺寸的盒子通常用于大型组织的记录中心。档案中使用的是一种无酸版本，适用于现代行政记录。这种盒子在往往累积较大数量时，对工作人员来说，可以说是比较麻烦的。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_07.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/archival-boxes.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_07.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/archival-boxes.jpg)
 
 *典型的北美档案盒，包括（从左到右）银行盒子、霍林格盒子以及佩尔地区档案馆新宠的半银行盒子。有些品牌有可拆卸的盖子，而另一些则有铰链盖。*
 
@@ -143,13 +143,13 @@
 自然，许多我们的记录早于这一标准尺寸，但我们发现法律大小的文件夹和盒子适合大多数手持文档，这些文档创作了很多世纪。以上描绘的所有手持文档示例都包括在内。
 ```
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_08.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_115001.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_08.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_115001.jpg)
 
 在我们的基本供应名单上，最后是各种**内部封闭物**，我们*在文件内*使用它们以进一步稳定文件。
 
 内部封闭物，如纸质或[具有档案认可的塑料](https://postalmuseum.si.edu/choosing-safe-plastics)套，至少有一个开放边缘。这可以减少记录在缺乏空气流通的环境（“微气候”）下存放的程度。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_09.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240411_131116-1-1241821945-e1725382689365.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_09.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240411_131116-1-1241821945-e1725382689365.jpg)  
 *一些内部封闭物和套子，包括纸质和高档塑料的例子。*
 
 ## B. 基本配置
@@ -158,7 +158,7 @@
 
 正如我们已经提到的，佩尔地区档案馆和大多数北美地区的档案员，都是以**垂直方式**将手持文件装入盒子中。文件被相邻的文件固定在适当位置。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_10.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_151222-679877836-e1725388304768.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_10.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_151222-679877836-e1725388304768.jpg)  
 *佩尔地区档案馆的一盒霍林格记录。*
 
 为了保护以这种方式持有的文档，我们需要正确包装它们。这里是我们遵循的一些指导方针。
@@ -167,7 +167,7 @@
 
 **文件夹不应过度填充，且应适当调整**。文件夹的底部应手动整整齐齐，以适应其中记录的厚度。北美的文件夹通常带有一系列的预划线以供此用途。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_11.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/good-and-bad-files.png)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_11.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/good-and-bad-files.png)
 
 左和中间：*正确地整理厚现代办公纸的文件，和纤细19世纪文件的文件。* 右：*不正确地整理一些19世纪的契约。*
 
@@ -175,7 +175,7 @@
 
 **盒子应填满文件，但不应过度填充**。既过度填充也过度不足填充盒子都可能导致像折叠或弯曲等损坏。档案管理员会通过目测检查理想的填充程度，以及文件的可访问性和平均手的进入能力来进行估计。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_12.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230815_140623.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_12.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230815_140623.jpg)
 
 _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不一的文件的文件夹，还包括一本未出版的装订书（书籍）。存储装订书时，我们确保它们的脊背朝下，以免文本块（页面）的重量将其从脊背处拔开。_
 
@@ -191,7 +191,7 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 这些“气绵”可以重复使用多次，与定制的隔离物相比，使用寿命更长。
 ```
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_13.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filled-file-folders-1-1.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_13.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filled-file-folders-1-1.jpg)
 
 ## 控制文件内部的文档
 
@@ -201,26 +201,26 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 **保持多页文档在一起**。单个文档可能有多个部分，例如多页报告或夹带信封或插纸的信件。为了澄清哪些页面属于文件中多页文档的文件，我们可能会使用一张缓冲的无酸纸作为每份的薄子文件。一般来说，我们会尽量在不改变或损害它们的情况下将页面关联起来。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_14.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_145510-1525188161-e1725401097809.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_14.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230831_145510-1525188161-e1725401097809.jpg)  
 *此文档的页面通过使用折叠的复印纸保持在文件夹中。*
 
 当然，有些文档到我们这里时已经用订书机或纸夹夹在一起。这些在生锈时被移除，但档案管理员会根据情况来决定是否移除*所有*非档案夹。（是否及如何用档案纸夹替换它们在档案管理员当中也存在争议。）（[纸夹](https://balliolarchivist.wordpress.com/tag/paper-clips/)）
 
 **稳定易碎的记录**。特别易碎的文件可以放在一个封闭物中，例如聚酯套（再说一次，只有某些塑料适合档案使用）。这个套子让研究人员能够安全地查看和处理记录。同样，像幻灯片、底片和照片这样的摄影记录可能需要额外的保护，以确保摄影乳剂（图像层）不受损坏。我们还可能使用无酸薄纸来保护照片或其他容易划伤的表面。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_15.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/fragile-records.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_15.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/fragile-records.jpg)  
 左：*照片间隔用档案薄纸保护照片表面。* 右：*一封易碎的19世纪信件，用Mylar套保护并且背后放置了一块坚固的纸板。*
 
 **稳定小记录**。像小卡片和便条，或摄影幻灯片这样的记录，在标准文件中容易移动而被忽视，特别是与较大的关联记录一起存放时（想象夹在信件中的快照）。我们可能会将较小物品放入套子中，以使它们更接近标准文档尺寸。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_16.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/small-records.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_16.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/small-records.jpg)  
 *小型照片和幻灯片插入纸质或聚丙烯套中，以稳定并保持它们在较大文件内部的顺序。（同类型的大量照片可以用其他方式存储。）*
 
 ## 把盒子放在架子上
 
 霍林格和银行盒子都在专为其高度设计的货架上一层存放。由于盒子不叠加在一起，这样便于快速取出和归还。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_17.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_141744.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_17.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230901_141744.jpg)  
 *从货架上取下一个北美档案盒。霍林格风格的盒子有时会附有拉线或手柄来帮助取出。*
 
 盒子上的标签不会提供关于内部记录的详细信息。相反，一个识别代码将盒子与有关其内容的信息连接起来，并允许档案管理员在几公里的货架上找到该盒子。
@@ -237,13 +237,13 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 **文件**的物理结构多种多样。档案管理员有时使用由无酸纸板制成的文件夹。这些文件夹在某种程度上类似于标准北美文件夹，但与后者不同，它们通常包含可以封闭记录的翻盖，或者是两边都有盖子。对于较薄的记录集，档案管理员可能会使用大的无酸信封作为文件。除了文件夹，档案管理员还可能用无酸纸或薄纸包裹记录集。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_18.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-folders.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_18.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-folders.jpg)
 
 左：*西约克郡档案服务处使用的四翻文件夹。（©西约克郡档案服务处，保护）* 右：*泰恩与威尔档案馆使用的两翻文件夹。（感谢泰恩与威尔档案馆。）*
 
 **在英国**，用于文档的盒子倾向于较浅，并且带有可拆卸的盖子。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_19.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-boxes.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_19.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-boxes.jpg)
 
 左：*泰恩与威尔档案馆使用的一个空档案盒，他们根据自己的货架定制这种盒子。（感谢泰恩与威尔档案馆。）* 右：*存放于西约克郡档案馆的档案盒。（©西约克郡档案服务处，韦克菲尔德。）*
 
@@ -251,28 +251,28 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 正如我们稍后将看到的，在英国，**棉带**被广泛用于将每个文件绑住。此外，与北美一样，档案管理员使用多种方法在文件内稳定和关联记录，包括套和纸夹。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_20.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-supplies.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_20.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/uk-supplies.jpg)  
 *西约克郡档案服务处（左）和泰恩与威尔档案馆（右）的基本包装用品和封闭物。版权所有并感谢这些档案馆。*
 
 ## B. 基本配置
 
 大多数英国档案管理员以平坦的方式存储手持文档文件，将其堆放在浅盒子中。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_21.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-and-contents-2-723930952-e1725406716807.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_21.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-and-contents-2-723930952-e1725406716807.jpg)  
 *泰恩与威尔档案馆的一盒文件，展示了两种打包文件的方式，放在文件夹和大信封中（见下文）。_ （感谢泰恩与威尔档案馆。）*
 
 ## 准备打包文件以装入盒子
 
 在英国文件盒中，文件通常用由棉或麻制成的档案胶带固定。结或蝴蝶结位于文件的旁侧。档案引用信息印刷在文件上，以便文件可以被识别和取出。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_22.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/tied-folder-out-of-box-3750063843-e1725407004929.jpeg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_22.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/tied-folder-out-of-box-3750063843-e1725407004929.jpeg)  
 *位于西约克郡档案服务处的关闭并捆绑的四翻文件夹。（©西约克郡档案服务处，保护）。*
 
 ## 把文件装入盒子中
 
 文件在盒子里平放，一层叠一层，直到盒子填满。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_23.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filling-uk-boxes.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_23.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/filling-uk-boxes.jpg)  
 左：*堆放在一起的较厚的已捆绑文件，准备放入盒子中。（©西约克郡档案服务处。）* 右：*装满文件的盒子。（©约翰·古德柴尔档案与古籍收藏，西约克郡档案服务处，韦克菲尔德。）*
 
 为了使这种方向有效，文件必须正确包装。
@@ -289,14 +289,14 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 不过，一种独特的英国方式是使用“财政标签”，特别是在现代政府文件中。“财政标签”是一根宽端的绳索，将其穿过一角相关文档或封闭物的孔中。标签确保文件中相关文档在使用时不会分离。你可以在[指导](https://cdn.nationalarchives.gov.uk/documents/paper-files-preparation-guidance.pdf)中了解更多关于标签的应用。（并非所有英国档案馆都实施新标签，但许多在档案馆之前接收的记录已经被标记。）
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_24.webp)](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_24.webp)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_24.webp)](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_24.webp)  
 左：*不同长度的财政标签适应不同的文件厚度。* 右：*用财务标签绑文件。（©国家档案馆* [文件准备](https://web.archive.org/web/20211103021220/https://cdn.nationalarchives.gov.uk/documents/information-management/preparation-of-records.pdf)。*
 
 ## 把盒子放在架子上
 
 英国的平展储存盒叠加在一起，受限于架子的深度以及累积重量所造成的压力。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_25.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-shelves-uk.jpg)  
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_25.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/box-shelves-uk.jpg)  
 左：*在泰恩与威尔档案馆的双层盒子。（感谢泰恩与威尔档案馆。）* 右：*在西约克郡档案馆的三层盒子。（©西约克郡档案服务处，韦克菲尔德。）*
 
 ## 正面较量：优缺点
@@ -307,7 +307,7 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 **优点：**
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_26.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230418_113608.jpg)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_26.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20230418_113608.jpg)
 
 - 文档轻轻悬挂，即使盒子被摇晃也不会移动太多。
 - 文件接触文件夹的唯一边缘（底部边缘）受到这种材料夹层保护，避免损坏或折叠。
@@ -353,7 +353,7 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 也许最后，我们应该将重点放在保存的最终目标上。以这种精神，我们回归到一些共同点。以下是所有档案管理员想让您知道的一些注意事项。
 
-[![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_27.webp)](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_27.webp)
+[![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_27.webp)](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_27.webp)
 
 顶部：*佩尔地区档案馆的浅平盒子一个接一个放在一起。* 底部：*在美国国家档案馆，浅平盒子竖放成一层。（感谢[国家档案馆](https://cdn.nationalarchives.gov.uk/documents/paper-files-preparation-guidance.pdf)）*
 
@@ -369,55 +369,55 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 以随意的方式结束，我们将浏览来自英国和加拿大的档案包装示例，超过我们在上文中探讨的范围。（我们有道义责任指出，所有下述盒子都附有盖，即使未显示出来！）我们希望这个幻灯片演示展示我们两岸共同的目的和做法。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_01.webp)  
 佩尔地区档案馆中的一个平放盒子里的照片专辑。高度酸性的相册和剪贴簿如果把照片和其他文件粘贴在其中，或者页面上有重要注释时是一种挑战。我们所能做的最好方法是如实存放相册，也许在页面之间夹上无酸薄纸。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_02.webp)  
 一种带蜡封的羊皮纸（生牛皮纸）契约，在佩尔地区档案馆的平箱中稳定。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_03.webp)  
 为一件特别脆弱的装订文档，西约克郡档案服务处定制制作的盒子。（安妮·丽斯特日记第12卷，1829 - 1830年。编号：SH:7/ML/E/12。照片由西约克郡档案服务处提供及保留版权。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_04.webp)  
 为包含带有附封印的照亮的羊皮纸（生牛皮纸）文档定制的一种大浅盒，展示于西约克郡档案服务处的修复桌上。（亨利八世的Inspeximus，编号：WYL100/HX/A/42，西约克郡档案服务处，利兹。照片由西约克郡档案服务处提供及保留版权。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_05.webp)  
 西约克郡档案服务处的巨型地图专用的大型货架。（©西约克郡档案服务处，韦克菲尔德。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_06.webp)  
 泰恩与威尔档案馆的挂式存储历史标牌和框架物品。（感谢泰恩与威尔档案馆。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_07.webp)  
 泰恩与威尔档案馆存放于大型平整地图和计划。（感谢泰恩与威尔档案馆。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_08.webp)  
 齐备大小相同的照片，放在一个分隔的盒子里。（©西约克郡档案服务处，保护。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_09.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_09.webp)  
 在泰恩与威尔档案馆内部特别放置了滚轴计划。（感谢泰恩与威尔档案馆。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_10.webp)  
 西约克郡档案服务处的特制存储宽民族计划。（©西约克郡档案服务处，韦克菲尔德。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_11.webp)  
 在泰恩与威尔档案馆的盒子中垂直存放玻璃底片。（感谢泰恩与威尔档案馆。）
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_12.webp)  
 在佩尔地区档案馆的平盒子中存放的松散和捆绑的世纪早期的信票，来自一个已被废弃的铁路路线。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_13.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_13.webp)  
 在佩尔地区档案馆的平盒子中存放的形状不规整和超大型记录。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_14.webp)  
 在佩尔地区档案馆中封装的账簿。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_15.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_15.webp)  
 在佩尔地区档案馆的盒子中，已用袋子插入在同一类型的明信片的不断扩大的收藏。
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_16.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_16.webp)  
 在佩尔地区档案馆的地图柜中，放有明信片、地图、计划和其他大型文件。 
 
-![](https://scillidan.github.io/image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_17.webp)  
+![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_17.webp)  
 在佩尔地区档案馆的定制封闭物中稳定的脆弱的玻璃板底片。
 
 [GPT-4o mini]

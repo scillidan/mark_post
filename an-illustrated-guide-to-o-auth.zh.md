@@ -1,20 +1,20 @@
 # [OAuth的图解指南](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 
-![访问令牌图像](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_01.webp)
+![访问令牌图像](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_01.webp)
 
 OAuth首次于2007年推出。它是在Twitter创建的，因为Twitter希望为第三方应用程序提供一种让用户能够代表他们发布推文的方法。花点时间想想，今天如果要设计这样的东西，你会怎么做？一种方法就是要求用户提供他们的用户名和密码。因此，你创建了一个非官方的Twitter客户端，向用户展示一个登录屏幕，上面写着“使用Twitter登录”。用户确实这么做了，但他们实际上是将他们的数据发送给你，这个第三方服务，它为他们登录Twitter。
 
-![坏方法 - 将密码交给第三方](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_02.webp)
+![坏方法 - 将密码交给第三方](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_02.webp)
 
 这因为很多原因都是不好的。即使你信任一个第三方应用，但如果他们没有正确存储你的密码，导致某人窃取了它呢？你绝不应该将密码交给这样的第三方网站。
 
 你可能在想，另一种方法是什么，API密钥呢？因为你正在访问Twitter的API来为用户发布数据，而对于一个_ API_，你使用_ API密钥_。但API密钥是通用的。你需要的是一个特定于用户的API密钥。
 
-![好方法 - OAuth令牌](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_03.webp)
+![好方法 - OAuth令牌](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_03.webp)
 
 为了解决这些问题，OAuth应运而生。你将看到它是如何解决所有这些问题的，但OAuth的核心是**访问令牌**，它有点像特定用户的API密钥。应用程序获取一个访问令牌，然后可以使用它在用户的名义下采取行动或访问用户的数据。
 
-![一些YNAB分类的图示](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_04.webp)
+![一些YNAB分类的图示](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_04.webp)
 
 ## OAuth的工作原理
 
@@ -33,7 +33,7 @@ OAuth可以以许多不同的方式使用，这也是它难以理解的原因之
 3. Chase向我显示一个屏幕，说明“YNAB想连接到Chase。选择你希望给予YNAB访问权的账户。”它将显示我所有账户的列表。假设我只选择我的支票账户，以便给予YNAB该账户的读取权限，然后点击确认。
 4. 从Chase，我被重定向回YNAB，现在神奇的是，YNAB与Chase连接了。
 
-![流程图示](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_05.webp)
+![流程图示](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_05.webp)
 
 这是从用户的角度来看。但那时发生了什么？在后台发生了什么魔法，使得YNAB以某种方式可以访问我在Chase的数据？
 
@@ -61,13 +61,13 @@ https://www.ynab.com/redirect?access_token=123
 
 授权代码不是访问令牌！Chase发送给YNAB一个授权代码，YNAB_用这个授权代码换取访问令牌_。它通过向Chase发起一次后台请求，一个后台的HTTPS POST请求来实现，这意味着没有人可以看到访问令牌。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_06.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_06.webp)
 
 然后YNAB就得到了访问令牌。OAuth流程结束。OAuth成功。
 
 ## OAuth的两个部分
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_07.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_07.webp)
 
 让我们谈谈我们刚刚看到的内容。从高层次来看，OAuth流程有两个部分。第一部分是**用户同意流程**，即你作为用户登录并选择授予访问权限的内容。这是OAuth中的一个关键部分，因为在OAuth中，我们始终希望用户积极参与并控制。
 
@@ -80,7 +80,7 @@ https://www.ynab.com/redirect?access_token=123
 - 你登录的服务器称为**授权服务器**。你从中获取用户数据的服务器称为**资源服务器**（这可以与授权服务器相同）。
 - 在授权服务器上，当用户选择允许的内容时，这些被称为**范围**。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_08.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_08.webp)
 
 我会尽量使用这些术语，因为如果你要阅读更多关于OAuth的文档，你需要熟悉这些术语。
 
@@ -90,21 +90,21 @@ https://www.ynab.com/redirect?access_token=123
 
 你有OAuth客户端。一个OAuth客户端希望访问一个资源服务器上的数据，而这些数据属于资源拥有者。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_09.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_09.webp)
 
 为此，OAuth客户端重定向到授权服务器。用户登录，用户同意**范围**（这个令牌被允许访问的内容），然后用户被重定向回OAuth客户端，URL中带有授权代码。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_10.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_10.webp)
 
 在后台，OAuth客户端将授权代码和客户端秘钥（我们稍后会谈到客户端秘钥）发送到授权服务器，授权服务器将响应访问令牌。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_11.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_11.webp)
 
 这就是完全相同的流程，但使用了我们刚刚讨论的新术语。现在让我们谈谈具体细节。我们已经看到了这个流程从用户的角度看是什么样子，让我们看看从开发者的角度是什么样子。
 
 ## 注册一个新应用
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_12.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_12.webp)
 
 要使用OAuth，你首先需要注册一个新应用。例如，GitHub提供OAuth。如果你想为GitHub创建一个新应用，你必须先注册它。不同的服务在应用注册中要求不同类型的数据，但每个服务至少需要：
 
@@ -120,7 +120,7 @@ GitHub将响应：
 
 第一步：你将重定向他们到Chase的授权服务器的OAuth端点，在URL中传递这些参数：
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_13.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_13.webp)
 
 1. 客户端ID，我们刚才讨论过的。
 2. 重定向URI。一旦用户在Chase结束，这将是Chase将重定向他们返回的地址。这将是一个YNAB的URL，因为你是YNAB应用。
@@ -139,7 +139,7 @@ Chase将重定向他们回到你所给出的重定向URI，例如ynab.com/oauth-
 
 > 旁注：你可能会想知道，URI和URL之间的区别是什么？因为我在这两者之间有点混用。URL是我们熟知和喜爱的任何网站URL。URI则更一般。URL是URI的一种类型，但还有许多其他类型的URI。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_14.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_14.webp)
 
 > 我之所以说重定向URI而不是重定向URL，是因为移动应用不会有URL。它们只会有URI，这可能是他们创建的一种协议，看起来像`myapp://foobar`。所以如果你只做网页工作，每当你看到URI时，你可以将其解读为URL。而如果你在做移动工作，你可以理解URI，也知道是的，你的用例也得到支持。
 
@@ -153,7 +153,7 @@ _*我可靠地被一个安全专家朋友告知，OAuth设计者在这方面经�
 
 我一直在说前端和后端，但在OAuth文档中，他们使用前通道和后通道这两个术语。让我们谈谈原因。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_15.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_15.webp)
 
 ## 前通道和后通道
 
@@ -167,7 +167,7 @@ _*我可靠地被一个安全专家朋友告知，OAuth设计者在这方面经�
 
 所以，另外两个值得知道的术语是：**前通道**和**后通道**。
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_16.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_16.webp)
 
 到这时，你已经看到了OAuth流程从用户的角度和开发者的角度，以及你已经了解到使其安全的组成部分。
 
@@ -179,6 +179,6 @@ _*我可靠地被一个安全专家朋友告知，OAuth设计者在这方面经�
 
 现在你准备好去进行自己的OAuth操作了。祝你好运！
 
-![](https://scillidan.github.io/image_post/an-illustrated-guide-to-o-auth_17.webp)
+![](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_17.webp)
 
 [GPT-4o mini]

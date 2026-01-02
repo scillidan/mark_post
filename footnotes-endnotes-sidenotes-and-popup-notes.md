@@ -14,7 +14,7 @@ How I dislike some books that give me less than a centimetre of margin.
 
 These need to be separated from the main body of the text, and are best set with a smaller size and possibly event a different typeface and colour. The idea of any notes is that it is supplementary information and it is entirely optional that the reader even bothers to look, so setting in a style that does not distract from the flow of the reading experience is important.
 
-![Here we see the example of the first footnote in the chapter and the reference number  in the text.](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_01.webp)  
+![Here we see the example of the first footnote in the chapter and the reference number  in the text.](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_01.webp)  
 Here we see the example of the first footnote in the chapter and the reference number in the text.
 
 Footnotes are best numbered with an outdented figure, although (for technical reasons) the numbers are most often aligned to the main text block. These numbers refer to the superscript number within the text itself. Most publishers will favour the numbers to begin again for each chapter, otherwise the numbers could get unwieldy (superscript numbers of more than two digits could look ugly). If there are very few references in the text, symbols can be used instead of numbers (\* or †, ‡, §, ‖,¶).
@@ -45,17 +45,17 @@ Sidenotes do not necessarily need superscript numbers within the text (and they 
 
 **InDesign** will help us build footnotes and the software will even import the footnotes from Microsoft Word. InDesign users get their very own configuration panel seen in the image alongside here. In this we can set the way the references are displayed in the text (superscript etc), and how the footnotes appear at the bottom of the page. We need a paragraph style set up for the display of the footnotes themselves and we can (optionally), use a character style for the reference figure in the text.
 
-![InDesign dialogue for controlling the display of the footnotes](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_02.webp)  
+![InDesign dialogue for controlling the display of the footnotes](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_02.webp)  
 InDesign dialogue for controlling the display of the footnotes
 
 As you can see from the first example spread the footnote list figure is aligned to the left edge of the text box. You will often see this in the books on your shelves, however, a more attractive arrangement is to ‘outdent’ these listed figures so that the footnotes are are aligned to the text and the number figures are offset from this text box.
 
-![The layout of the footnotes is controlled through the second tab](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_03.webp)  
+![The layout of the footnotes is controlled through the second tab](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_03.webp)  
 The layout of the footnotes is controlled through the second tab
 
 InDesign does **not** provide the means to set footnotes outside the text box, so we need to plan for this by indenting all of the text inside the text box by an amount that we then remove from the left margins. This way we can outdent the footnote numbers. You will see from the image provided here that we are using guides to make sure that these items align. My footnote style is using a 4mm offset for the numbers and my paragraph styles are using a 4mm indent.
 
-![Here we see an enlargement of the page in InDesign. The numbers are now outdented from the left edge of the body text](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_04.webp)  
+![Here we see an enlargement of the page in InDesign. The numbers are now outdented from the left edge of the body text](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_04.webp)  
 Here we see an enlargement of the page in InDesign. The numbers are now outdented from the left edge of the body text
 
 You will notice that there is no option to change these footnotes into endnotes; for this we need a script.
@@ -68,14 +68,14 @@ As always when using scripts to change content, save your work first! Scripts wi
 
 You will see from the image here that the endnotes have their own page(s) with a heading that matches other heading styles. You may need to tweak the paragraph styles for the notes and their listed numbers.
 
-![Endnotes at the end of the chapter.](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_05.webp)  
+![Endnotes at the end of the chapter.](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_05.webp)  
 Endnotes at the end of the chapter.
 
 ## Sidenotes with a Script
 
 Once again,Peter Kahrel will help us (please make a donation on his site) with a set of scripts. Using these we can control the width and position as the footnotes are converted to side notes. Each note comes in it’s own text frame which is anchored at the reference point. You will see in the example spread given here that I have turned off the numbering. This is an option in the script dialogue. There may be the need to move text boxes vertically, where references are near to one another; some degree of hand crafting will be required.[^3]
 
-![A spread with side notes. You see that the text alignment (left or right), is automatic depending on recto or verso achieved by the paragraph style using Towards the Spine.](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_06.webp)  
+![A spread with side notes. You see that the text alignment (left or right), is automatic depending on recto or verso achieved by the paragraph style using Towards the Spine.](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_06.webp)  
 A spread with side notes. You see that the text alignment (left or right), is automatic depending on recto or verso achieved by the paragraph style using Towards the Spine.
 
 ## Notes in eBooks
@@ -90,7 +90,7 @@ When you export from InDesgn to ePub (reflowable), you have an option to convert
 
 and then the footnote reference will be wrapped in the `<aside>` tag.
 
-![Pop-up notes using Apple iBooks on the MAC](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_07.webp)  
+![Pop-up notes using Apple iBooks on the MAC](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_07.webp)  
 Pop-up notes using Apple iBooks on the MAC
 
 ### Finger Friendly Hyperlinks
@@ -111,7 +111,7 @@ We do this:
 
 With some further adjustments to the `CSS` for the reference class of hyperlink, we can see the result.
 
-![The hyperlink now comes from text not just a reference number](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_08.webp)  
+![The hyperlink now comes from text not just a reference number](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_08.webp)  
 The hyperlink now comes from text not just a reference number
 
 This really is much better that our original superscript numbers. What we have done here could equally apply to the reflowable form of the ePUB3 format.
@@ -158,7 +158,7 @@ and replace with:
 
 If you do this then the pop-up will work BUT you will also see that the notes are still listed at the end of the chapter. Personally I actually prefer this, because we can get a second chance to read through the notes.
 
-![Showing both pop-up and list of notes at the end of the chapter.](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_09.webp)  
+![Showing both pop-up and list of notes at the end of the chapter.](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_09.webp)  
 Showing both pop-up and list of notes at the end of the chapter.
 
 If you prefer **not** to see this list of notes, then you will need to wrap each note in the `<aside>` tag, and we can do this by search and replace but this time using GREP.
@@ -187,7 +187,7 @@ Is there a solution while we wait for Adobe to release another version of InDesi
 
 We need our references to come off the bottom of the page and be on their own page at the end of the book.
 
-![The notes are at th endo of the eBook under their own heading but they also work as popup notes.](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_10.png)  
+![The notes are at th endo of the eBook under their own heading but they also work as popup notes.](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_10.png)  
 The notes are at th endo of the eBook under their own heading but they also work as popup notes.
 
 InDesign does not have any configuration that provides this so we need to use a script. There is one available from Peter Kahrel. On his site he credits others too, but the one you need is called Footnotes to Endnotes. [You can grab it here](http://www.kahrel.plus.com/indesign/footnotes.html "Thanks to Peter Kahrel").
@@ -236,12 +236,12 @@ We can’t finish this article without mentioning _iBooks Author_.
 
 iBooks Author is free software from Apple for iOS designed to create ‘multi-touch’ ebooks. You can read more about using this software [here](https://www.publisha.org/pages/iBooksAuthor/ "This page will help"), but regarding adding notes; you will need to familerise yourself with the Glossary feature, which allows the direct input of text (and images) to provide popup references.
 
-![Here we see entry for glossary that becomes a popup](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_11.webp)  
+![Here we see entry for glossary that becomes a popup](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_11.webp)  
 Here we see entry for glossary that becomes a popup
 
 The glossary term is provided in a popup box and the text can be styled. Once a glossary term has been created, other references can be made to the same glossary term.
 
-![This glossary term is long so a scrollbar appears.](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_12.webp)  
+![This glossary term is long so a scrollbar appears.](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_12.webp)  
 This glossary term is long so a scrollbar appears.
 
 [^1]: The Elements of Typographic Style, Bringhurst, Robert, Hartley & Marks, Publishers, 2012

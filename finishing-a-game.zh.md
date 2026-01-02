@@ -1,6 +1,6 @@
 # [完成一款游戏](https://makegames.tumblr.com/post/1136623767/finishing-a-game)
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_01.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_01.webp)
 
 在我努力完成[我的游戏](http://spelunkyworld.com/)的过程中，我常常思考完成项目的主题。我注意到有很多有才华的开发者在完成游戏方面遇到了困难。说实话，我身后留下一长串未完工的游戏……我想每个人都有类似的经历。并非每个项目都能顺利完成，无论是什么原因。但是如果你发现自己总是退出那些具有巨大潜力的游戏项目，可能值得退一步，审视一下为什么会发生这种情况。
 
@@ -12,7 +12,7 @@
 
 ## 1\. 选择一个有潜力的创意
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_02.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_02.webp)
 
 我发现有三种类型的游戏能引起我的兴趣：我想制作的游戏、我希望已经制作好的游戏，以及我擅长制作的游戏。
 
@@ -50,7 +50,7 @@ _链接：[独立游戏论坛技术论坛](http://forums.tigsource.com/index.php
 
 ## 6\. 选择合适的伙伴（或者尽可能长时间独自工作）
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_03.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_03.webp)
 
 找到一个好的游戏制作伙伴在很多方面就像约会。你可能认为技能是唯一重要的：“哦，好吧，我是程序员，这家伙是艺术家……我们来干吧！”但不，其他的事情也很重要，比如个性、经验、时机和共同兴趣。就像恋爱关系一样，你不希望自己或其他人投入的热情差别过大。通过一些小项目先测试彼此，因为在几个月或几年的开发后，一个关键人物退出的情况可能会非常惨痛。
 
@@ -76,13 +76,13 @@ _链接：[独立游戏节](http://igf.com/)，[Ludum Dare](http://www.ludumdare
 
 ## 10\. 照顾好你的心理和身体健康
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_04.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_04.webp)
 
 在你专注于完成一款游戏时，照顾好自己可能会变得意外困难。但老实说，缺乏睡眠、运动或饮食不当只会对你的游戏制作造成损害。最好的情况是，你阻止自己发挥全部潜力，从而让你更可能中途放弃。对你的项目感到怀疑是完全自然的，但得抑郁或生病可就不正常了。当你的身心感到糟糕时，你会发觉自己是多么不想去做梦寐以求的项目！
 
 ## 11\. 不再为重新开始而找借口
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_05.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_05.webp)
 
 _“我的代码杂乱不堪。而我已经学了这么多。如果我重新开始，我可以做得更好更快，然后剩下的部分也会进行得更快！”_
 
@@ -98,7 +98,7 @@ _“我的代码杂乱不堪。而我已经学了这么多。如果我重新开�
 
 ## 13\. 删减。出去。
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_06.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_06.webp)
 
 哦，糟糕，你已经大大落后于进度。你有这么多想法，但它们比你有机会实现的一半更难执行。哦，可怜的你……但等一下！
 
@@ -124,7 +124,7 @@ _“我的代码杂乱不堪。而我已经学了这么多。如果我重新开�
 
 ## 最后……发布！
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_07.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_07.webp)
 
 天哪，你发布了一款游戏！恭喜你，你刚刚提升了等级，获得的好处包括：增强的信心，能够完成项目的声誉，以及对整个游戏创作过程的理解！不过，最重要的部分是，有一款我可以玩并享受的小游戏！而我确实喜欢玩游戏，几乎和我喜欢制作游戏一样多。
 

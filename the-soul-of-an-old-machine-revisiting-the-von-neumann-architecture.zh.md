@@ -200,13 +200,13 @@ _有趣_。他们使用两台机器检查在每个阶段是否始终产生相同
 
 ### 结语 - 八十年后
 
-![冯·诺依曼架构图](https://scillidan.github.io/image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_01.webp)
+![冯·诺依曼架构图](https://scillidan.github.io/cdn_image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_01.webp)
 
 这就是今天学校中教授的冯·诺依曼架构。著名的大O符号也基于类似的计算机模型。然而，在八十年的演变之后，底层硬件与此模型完全不同。
 
 我们的冯·诺依曼架构简易框图具有很大的教育价值，但让我们现实一点，即使冯·诺依曼架构的最初实现也并不简单。让我们来看下现代Zen 4架构的框图。
 
-![Zen 4框图](https://scillidan.github.io/image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_02.webp)
+![Zen 4框图](https://scillidan.github.io/cdn_image_post/the-soul-of-an-old-machine-revisiting-the-von-neumann-architecture_02.webp)
 
 图片来源：[Chips and Cheese](https://chipsandcheese.com/p/amds-zen-4-part-1-frontend-and-execution-engine)。
 

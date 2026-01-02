@@ -63,7 +63,7 @@ FusionAuth 这一产品旨在被 [下载并本地运行](https://fusionauth.io/d
 
 但首先，您为什么要走这条路？
 
-![一个人在选择构建 SaaS 和自托管软件之间。](https://scillidan.github.io/image_post/building-a-self-hostable-product_01.webp)
+![一个人在选择构建 SaaS 和自托管软件之间。](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_01.webp)
 
 难道未来不属于软件即服务 (SaaS) 吗，在这里，开发人员通过互联网提供的 API 集成功能？难道自托管产品不是直接源于 2000 年代初，当时 Sourceforge.net 和 Freshmeat.net 是获取软件的方式？那时，不是称之为“软件”而不是“可下载软件”或“自托管软件”吗？
 
@@ -90,7 +90,7 @@ FusionAuth 这一产品旨在被 [下载并本地运行](https://fusionauth.io/d
 
 如果他们需要将您的产品固定在某个特定版本，他们可以跳过升级，将产品视为库依赖。
 
-![一个强调控制的维尼熊的模因。](https://scillidan.github.io/image_post/building-a-self-hostable-product_02.webp)
+![一个强调控制的维尼熊的模因。](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_02.webp)
 
 #### 隐私保障
 
@@ -179,7 +179,7 @@ FusionAuth 为此用 [Kickstart](https://fusionauth.io/docs/get-started/download
 
 构建自托管产品时需要考虑的内容有很多。但最重要的是您的依赖。
 
-![小女孩跑着，身旁有文字“您的产品需要什么才能运行？”](https://scillidan.github.io/image_post/building-a-self-hostable-product_03.webp)
+![小女孩跑着，身旁有文字“您的产品需要什么才能运行？”](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_03.webp)
 
 您的产品需要什么依赖才能运行？
 
@@ -268,7 +268,7 @@ SaaS 公司不必担心 GPL，因为他们提供的功能而不是可执行代�
 
 发布自托管产品则有所不同。
 
-![一个人手里拿着叉子，标题是“打击方式不同”，上方有“部署过程”和“依赖性”的字样。](https://scillidan.github.io/image_post/building-a-self-hostable-product_04.webp)
+![一个人手里拿着叉子，标题是“打击方式不同”，上方有“部署过程”和“依赖性”的字样。](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_04.webp)
 
 您对客户的部署时机和方式的控制有限。请记住，作为自托管产品开发者，您将这种权力交给了他们。但此时，您对客户的升级或降级的能力有限。
 
@@ -324,7 +324,7 @@ SaaS 公司不必担心 GPL，因为他们提供的功能而不是可执行代�
 
 实际用户在使用您的软件时，资源和限制可能与您预期的不同。当他们运行您的软件时，会发现问题。提供手动和自动沟通渠道，以捕获这些问题。您可以评估、优先排序并解决它们。
 
-![一个杰夫·高布伦的模因，这上面写着“用户总会找到方法”。](https://scillidan.github.io/image_post/building-a-self-hostable-product_05.webp)
+![一个杰夫·高布伦的模因，这上面写着“用户总会找到方法”。](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_05.webp)
 
 如果使用基于使用的定价是您的商业模式的一部分，某种程度的报告也可能是收费客户所需。
 
@@ -403,7 +403,7 @@ Terraform 和 / 或 OpenTofu 是这一领域的最大参与者，但请计划好
 
 如果您希望销售自托管产品，您有几个选择。
 
-![杰瑞·马奎尔在电话中大喊“给我商业模式”。](https://scillidan.github.io/image_post/building-a-self-hostable-product_06.webp)
+![杰瑞·马奎尔在电话中大喊“给我商业模式”。](https://scillidan.github.io/cdn_image_post/building-a-self-hostable-product_06.webp)
 
 - 高级支持，可能带有服务水平协议（SLA）
 - 高级功能，通过软件许可证管理访问权限

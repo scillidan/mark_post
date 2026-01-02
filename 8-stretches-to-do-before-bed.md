@@ -25,7 +25,7 @@ This stretch works the [rhomboids](https://www.healthline.com/human-body-maps/rh
 5. To release, inhale to open your arms back open wide.
 6. Exhale and repeat with your left arm on top.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_01.webp)  
 Photo via Active Body, Creative Mind
 
 ## 2\. Neck stretches
@@ -41,13 +41,13 @@ These stretches will help to relieve tension in your head, neck, and shoulders. 
 5. Hold this position for five breaths.
 6. Repeat on the opposite side.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_02.webp)  
 Photo via Active Body, Creative Mind
 
 1. Drop your chin down to your chest, holding it there for five breaths.
 2. Return to a neutral position and allow your head to gently fall back for five breaths. 
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_03.webp)  
 Photo via Active Body, Creative Mind
 
 ## 3\. Kneeling lat stretch
@@ -62,7 +62,7 @@ This stretch helps to loosen up the muscles in your back and shoulders, relievin
 4. Hold this stretch for 30 seconds.
 5. Repeat one to three times.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_04.webp)  
 Photo via Active Body, Creative Mind
 
 ## 4\. Child's pose
@@ -77,7 +77,7 @@ Child’s Pose is a resting stretch that’s similar to a kneeling lat stretch, 
 4. Breathe deeply in while holding the pose, bringing your awareness to any areas of discomfort or tightness in your back.
 5. Hold this pose for up to 5 minutes. You can also come into this pose between other stretches to give your body a rest.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_05.webp)  
 Photo via Active Body, Creative Mind
 
 ## 5\. Low lunge
@@ -93,7 +93,7 @@ This lunge stretches your hips, thighs, and groin. Opening your chest helps to r
 5. Hold this pose for five breaths.
 6. Repeat on the opposite side.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_06.webp)  
 Photo via Active Body, Creative Mind
 
 ## 6\. Seated forward bend
@@ -120,7 +120,7 @@ This is a restorative pose that helps to reduce tension in your back, shoulders,
 4. Rest your arms in any comfortable position.
 5. Remain in this pose for up to 10 minutes.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_07.webp)  
 Photo via Active Body, Creative Mind
 
 ## 8\. Reclining bound angle pose
@@ -135,5 +135,5 @@ This relaxing hip opener can help to relieve muscle tension in your hips and gro
 4. Focus on relaxing your hips and thighs as you breathe deeply.
 5. Hold this pose for up to 10 minutes.
 
-![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_08.webp)  
 Photo via Active Body, Creative Mind

@@ -1,6 +1,6 @@
-# [为什么鸟在睡觉时不会掉下来](https://news.cnrs.fr/articles/https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping)
+# [为什么鸟在睡觉时不会掉下来](https://news.cnrs.fr/articles/https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping)
 
-![](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_01.webp)  
 一群粉红色的火烈鸟在休息，纳米比亚  
 图片 © Yva Momatiuk & John Eastcott / Minden / Naturepl.fr via EB Photo
 
@@ -18,7 +18,7 @@
 
 这使研究人员成功地再现了鸟类的通用站姿，尽管它们的这一再现并非完全稳定，这与鸟类在电缆或树枝上栖息却从不摔落的情况形成鲜明对比。“我们的鸟模型在空间中的平衡只有一个点，而鸟类在大量位置上自然平衡。因此，我们通过使用多根电缆而非单根来改善它的稳定性，特别是有一根电缆从膝盖后面延伸，而非初始模型中从前面延伸的电缆。”
 
-![© Abourachid A., Chevallereau C., Pelletan I., Wenger P. 2023, J. R. Soc. Interface 20 : 20230433 / dessin de Camille Degardin](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
+![© Abourachid A., Chevallereau C., Pelletan I., Wenger P. 2023, J. R. Soc. Interface 20 : 20230433 / dessin de Camille Degardin](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
 右图：数字模型的示意图，显示鸟类平衡所需电缆的确切位置。模型和同种鸟类的解剖观察之间存在对应关系（左图）。膝关节背面的韧带环对维持电缆的对齐至关重要。韧带环、髌腱、腓股腱、腓肠肌腱、趾屈肌腱  
 图片 © Abourachid A., Chevallereau C., Pelletan I., Wenger P. 2023, J. R. Soc. Interface 20 : 20230433 / dessin de Camille Degardin
 
@@ -30,7 +30,7 @@
 
 “鸟类从其脚部的张力完整性机制中获益，基于这一机制的被动特性。这意味着鸟不需要思考或集中注意力来保持站立。所有的一切都是基于系统的弹性。这是一种具身智能，身体本身解决了问题，脑子无需介入，因此也不会消耗能量，”Chevallereau补充道。
 
-![©Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, don de Joseph H. Hirshhorn, 1974 / ©Collection Kröller-Müller Museum - Photos Onderwijsgek et Saku Takakusaki CC BY-SA 4.0 via Wikimedia commons ](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
+![©Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, don de Joseph H. Hirshhorn, 1974 / ©Collection Kröller-Müller Museum - Photos Onderwijsgek et Saku Takakusaki CC BY-SA 4.0 via Wikimedia commons ](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
 艺术家Kenneth Snelson应用张力完整性原理创作的铝和不锈钢针塔：左侧为1968年在希尔斯霍恩博物馆花园建造的塔的顶部视图（华盛顿特区, 美国）；右侧为1969年在克勒勒-穆勒博物馆花园组装的针塔II（荷兰奥特雷洛）。  
 图片 © Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, don de Joseph H. Hirshhorn, 1974 / Collection Kröller-Müller Museum - Photos Onderwijsgek et Saku Takakusaki CC BY-SA 4.0 via Wikimedia commons
 

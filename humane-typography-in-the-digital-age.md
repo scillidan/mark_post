@@ -12,7 +12,7 @@ A similar conflict emerged after the invention of the first printing press in Eu
 
 The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
 
-![42–line Bible by Gutenberg](https://scillidan.github.io/image_post/humane-typography-in-the-digital-age_01.webp)  
+![42–line Bible by Gutenberg](https://scillidan.github.io/cdn_image_post/humane-typography-in-the-digital-age_01.webp)  
 The 42–Line Bible, printed by Gutenberg.
 
 But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
@@ -43,7 +43,7 @@ Typefaces don’t look handmade these days. And that’s all right. They don’t
 
 We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
 
-![Type through time](https://scillidan.github.io/image_post/humane-typography-in-the-digital-age_02.webp)  
+![Type through time](https://scillidan.github.io/cdn_image_post/humane-typography-in-the-digital-age_02.webp)  
 Type through 5 centuries.
 
 We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.

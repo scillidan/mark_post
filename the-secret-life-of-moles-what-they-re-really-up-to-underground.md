@@ -1,6 +1,6 @@
 # [The Secret Life Of Moles: What They’re Really Up To Underground](https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/)
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_01.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_01.webp)
 
 While you’re walking above ground, completely unaware, an entire civilisation of furry engineers is constructing elaborate tunnel networks beneath your feet. Moles live in a hidden world that’s far more complex and fascinating than most people realise. Here’s what they’re up to while we’re not paying attention (or aren’t even aware they’re there!).
 
@@ -20,7 +20,7 @@ Moles have tiny eyes that can barely detect light and dark, but they navigate th
 
 ## They maintain underground food pantries with live storage.
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_02.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_02.webp)
 
 Getty Images/iStockphoto
 
@@ -36,7 +36,7 @@ Moles have extremely high metabolisms and must eat constantly to survive. They�
 
 ## They recycle their tunnel air through sophisticated ventilation systems.
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_03.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_03.webp)
 
 Getty Images
 
@@ -62,7 +62,7 @@ Their waste and the organic matter they bring underground alter soil pH and nutr
 
 ## They can hold their breath for extended periods underwater.
 
-![](https://scillidan.github.io/image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_04.webp)
+![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_04.webp)
 
 Getty Images/iStockphoto
 

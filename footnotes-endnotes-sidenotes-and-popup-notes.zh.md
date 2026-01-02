@@ -14,7 +14,7 @@
 
 这些需要与主文本分开，并且最好使用较小的字号，甚至可能使用不同的字体和颜色。注释的目的在于提供补充信息，读者完全可以选择是否查看，因此以不干扰阅读体验流畅性的样式设置是非常重要的。
 
-![这里我们看到章节中第一个脚注的示例以及文本中的引用编号。](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_01.webp)  
+![这里我们看到章节中第一个脚注的示例以及文本中的引用编号。](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_01.webp)  
 这里我们看到章节中第一个脚注的示例以及文本中的引用编号。
 
 脚注最好用悬挂数字编号，尽管（出于技术原因）这些数字通常对齐主文本块。这些数字对应于文本中上标的数字。大多数出版商会倾向于每个章节重新开始编号，否则编号可能会变得不堪重负（超过两个数字的上标可能看起来很丑）。如果文本中的引用很少，可以用符号替代数字（\* 或 †, ‡, §, ‖,¶）。
@@ -45,17 +45,17 @@
 
 **InDesign**将帮助我们构建脚注，软件甚至可以从Microsoft Word导入脚注。InDesign用户有自己专用的配置面板，如图所示。在这里，我们可以设置引用在文本中的显示方式（上标等）以及脚注如何在页面底部出现。我们需要设置段落样式来显示脚注本身，我们也可以（可选地）为文本中引用的数字使用字符样式。
 
-![用于控制脚注显示的InDesign对话框](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_02.webp)  
+![用于控制脚注显示的InDesign对话框](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_02.webp)  
 用于控制脚注显示的InDesign对话框
 
 从第一个示例页面中，你会看到脚注列表的数字左对齐文本框的边缘。你常常会在书架上的书中看到这种情况，然而，更美观的排列是将这些列出的数字“悬挂”，这样脚注对齐文本，而数字则与文本框错开。
 
-![脚注布局通过第二个选项卡进行控制](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_03.webp)  
+![脚注布局通过第二个选项卡进行控制](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_03.webp)  
 脚注布局通过第二个选项卡进行控制
 
 InDesign **不提供**设置脚注在文本框外部的手段，因此我们需要通过将文本框内部的所有文本缩进一个金额来进行规划，然后从左边距中去掉这个金额。这样，我们就可以将脚注数字悬挂。你会从这里提供的图像中看到，我们正在使用辅助线确保这些项目对齐。我的脚注样式将数字偏移了4毫米，而我的段落样式使用了4毫米的缩进。
 
-![在InDesign中我们看到页面的放大。数字现在从正文左边缘悬挂了出来](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_04.webp)  
+![在InDesign中我们看到页面的放大。数字现在从正文左边缘悬挂了出来](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_04.webp)  
 在InDesign中我们看到页面的放大。数字现在从正文左边缘悬挂了出来
 
 你会注意到没有选项将这些脚注转化为尾注；为此我们需要一个脚本。
@@ -68,14 +68,14 @@ InDesign **不提供**设置脚注在文本框外部的手段，因此我们需�
 
 你会在这里看到，尾注有自己的页面，具有与其他标题样式匹配的标题。你可能需要调整注释及其列出数字的段落样式。
 
-![章节末尾的尾注。](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_05.webp)  
+![章节末尾的尾注。](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_05.webp)  
 章节末尾的尾注。
 
 ## 使用脚本创建侧注
 
 同样，彼得·卡赫雷尔将帮助我们（请在他的网站上捐款）提供一组脚本。使用这些脚本，我们可以在转换脚注为侧注时控制宽度和位置。每个注释都有自己的文本框，在引用点锚定。你会在这里给出的示例页面中看到我已经关闭了编号。这是在脚本对话框中的一个选项。可能还需要在引用彼此接近时垂直移动文本框；某种程度的手工调整是必需的[^3]。
 
-![一个包含侧注的页面。你会看到文本对齐（左或右），取决于直书或反书，通过段落样式使用“朝向脊椎”实现。](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_06.webp)  
+![一个包含侧注的页面。你会看到文本对齐（左或右），取决于直书或反书，通过段落样式使用“朝向脊椎”实现。](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_06.webp)  
 一个包含侧注的页面。你会看到文本对齐（左或右），取决于直书或反书，通过段落样式使用“朝向脊椎”实现。
 
 ## 电子书中的注释
@@ -90,7 +90,7 @@ InDesign **不提供**设置脚注在文本框外部的手段，因此我们需�
 
 然后脚注引用将被包装在`<aside>`标签中。
 
-![在Mac上使用Apple iBooks的弹出注释](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_07.webp)  
+![在Mac上使用Apple iBooks的弹出注释](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_07.webp)  
 在Mac上使用Apple iBooks的弹出注释
 
 ### 适合手指的超链接
@@ -111,7 +111,7 @@ InDesign **不提供**设置脚注在文本框外部的手段，因此我们需�
 
 通过对引用类的超链接进一步调整`CSS`，我们可以看到效果。
 
-![超链接现在来自文本而不是仅仅一个参考数字](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_08.webp)  
+![超链接现在来自文本而不是仅仅一个参考数字](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_08.webp)  
 超链接现在来自文本而不是仅仅一个参考数字
 
 这确实比我们原来的上标数字要好得多。我们所做的这一点同样适用于可重排的ePUB3格式。
@@ -158,7 +158,7 @@ InDesign **不提供**设置脚注在文本框外部的手段，因此我们需�
 
 如果你这样做，弹出注释将起作用，但你也会发现注释仍会列在章节末尾。就我个人而言，我更喜欢这样，因为我们可以再次阅读这些注释。
 
-![显示弹出注释和章节末尾注释列表。](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_09.webp)  
+![显示弹出注释和章节末尾注释列表。](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_09.webp)  
 显示弹出注释和章节末尾注释列表。
 
 如果你**不**希望看到这个注释列表，那么你需要将每个注释包裹在`<aside>`标签中，我们可以通过搜索和替换来做到这一点，但这次使用GREP。
@@ -187,7 +187,7 @@ InDesign将期待脚注在与其引用相同的XHTML文件中。然而InDesign�
 
 我们需要将引用从页面底部移到书籍末尾的单独页面。
 
-![这些注释位于电子书末尾自己的标题下，并且也能作为弹出注释功能。](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_10.png)  
+![这些注释位于电子书末尾自己的标题下，并且也能作为弹出注释功能。](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_10.png)  
 这些注释位于电子书末尾自己的标题下，并且也能作为弹出注释功能。
 
 InDesign没有任何配置提供这一点，因此我们需要使用脚本。彼得·卡赫雷尔提供了一个可用的脚本。在他的网站上，他也给其他人致谢，但你需要的是那个叫“脚注转尾注”的脚本。[你可以在这里下载](http://www.kahrel.plus.com/indesign/footnotes.html "感谢彼得·卡赫雷尔")。
@@ -236,12 +236,12 @@ InDesign没有任何配置提供这一点，因此我们需要使用脚本。彼
 
 iBooks Author是苹果公司为iOS设计的免费软件，旨在创建“多点触摸”电子书。你可以在这里阅读更多关于使用该软件的信息 [这里](https://www.publisha.org/pages/iBooksAuthor/ "此页面将提供帮助")，但关于添加注释；你需要熟悉词汇表功能，它允许直接输入文本（和图像）以提供弹出参考。
 
-![这里我们看到的词汇表条目变成了一个弹出](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_11.webp)  
+![这里我们看到的词汇表条目变成了一个弹出](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_11.webp)  
 这里我们看到词汇表条目变成了一个弹出
 
 词汇表条目以弹出框的形式提供文本，可以进行样式设置。创建词汇表条目后，可以对同一词汇表条目进行其他引用。
 
-![这个词汇表条目很长，所以出现了滚动条。](https://scillidan.github.io/image_post/footnotes-endnotes-sidenotes-and-popup-notes_12.webp)  
+![这个词汇表条目很长，所以出现了滚动条。](https://scillidan.github.io/cdn_image_post/footnotes-endnotes-sidenotes-and-popup-notes_12.webp)  
 这个词汇表条目很长，所以出现了滚动条。
 
 [^1]: 《排版风格元素》，罗伯特·布林赫斯特著，哈特利与马克斯出版公司，2012年

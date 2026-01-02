@@ -8,7 +8,7 @@ I start with a quote from Robert Bringhurst in his _The Elements of Typographic 
 
 In medieval Europe, the relationship between the shape of the page and text block provided space for notes in the margin. In fact, even before printing margin notes are used to elaborate or further explain details. In this illustration we see a spread from the _Liber insularum Archipelagi_ with notes in the site margins
 
-![Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422](https://scillidan.github.io/image_post/footnotes-and-asides_01.webp)  
+![Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_01.webp)  
 Liber insularum Archipelagi , Christophorum de Bondelmontibus de Florentia 1422
 
 This paper sets out to explore the relationship between the footnote in the printed work and equivalent devices in screen based medium.
@@ -21,7 +21,7 @@ There has always been a need to add extra explanatory information to certain tex
 
 When Edward Gibbon published his 6 volume _The History of the Decline and Fall of the Roman Empire_ towards the end of the 18th Century, he included almost 8,000 footnotes and asides. He wasn’t the first to incorporate supplementary information but Gibbon’s work established the standard for academic publications.
 
-![The History of the Decline and Fall of the Roman Empire by Gibbon, Edward - Warne 1872](https://scillidan.github.io/image_post/footnotes-and-asides_02.webp)  
+![The History of the Decline and Fall of the Roman Empire by Gibbon, Edward - Warne 1872](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_02.webp)  
 The History of the Decline and Fall of the Roman Empire by Gibbon, Edward - Warne 1872
 
 Footnotes are marvellous things. They can provide extra information that helps to elaborate or to cite sources. Publishers don’t like footnotes[^1]; they prefer endnotes, because they are far easier to manage and encourage buyers to purchase the complete book rather than download a sample.
@@ -44,7 +44,7 @@ When a new translation of the bible was published in 1568, extensive notes were 
 
 _See here how this page from the Bible has side notes which flood out into the left column of text._
 
-![The Geneva Bible from 1568 (Bishops' Bible)](https://scillidan.github.io/image_post/footnotes-and-asides_03.webp)  
+![The Geneva Bible from 1568 (Bishops' Bible)](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_03.webp)  
 The Geneva Bible from 1568 (Bishops' Bible)
 
 ## Conventions for Supplementary Content in Print
@@ -59,17 +59,17 @@ Where the notes are displayed as footnotes then superscripted numbers can also b
 
 > **Note**: These symbols can look very different with different typefaces.
 
-![Symbols and their order for footnote References](https://scillidan.github.io/image_post/footnotes-and-asides_04.webp)  
+![Symbols and their order for footnote References](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_04.webp)  
 Symbols and their order for footnote References
 
 The convention is to use these symbols in a particular order on the page as seen in this example, _Journey to Britain_, Bronwen Riley
 
-![part of a page from *Journey to Britain*, Bronwen Riley](https://scillidan.github.io/image_post/footnotes-and-asides_05.webp)  
+![part of a page from *Journey to Britain*, Bronwen Riley](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_05.webp)  
 part of a page from *Journey to Britain*, Bronwen Riley
 
 Unusually, both symbols and numbers can be used as in this example from _The Devils Details_, Chuck Zerby
 
-![a page from *The Devils Details*, Chuck Zerby](https://scillidan.github.io/image_post/footnotes-and-asides_06.webp)  
+![a page from *The Devils Details*, Chuck Zerby](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_06.webp)  
 a page from *The Devils Details*, Chuck Zerby
 
 In this case, symbols are used for general notes and the numbers are used for citations.
@@ -78,22 +78,22 @@ In this case, symbols are used for general notes and the numbers are used for ci
 
 As we have seen from early manuscripts such as the _Geneva Bible_, side notes were common and possibly are a legacy feature from illuminated manuscripts such as the example here.
 
-![a leaf from the Chudleigh Bible, in Latin, illuminated manuscript on vellum - north-eastern France, c.1220-30](https://scillidan.github.io/image_post/footnotes-and-asides_07.webp)  
+![a leaf from the Chudleigh Bible, in Latin, illuminated manuscript on vellum - north-eastern France, c.1220-30](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_07.webp)  
 a leaf from the Chudleigh Bible, in Latin, illuminated manuscript on vellum - north-eastern France, c.1220-30
 
 Sidenotes may not need the reference numbers or symbols as long as they can be near to the context within the text block. Here as a sample spread from _The Book of Barely Imagined Beings_, Casper Henderson.
 
-![a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson](https://scillidan.github.io/image_post/footnotes-and-asides_08.webp)  
+![a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_08.webp)  
 a double page spread from *The Book of Barely Imagined Beings*, Casper Henderson
 
 On the other hand Edward R. Tufte[^2] is well known for his beautifully designed books about the display of information and we can see in this example from _Visual Explanations_, that he uses numbers for the margin notes.
 
-![a spread from _Visual Explanations_, Edward R. Tufte](https://scillidan.github.io/image_post/footnotes-and-asides_09.webp)  
+![a spread from _Visual Explanations_, Edward R. Tufte](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_09.webp)  
 a spread from _Visual Explanations_, Edward R. Tufte
 
 Robert Bringhurst uses both side notes and footnotes in his _The Elements of Typographic Style_:
 
-![a spread from *The Elements of Typographic Style*, Robert Bringhurst](https://scillidan.github.io/image_post/footnotes-and-asides_10.webp)  
+![a spread from *The Elements of Typographic Style*, Robert Bringhurst](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_10.webp)  
 a spread from *The Elements of Typographic Style*, Robert Bringhurst
 
 ## Practical Methods
@@ -102,7 +102,7 @@ Let’s look at some methods to create footnotes, side notes or endnotes.
 
 ### Word Processors
 
-![setting dialogue for Microsoft Word](https://scillidan.github.io/image_post/footnotes-and-asides_11.webp)  
+![setting dialogue for Microsoft Word](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_11.webp)  
 setting dialogue for Microsoft Word
 
 In Microsoft Word, it is straightforward enough with a choice to go to the bottom of the page, below the text, end of document or end of section. Apples Pages will only go to the bottom of the page.
@@ -125,7 +125,7 @@ Of course you may be using fancy editors like _Ulysses_ or _Scrivener_ in which 
 
 InDesign has a footnote feature and it will also correctly import (Place) text from Word with footnotes. It also has a sophisticated set of configurations for the way the footnotes are displayed as well as the references within the text.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_12.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_12.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_12.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_12.webp" controls preload="none"></video>
 Configuring footnotes in Adobe InDesign
 
 There are similar configuration options for endnotes.
@@ -134,7 +134,7 @@ There are similar configuration options for endnotes.
 
 There are no direct options for creating side notes in InDesign, because this would require space in the margins to accommodate them. However, Peter Kahrel has created a set of InDesign scripts that will take footnotes and put them wherever you decide, and however you like them to appear.[^3]
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_13.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_13.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_13.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_13.webp" controls preload="none"></video>
 footnotes have been transformed into side notes with a script
 
 ## Screen Based Media
@@ -145,7 +145,7 @@ All of the above can (and has been) presented on the screen as in print with the
 
 Hypercard on the MAC was able to create linking of pages but also making references and glossary items popup on mouse click as seen here in the Voyager publication on CD-ROM of _Macbeth_[^4].
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_14.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_14.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_14.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_14.webp" controls preload="none"></video>
 a page from the Hypercard *Macbeth*, a Voyager CD-ROM
 
 In the screen based medium, we can adopt other methods for linking references in the text to footnote content. Of course we can’t call them footnotes anymore and they may be _hyperlinks_ or _popups_.
@@ -156,7 +156,7 @@ Hypercard on the MAC propagated many ‘Stacks’ (the term for a Hypercard appl
 
 The term hypertext was coined first by Ted Nelson in 1963. The idea was further developed and the term adopted by many. For a history of hypertext see Jacob Nielsen’s book, _Hypertext and Hypermedia_ (later re-issued as _Multimedia and Hypertext: The Internet and Beyond_, Morgan Kaufmann Publishers, 1995.[^5]
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_15.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_15.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_15.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_15.webp" controls preload="none"></video>
 a definition of Hypertext in a Hypercard Stack
 
 Although Hypercard had a great following it came after a hypertext authoring system called _Guide_ created by the software company Owl (an Edinburgh based organisation). In this system, an _anchor_ was created and led, through a mouse click, to a destination or a popup.
@@ -165,7 +165,7 @@ This was the era of the multimedia CD-ROM, and many of these applications involv
 
 The software used in this example was _Supercard_ (Allegiant Technologies, an enhanced version of Hypercard) for the MAC and _Toolbook (_Asymetrix Corporation_)_ for the Windows PC.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_16.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_16.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_16.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_16.webp" controls preload="none"></video>
 Showing popup glossary in a Shakespeare text. _The Tempest_ CD-ROM, BBC/HarperCollins
 
 We can now bring forward a link to the world wide web through a **TED** talk by Ian Ritchie, the owner of Owl Ltd, Edinburgh, who (according to his TED talk[^6], turned down an approach by Tim Berners-Lee, the inventor of the world wide web.
@@ -176,14 +176,14 @@ The early concept of the internet pages and HTML was that it was possible to nav
 
 The image here shows the initial standard way to show a hypertext link.
 
-![hypertext links on a web site](https://scillidan.github.io/image_post/footnotes-and-asides_17.webp)  
+![hypertext links on a web site](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_17.webp)  
 hypertext links on a web site
 
 The links here would take you to another page and, would always depend on the browser’s ability to provide a back button within the user interface.
 
 A more sophisticated approach is make the link popup the supplementary information, but this depended on using javascript. This was not available until 1995, but, as you can see here, this opened up the possibility to use an overlay of information rather than one information node replacing the other.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_18.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_18.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_18.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_18.webp" controls preload="none"></video>
 Popup information in an overlayed window
 
 ## Footnotes on the web
@@ -200,21 +200,21 @@ The reference point in the text could be exactly as you would expect in print; m
 
 Here we see an example of a footnote reference leading to the footnote at the bottom of the browser window. Notice that the back link puts the source at the top of the browser window on return, not where we were reading.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_19.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_19.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_19.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_19.webp" controls preload="none"></video>
 The link from the superscript number leads to the bottom of the web page
 
 Once we move into the interactive mode of reading and observing references, then the reference or source anchor no longer needs to be _after_ the reference, but can be _within_ the reference. So, we then **click** or **touch** the item to be expanded.
 
 In this changed version we see that the whole phrase is the link.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_20.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_20.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_20.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_20.webp" controls preload="none"></video>
 Here the link is set to the whole phrase rather than a reference number
 
 ### Side notes with Javascript
 
 Andrew Clark has created a very elegant way to convert your footnotes into side notes when the width of the page allows for it. Although the side notes are converted the footnotes still remain.[^7]
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_21.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_21.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_21.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_21.webp" controls preload="none"></video>
 Andrew Clark's web site
 
 ## Time for the Pop-up box
@@ -227,7 +227,7 @@ With some elegant javascript we can turn these footnote references into popup li
 
 On my web site (_publisha.github.io_) I use a jQuery plugin generously provided by Chris Sauve. The plugin (available here: _https://github.com/lemonmade/bigfoot_ ), converts the footnote into a popup box for the destination but also provides a fallback standard footnote that still appears at the bottom of the web page. You can see this in action here:
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_22.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_22.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_22.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_22.webp" controls preload="none"></video>
 a footnote becomes a popup not on a web page with javascript
 
 ## Tootips or hover ups
@@ -236,7 +236,7 @@ Another way to provide supplementary information is via the tooltip. This is a b
 
 Normally this will be used to inform the user of what will happen when they click, but potentially more complex information can be delivered.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_23.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_23.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_23.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_23.webp" controls preload="none"></video>
 This shows how tooltips look when hovering over with mouse
 
 Responsive web sites that work well on mobile devices can’t rely on the hover action to invoke these popups, since _hover_ is not an option on devices that use _swipe_ as a default action.
@@ -253,7 +253,7 @@ Footnotes are no good for reflowable eBooks! You don’t actually have a page bo
 
 The reflowable ePub3 format does support popup notes. When you export from InDesign to ePub (reflowable), you have an option to convert your _footnotes_ to pop-up notes.
 
-![Export to reflowable ePub from InDesign gives you the popup notes option](https://scillidan.github.io/image_post/footnotes-and-asides_24.webp)  
+![Export to reflowable ePub from InDesign gives you the popup notes option](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_24.webp)  
 Export to reflowable ePub from InDesign gives you the popup notes option
 
 This will take the notes from the foot of the page, wrap them in an HTML tag `<aside>` and add the necessary ePub3 classes in the XHTML code. In fact you will get an attribute added to the hyperlinked number:
@@ -264,7 +264,7 @@ and then the footnote reference will be wrapped in the `<aside>` tag. We need to
 
 This magic markup will be at the bottom of the HTML page, so if you have correctly split the ePub into the chapters, the list will be at the end of the chapter; otherwise, if your ePub produces one XHTML file, then the note markup will be at the end of the book.
 
-![Here is what the popup looks like within Apple iBooks](https://scillidan.github.io/image_post/footnotes-and-asides_25.webp)  
+![Here is what the popup looks like within Apple iBooks](https://scillidan.github.io/cdn_image_post/footnotes-and-asides_25.webp)  
 Here is what the popup looks like within Apple iBooks
 
 The pop-up note reference is supported by Apple in their iBooks app for MACs and iOS on tablets etc. It is also documented that later Kobo devices also support pop-up notes. The later versions of the Kindle also support popup notes from footnotes. Adobe Digital Editions 4.5 support popup notes.
@@ -323,12 +323,12 @@ Wile the fixed-layout ePub provides some very sophisticated features, when we ex
 
 Here is the ePub version of _Medea, a performance history_ for the [APGRD](http://www.apgrd.ox.ac.uk/learning/medea-a-performance-history "The Archive of Performances of Greek and Roman Drama")
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_26.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_26.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_26.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_26.webp" controls preload="none"></video>
 pages from 'Medea' an interactive eBook
 
 One of my MA students created this enhanced eBook of Mozart’s _Magic Flute_. The eBook included music and narrated popup notes.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_27.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_27.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_27.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_27.webp" controls preload="none"></video>
 an enhanced eBook of the Magic Flute by MA student Maria Hock
 
 There are instruction for making popup text in the fixed layout eBook from InDesign [on my screencast channel](https://publisha.github.io/screencasts/ "look in the list of screencasts").
@@ -339,12 +339,12 @@ This Apple only authoring tool creates, what Apple call multi-touch books. There
 
 For this toolset I shall show some of my student’s work on their Shakespeare plays that demonstrate these features.
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_28.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_28.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_28.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_28.webp" controls preload="none"></video>
 iBooks Author can produce popup glossary
 
 _Here we see the glossary used to provide extra information for these geographical locations within the play “The Comedy of Errors” created by MA student Sam Ashcroft_
 
-<video src="https://scillidan.github.io/image_post/footnotes-and-asides_29.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_29.webp" controls preload="none"></video>
+<video src="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_29.mp4" poster="https://scillidan.github.io/cdn_image_post/footnotes-and-asides_29.webp" controls preload="none"></video>
 both glossary and popup notes
 
 _In this version of ‘Twelfth Night’ MA student Alicia Ballard has used both glossary and popup notes._

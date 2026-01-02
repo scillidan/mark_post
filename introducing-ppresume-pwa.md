@@ -8,11 +8,11 @@ This is the result of several weeks of hard work. From now on, you can install P
 
 Let us take a quick look first:
 
-![PPResume PWA Install Prompt](https://scillidan.github.io/image_post/introducing-ppresume-pwa_01.webp)  
-![PPResume PWA macOS App Search](https://scillidan.github.io/image_post/introducing-ppresume-pwa_02.webp)  
-![PPResume PWA macOS App Switch](https://scillidan.github.io/image_post/introducing-ppresume-pwa_03.webp)  
-![PPResume PWA macOS Window](https://scillidan.github.io/image_post/introducing-ppresume-pwa_04.webp)  
-![PPResume PWA iOS](https://scillidan.github.io/image_post/introducing-ppresume-pwa_05.webp)
+![PPResume PWA Install Prompt](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_01.webp)  
+![PPResume PWA macOS App Search](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_02.webp)  
+![PPResume PWA macOS App Switch](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_03.webp)  
+![PPResume PWA macOS Window](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_04.webp)  
+![PPResume PWA iOS](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_05.webp)
 
 ## What is a PWA?
 
@@ -22,7 +22,7 @@ Let us take a quick look first:
 
 The [birth of the iPhone](https://www.youtube.com/watch?v=VQKMoT-6XSg) ushered in a new era of mobile computing. When the iPhone 1 was released in 2007, it has a 3.5-inch display, with a mobile version of Safari for surfing the web. And the web was the only way to deliver apps to the iPhone at that time. As you can see, most websites back then were designed for desktop devices—only a small portion of [wap](https://en.wikipedia.org/wiki/Wireless_Application_Protocol) websites were designed for mobiles—so you have to pinch your fingers to zoom in and out in order to browse the websites on mobile devices.
 
-![Birth of iPhone, MacWorld 2007](https://scillidan.github.io/image_post/introducing-ppresume-pwa_06.webp)  
+![Birth of iPhone, MacWorld 2007](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_06.webp)  
 
 Needless to say, the iPhone is a revolutionary mobile device, it was so successful that mobile first design became a trend afterwards as more and more traffic comes from mobiles.
 
@@ -36,7 +36,7 @@ The App Store ecosystem continues to thrive, but the web has not stopped evolvin
 
 In 2010, [Ethan Marcotte](https://ethanmarcotte.com/) published an article on [A List Apart](https://alistapart.com/), in which he introduced the concept of [Responsive Web Design](https://alistapart.com/article/responsive-web-design/). Responsive Web Design is a design approach that aims to create websites that can adapt and fit to the vast majority of devices, from desktop computers to mobiles. The core idea of responsive web design is the use of [CSS media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries) to apply different styles based on the characteristics of the device, such as screen size, orientation, and resolution, etc.
 
-![Content is like water](https://scillidan.github.io/image_post/introducing-ppresume-pwa_07.webp)  
+![Content is like water](https://scillidan.github.io/cdn_image_post/introducing-ppresume-pwa_07.webp)  
 
 In 2015, designer [Frances Berriman](https://fberriman.com/) and her husband [Alex Russell](https://infrequently.org/), a Google Chrome engineer, coined the term “Progressive Web Apps” in a blog post of Alex: [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/).
 

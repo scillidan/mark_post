@@ -1,6 +1,6 @@
-# [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping)
+# [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping)
 
-![](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_01.webp)  
 Group of pink flamingos resting, Namibia  
 Image © Yva Momatiuk & John Eastcott / Minden / Naturepl.fr via EB Photo
 
@@ -12,7 +12,7 @@ It may sound like a tall tale, but that is more or less the one recounted in a r
 
 “The starting point for this research was trying to understand evolutionary mechanisms via functional morphology, which studies the relation between an organism’s form and functioning,” points out Anick Abourachid, a specialist on evolutionary biology, and the Deputy Director of the Adaptive Mechanisms and Evolution research unit[^2] at the National Museum of Natural History. “We are especially interested in bird feet.” Studying the evolutionary mechanisms in bird feet is of interest because birds are a particularly homogenous group with respect to their structure: “They are all bipedal flying dinosaurs that, since the group’s origin, have shared a structure built to be aerodynamic. They all possess, with no exceptions, a rigid torso,
 
-![Troglodyte aux rayons X © Van’t Riet, Arie / Science Photo Library](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_02.webp)  
+![Troglodyte aux rayons X © Van’t Riet, Arie / Science Photo Library](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_02.webp)  
 X-ray observation of a troglodyte perched on a flower stalk (false colours added) showing the “crouching” position.  
 Image © Van’t Riet, Arie / Science Photo Library
 
@@ -24,7 +24,7 @@ In this model, the body and foot bones were replaced by bars, and muscles and te
 
 This enabled the researchers to reproduce the generic standing posture of birds, although their rendition was not at all stable, which is surprising given that we see them perched atop electric cables or tree branches without ever falling over. “Our bird model was balanced at only one point in space, whereas birds are naturally balanced in a multitude of positions. So we improved its stability by using multiple cables instead of just one, notably one that runs behind the knee instead of in front, as was the case in the initial model.”
 
-![© Abourachid A., Chevallereau C., Pelletan I., Wenger P. 2023, J. R. Soc. Interface 20 : 20230433 / dessin de Camille Degardin](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
+![© Abourachid A., Chevallereau C., Pelletan I., Wenger P. 2023, J. R. Soc. Interface 20 : 20230433 / dessin de Camille Degardin](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
 At right: diagram from a digital model showing the exact position of the cables required for the bird’s balance. There is a correspondence between the model and anatomical observations among birds of the same size (at left). The ligament loop at the back of the knee is essential to maintaining the cable’s alignment. Ligament loop, patellar ligament, illofibularis tendon, gastrocnemius tendon, finger flexor tendons  
 Image © Abourachid A., Chevallereau C., Pelletan I., Wenger P. 2023, J. R. Soc. Interface 20 : 20230433 / dessin de Camille Degardin
 
@@ -36,7 +36,7 @@ The scientists also grasped that the quality of the cables–and hence of the te
 
 “The advantage bird’s derive from the tensegrity in their feet is based on the mechanism’s passive nature. The bird subsequently does not have to think or concentrate to remain standing. Everything is based on the system’s elasticity. This is a kind of embodied intelligence where the body alone solves the problem, with no intervention by the brain, thereby doing so without consuming energy,” Chevallereau adds.
 
-![Œuvres ©Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, don de Joseph H. Hirshhorn, 1974 / ©Collection Kröller-Müller Museum - Photos Onderwijsgek et Saku Takakusaki CC BY-SA 4.0 via Wikimedia commons ](https://scillidan.github.io/image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
+![Œuvres ©Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, don de Joseph H. Hirshhorn, 1974 / ©Collection Kröller-Müller Museum - Photos Onderwijsgek et Saku Takakusaki CC BY-SA 4.0 via Wikimedia commons ](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_03.webp)  
 Application of the principle of tensegrity by the artist Kenneth Snelson for the aluminium and stainless steel Needle Towers: at left, seen from above, the one built in 1968 in the Hirshhorn Museum garden (Washington, DC, United States); at right, Needle Tower II, assembled in 1969 in the garden of the Kröller-Müller Museum (Otterlo, the Netherlands).  
 Image © Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, don de Joseph H. Hirshhorn, 1974 / Collection Kröller-Müller Museum - Photos Onderwijsgek et Saku Takakusaki CC BY-SA 4.0 via Wikimedia commons
 

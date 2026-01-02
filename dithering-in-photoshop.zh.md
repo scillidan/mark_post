@@ -6,7 +6,7 @@
 
 抖动是一种用于在像素艺术中制作渐变和不同色调的相似颜色的技术，而无需使用广泛的实际颜色。它利用交替颜色的模式来“混合”两种（但很少超过两种）颜色，欺骗肉眼，使人产生看见第三种颜色的错觉。可以使用不同的模式，每种模式有不同的“密度”和风格。相似的技术已在某些使用本·戴点的流行艺术中得到应用。事实上，这种技术在现代打印中仍然被使用；CMYK使用半色调点模式，LCD屏幕的每个像素是由红、绿和蓝的子像素组成。欺骗肉眼总是很有效。
 
-![](https://scillidan.github.io/image_post/dithering-in-photoshop_1.webp)  
+![](https://scillidan.github.io/cdn_image_post/dithering-in-photoshop_1.webp)  
 *使用本·戴点的流行艺术，放大能清楚地看到这些点，缩小则看到粉色的肤色；罗伊·利希滕斯坦的《淹没的女孩》（1963）特写*  
 图片来源：Tim Pendemon，特写：Matt Grommes
 
@@ -14,7 +14,7 @@
 
 如今，使用它的主要原因是出于美学原因。关于这类图形（包括抖动）的一个很好的谈话是由[马克·费拉里](https://www.youtube.com/watch?v=aMcJ1Jvtef0)进行的，他曾参与过许多80年代经典作品，如《幽灵岛的秘密》。不，他不理解为什么仍然有人想要制作像素艺术。但他确实承认这种限制让人变得非常有创造力。
 
-![](https://scillidan.github.io/image_post/dithering-in-photoshop_2.webp)  
+![](https://scillidan.github.io/cdn_image_post/dithering-in-photoshop_2.webp)  
 *渐变中的抖动及其在角色中的使用。*  
 角色由Cure创作
 
@@ -36,7 +36,7 @@
 
 最后，你真的需要知道你在做什么，并且对缩放后的抖动效果有一些感觉。
 
-![](https://scillidan.github.io/image_post/dithering-in-photoshop_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/dithering-in-photoshop_03.webp)  
 您在使用25%画笔时可能遇到的问题（应当了解）。
 
 ## 建议

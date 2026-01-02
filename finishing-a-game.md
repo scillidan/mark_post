@@ -1,6 +1,6 @@
 # [Finishing a Game](https://makegames.tumblr.com/post/1136623767/finishing-a-game)
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_01.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_01.webp)
 
 As I work towards completing [my own game](http://spelunkyworld.com/), I’ve been thinking a lot about finishing projects in general. I’ve noticed that there are a lot of talented developers out there that have trouble finishing games. Truthfully, I’ve left a long trail of unfinished games in my wake… I think everyone has. Not every project is going to pan out, for whatever reason. But if you find yourself consistently backing out of game projects that have a lot of potential, it could be worth taking a step back and examining why this happens.
 
@@ -12,7 +12,7 @@ So without further ado, here is a list of 15 tips for finishing a game:
 
 ## 1\. CHOOSE AN IDEA WITH POTENTIAL
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_02.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_02.webp)
 
 I’ve found that there are three types of games that pique my interest: games I want to make, games I want to have made, and games I’m good at making.
 
@@ -50,7 +50,7 @@ It’s possible, while prototyping, that you discover a mechanic that’s MORE f
 
 ## 6\. CHOOSE GOOD PARTNERS (OR WORK ALONE AS LONG AS YOU CAN)
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_03.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_03.webp)
 
 Finding a good game-making partner is like dating in a lot of ways. You may think that all that matters is skill: “Oh cool, I’m a programmer, and this guy’s an artist… let’s DO THIS!” But no, there are other things to consider, like personality, experience, timing, and mutual interest. Like a romantic relationship, you don’t want to be in a position where either you or the other person is far less dedicated. Test each other out a bit with some smaller projects, because it can really be devastating when a key person drops out after months or years of development.
 
@@ -76,13 +76,13 @@ Feeling stuck? Push forward. Start working on the next level, the next enemy, th
 
 ## 10\. TAKE CARE OF YOUR MENTAL AND PHYSICAL HEALTH
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_04.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_04.webp)
 
 It can be surprisingly hard to take care of yourself when you’re focused on finishing a game. But honestly, you’re only doing your game-making a disservice by not sleeping, exercising, or eating right. At best, you’re preventing yourself from working at your full potential and making it more likely that you’ll quit. Having some doubt about your project is perfectly natural, but getting depression or falling into illness is not. It’s amazing how much you can not want to work on your dream project when your mind and body feels like crap!
 
 11\. STOP MAKING EXCUSES FOR STARTING OVER
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_05.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_05.webp)
 
 _“My code’s a mess. And I’ve learned so much already. If I started over I could do it a lot better and faster, and then the rest of the game will go a lot faster, too!”_
 
@@ -98,7 +98,7 @@ So partway through development you have this great new idea that’s going to bl
 
 13\. CUT. IT. OUT.
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_06.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_06.webp)
 
 Oh shit, you’re way behind schedule. You have all these ideas but they’ll colonize Mars before you have a chance to implement half of them. Oh woe is you… BUT WAIT!
 
@@ -124,7 +124,7 @@ It’s all about the details.
 
 ## AND FINALLY… RELEASE!
 
-![image](https://scillidan.github.io/image_post/finishing-a-game_07.webp)
+![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_07.webp)
 
 Holy crap, you released a game! Congratulations, you just leveled up, big time. Benefits include: increased confidence, a reputation for being able to complete projects, and an understanding of the entire process of game creation! The best part, though, is that you have a nice little game that I can play and enjoy! And I do like playing games, almost as much as I enjoy making them.
 

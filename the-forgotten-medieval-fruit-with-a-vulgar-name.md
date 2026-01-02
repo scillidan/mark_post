@@ -1,6 +1,6 @@
 # [The forgotten medieval fruit with a vulgar name](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 
-![](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_01.webp)
+![](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_01.webp)
 
 **Medieval Europeans were fanatical about a strange fruit that could only be eaten rotten. Then it was forgotten altogether. Why did they love it so much? And why did it disappear?**
 
@@ -14,7 +14,7 @@ The polite, socially acceptable name by which it's currently known is the medlar
 
 And yet, medieval Europe was crazy about this fruit.
 
-![Alamy The fruit made regular appearences in artworks, such as this tapestry from around 1500 (Credit: Alamy)](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_02.webp)  
+![Alamy The fruit made regular appearences in artworks, such as this tapestry from around 1500 (Credit: Alamy)](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_02.webp)  
 The fruit made regular appearences in artworks, such as this tapestry from around 1500 (Credit: Alamy)
 
 The first record of the medlar's existence is a fragment of Greek poetry from the 7th Century BC. Eventually the fruit is thought to have fallen into the hands of the Romans, who brought it to southern France and Britain. In 800AD, Charlemagne included it on a list of plants that were mandatory in the king's many gardens, and nearly 200 years later, the English abbot and writer Ælfric of Eynsham first committed its rather rude sobriquet to the public record.
@@ -31,7 +31,7 @@ Just a few decades after it disappeared, [it was already mysterious to many gree
 
 What was it about this strange fruit that gripped medieval Europe, and why did it disappear?
 
-![Alamy Medlar trees are unfussy and long-lived, with even the most venerable specimens producing hundreds of fruit each year (Credit: Alamy)](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_03.webp)  
+![Alamy Medlar trees are unfussy and long-lived, with even the most venerable specimens producing hundreds of fruit each year (Credit: Alamy)](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_03.webp)  
 Medlar trees are unfussy and long-lived, with even the most venerable specimens producing hundreds of fruit each year (Credit: Alamy)
 
 It's not known for sure where the medlar originated, but some believe that it was domesticated around 3,000 years ago in Western Asia, by the Caspian Sea – where there are many different types to this day.
@@ -50,7 +50,7 @@ When they're first picked, medlars are greenish brown and resemble oddly-shaped 
 
 The exact chemical mechanism involved remains elusive, but broadly, enzymes in the fruit break down complex carbohydrates into [simple sugars such as fructose and glucose](https://www.sciencedirect.com/science/article/abs/pii/S0308814603000979), and it becomes richer in malic acid – the main culprit behind the sour taste of other fruits such as apples. Meanwhile, harsh tannins, which contribute to the bitter astringency of younger red wines, and antioxidants such as ascorbic acid (Vitamin C), are depleted.
 
-![Alamy Medlar jam was a popular Christmas gift in the late 19th century (Credit: Alamy)](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_04.webp)  
+![Alamy Medlar jam was a popular Christmas gift in the late 19th century (Credit: Alamy)](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_04.webp)  
 Medlar jam was a popular Christmas gift in the late 19th century (Credit: Alamy)
 
 The process is known as "bletting", a word made-up by a botanist who noticed there wasn't one in 1839. The result is an ultra-sweet fruit with a complex flavour, like over-ripe dates mingled with lemons, and a slightly grainy texture. "When they are perfectly ripe, they are absolutely delicious to eat on their own," says Jane Steward, who planted 120 medlar trees at her Norfolk orchard in 2015 – possibly the largest collection in the UK.
@@ -61,7 +61,7 @@ A humorous [research paper from 1989](https://www.jstor.org/stable/4255177?seq=1
 
 Then there's the question of how to eat a medlar. In less genteel company, people would have simply held one up to their face and sucked the flesh out directly. On the other hand, in aristocratic circles the fruit was commonly brought to the table along with the cheese course – [still coated in the sawdust in which it was bletted](https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/medlar/) – and scooped out with a spoon. It could also be baked, roasted, made into jelly, [added to tarts](https://britishfoodhistory.com/2017/11/12/forgotten-foods-7-openarses/), or turned into brandy or cider.
 
-![Alamy Medlars were de rigeur at medieval banquets (Credit: Alamy)](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_05.webp)  
+![Alamy Medlars were de rigeur at medieval banquets (Credit: Alamy)](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_05.webp)  
 Medlars were de rigeur at medieval banquets (Credit: Alamy)
 
 Apart from the obvious sexual allusions that can be made with a fruit with so many vulgar nicknames, it's thought that the medlar's quirky need for rotting partly explains why they made it into so many literary works – medieval audiences lapped up the symbolism of a fruit that is rotten before it's ripe. In Chaucer's Canterbury Tales, he draws a comparison with the fruit – "[But if I fare as dooth an open-ers](http://www.librarius.com/canttran/reevtale/reevtale001-044.htm)" – to lament the onset of old age and how he doesn't think men achieve their full ability to lie, boast, covet and become angry until they're weakened and elderly.
@@ -74,7 +74,7 @@ But Steward's experiences in the industry also hint that the awkward extra step 
 
 Today medlar trees can still be found scattered across Europe, sometimes posing as hedges in the countryside or ornamental trees in gardens – they're still there, but they have to be tracked down. Steward's personal favourite was planted at Langley Abbey in Norfolk in around 1820. "It's still pushing out fruit 200 years later – it's breathtakingly beautiful," she says.
 
-![Alamy Each medlar fruit contains four or five large stones (Credit: Alamy)](https://scillidan.github.io/image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_06.webp)  
+![Alamy Each medlar fruit contains four or five large stones (Credit: Alamy)](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_06.webp)  
 Each medlar fruit contains four or five large stones (Credit: Alamy)
 
 But this is not quite the end of the story.

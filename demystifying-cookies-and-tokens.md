@@ -16,7 +16,7 @@ Let’s first begin by trying to understand what web cookies are and how do we u
 
 The following picture explains in very high level how cookies work.
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_01.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_01.webp)  
 _Image 1. High-level definition of how cookies come to life_  
 _Source: Cookieyes. Check source URL from lower left corner of picture_
 
@@ -32,12 +32,12 @@ Cookies are primarily used for:
 
 - **C:\\Users\\\[username\]\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Network**
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_02.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_02.webp)  
 _Image 2. Such files should be expected when browsing to the file path_
 
 Typically you would use the browser’s interface to manage, view or remove cookies.
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_03.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_03.webp)  
 _Image 3. Microsoft Edge cookies in browser settings_
 
 #### Cookie attributes
@@ -58,13 +58,13 @@ Cookies have attributes (_sometimes also referred to as flags_) that are quite i
 
 You can see the cookies of the site you’re browsing by right-clicking and selecting the ‘_Inspect_‘ > ‘_Application_‘ > ‘_Storage_‘ > ‘_Cookies_‘. When you select a row, you can see the values on the bottom of the page (_see the Image 5._)
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_04.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_04.webp)  
 _Image 4. Website ‘Inspect’ will let you see the cookies for that specific website and the cookie consent user has accepted to_
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_05.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_05.webp)  
 _Image 5. Cookie consent is also visible_
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_06.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_06.webp)  
 _Image 6. The result of opening Google Chrome which opens www.google.com website by default and checking active cookies!_
 
 ### Types of cookies
@@ -142,10 +142,10 @@ The protocols I will mention and shortly explain here are **OAuth 2.0** and **Op
 
 **OpenID Connect** extends OAuth 2.0 authorization protocol so that it is also used as an authentication protocol which uses ID token. OpenID Connect sign-in flow is used to acquire ID token which is sent to the application that validates the user identity.
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_07.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_07.webp)  
 _OpenID Connect sign-in flow. Source: Microsoft Learn_
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_08.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_08.webp)  
 _After sign-in flow access token is acquired via OAuth authorization flow. Source: Microsoft Learn_
 
 ### The problem tokens are solving
@@ -176,7 +176,7 @@ Microsoft has two versions of ID tokens and both have different endpoints. The d
 - v1.0 **https://login.microsoftonline.com/common/oauth2/authorize**
 - v2.0 **https://login.microsoftonline.com/common/oauth2/v2.0/authorize**
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_09.webp)
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_09.webp)
 
 _User is signing in to the web application that redirects the user to Entra ID to complete authentication. Once successfully authenticated Entra ID will issue an ID token and sends it to the client (browser). The browser doesn’t try to make sense of the ID token and just sends it over to the web server._
 
@@ -258,19 +258,19 @@ HMACSHA256(
 
 The following screenshot shows the signed JWT on the left side and the Header, Payload and Signature on the right side.
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_10.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_10.webp)  
 _You can see the all the three parts of JSON Web Token in a signed JWT where the different parts are separated by a dot (.)_
 
 ### Example token
 
 Easiest way to review a JWT is going to Microsoft Graph Explorer [https://developer.microsoft.com/en-us/graph/graph-explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) and signing in. After signing in, we run the ‘**GET my profile**‘ query and open the **Access token** tab and copy the token.
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_11.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_11.webp)  
 _Parts of access token redacted for security hygiene reasons_
 
 Then we head over to [https://jwt.ms](https://jwt.ms/) and paste in the token.
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_12.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_12.webp)  
 __Parts of access token redacted for security hygiene reasons__
 
 Below the token we’ve pasted is the token contents decoded and the ‘Claims’ tab that explains the claim acronyms like “oid”, “uti” and so on. From the below token we can deduce the following:
@@ -283,7 +283,7 @@ Below the token we’ve pasted is the token contents decoded and the ‘Claims�
 - **“scp”: “openid profile User.Read email”** lists the API scopes that are the application (Graph Explorer) has requested and what has been consented and what the Microsoft Graph has exposed
 - **“ver”: “1.0”** indicates the token version
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_13.webp)
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_13.webp)
 
 ```
 **Psst!** I noticed that the issuer for all the tokens I acquired was **sts.windows.net**. I assumed it would be **login.microsoftonline.com**. Quick research points to the **accessTokenAcceptedVersion** parameter which seems to control the token issuance endpoint. This needs more testing later to state as a fact, but here’s how it seems to work:  
@@ -292,7 +292,7 @@ Value **1** means also version 1.0 (sts.windows.net)
 Value **2** means version 2.0 (login.microsoftonline.com)
 ```
 
-![](https://scillidan.github.io/image_post/demystifying-cookies-and-tokens_14.webp)  
+![](https://scillidan.github.io/cdn_image_post/demystifying-cookies-and-tokens_14.webp)  
 _App Registration Manifest configuration_
 
 ### Security concerns of JWT
